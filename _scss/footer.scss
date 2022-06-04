@@ -3,7 +3,7 @@
   flex-wrap: wrap;
   align-items: flex-end;
   justify-content: space-between;
-  background-color: $color-cream;
+  background-color: $color-foam;
   border-top: 3px solid $color-text;
   @include media-query($size-m) {
     background-attachment: fixed;
@@ -57,7 +57,7 @@
     text-decoration: underline;
     color: $color-text;
     &:hover, &:focus {
-      color: $color-pink;
+      color: $color-green;
     }
   }
 }

@@ -10,8 +10,8 @@
   &:hover, &:focus {
     outline: none;
     color: $color-text;
-    .logo__x {
-      color: $color-pink;
+    .logo__2020 {
+      color: $color-green;
       transform: rotate(350deg);
     }
   }
@@ -21,16 +21,21 @@
   }
 }
 
-.logo__x {
+.logo__2020 {
   grid-column: 1/2;
   grid-row: 1/2;
-  color: $color-coral;
+  color: $color-blue;
   font-size: calc(21.4375em / 4); // 343px
   line-height: 0.91;
   text-align: right;
   transition-property: color, background-color, border, transform;
   transition-duration: $transition-duration;
   transition-timing-function: $transition-timing-function;
+  img {
+    max-width: 100%;
+    display: block;
+    min-width: 1.875ex;
+  }
 }
 
 .logo__name {

@@ -1,10 +1,10 @@
 .events-day {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-color: $color-cream;
+  background-color: $color-foam;
   border-top: 3px solid $color-text;
   &:nth-child(odd) {
-    background-color: $color-lavender;
+    background-color: $color-green;
   }
   .section {
     display: flex;
@@ -22,13 +22,13 @@
   border: none;
   background: none;
   padding: 0;
-  color: $color-teal;
+  color: $color-blue;
   margin-left: auto;
   display: block;
   cursor: pointer;
   white-space: nowrap;
   &:hover, &:focus {
-    color: $color-pink;
+    color: $color-green;
     outline: none;
   }
 }
