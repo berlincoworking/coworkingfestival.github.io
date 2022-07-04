@@ -28,14 +28,15 @@ a {
   border: 0;
   color: $color-text;
   font-size: 1rem;
-  background-color: $color-green;
+  background-color: $color-blue-light;
   padding: 1rem 2rem;
   text-decoration: none;
   letter-spacing: .05em;
+  line-height: 1.25;
   &:hover, &:focus {
     outline: none;
     color: $color-text;
-    background-color: $color-blue-light;
+    background-color: $color-yellow;
   }
 }
 
