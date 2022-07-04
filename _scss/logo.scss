@@ -1,60 +1,49 @@
 // logo
 .logo {
   display: grid;
-  grid-gap: .5em 1em;
+  grid-gap: 1em;
+  grid-template-columns: 7.25em 1fr;
   align-items: end;
-  font-size: 1rem;
-  max-width: 18rem;
   color: $color-text;
   font-family: sofia-pro-condensed, sans-serif;
+  font-size: 1rem;
+  @include media-query($size-s) {
+    font-size: 1.5rem;
+  }
+  @include media-query($size-m) {
+    font-size: 2.25rem;
+  }
   &:hover, &:focus {
     outline: none;
     color: $color-text;
-    .logo__2020 {
-      color: $color-green;
-      transform: rotate(350deg);
+    .logo__2022 {
+      transform: rotate(10deg);
     }
-  }
-  @include media-query($size-s) {
-    font-size: 2rem;
-    max-width: 42rem;
   }
 }
 
-.logo__2020 {
-  grid-column: 1/2;
-  grid-row: 1/2;
-  color: $color-blue;
-  font-size: calc(21.4375em / 4); // 343px
-  line-height: 0.91;
-  text-align: right;
+.logo__2022 {
   transition-property: color, background-color, border, transform;
   transition-duration: $transition-duration;
   transition-timing-function: $transition-timing-function;
   img {
-    max-width: 100%;
     display: block;
-    min-width: 1.875ex;
+    margin-left: -0.5rem;
   }
 }
 
 .logo__name {
-  grid-column: 2/3;
-  grid-row: 1/2;
-  font-size: calc(7.5em / 4); // 120px
-  line-height: 1.275; // 154px
+  font-size: 1.575em;
+  line-height: 1.275;
   letter-spacing: .025em;
 }
 
 .logo__details {
-  grid-column: 2/3;
-  grid-row: 2/3;
-  font-size: calc(2.5em / 2); // 80px
+  font-size: .625em;
   font-family: sofia-pro, sans-serif;
-  line-height: 1;
-  @include media-query($size-m) {
-    font-size: calc(2.5em / 4); // 40px
-  }
+  line-height: 2.325;
+  text-align: right;
+  white-space: nowrap;
 }
 
 .logo__location {

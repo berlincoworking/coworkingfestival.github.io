@@ -21,15 +21,19 @@
 }
 
 .site-header {
-  padding: 3rem 1rem;
+  padding: 3rem 0;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
   position: relative;
   overflow: hidden;
   @include media-query($size-m) {
     padding: 8rem 2rem;
+    width: 74rem;
+    margin-left: auto;
+    margin-right: auto;
   }
+  
 }
 
 .container {
@@ -109,7 +113,7 @@
     background-repeat: no-repeat;
     background-image:
       url("../img/backgrounds/parallax-green.svg"),
-      url("../img/backgrounds/parallax-tomato.svg"),
+      url("../img/backgrounds/parallax-yellow.svg"),
       url("../img/backgrounds/parallax-lavender.svg");
     background-size: 381px, 182px, 541px;
     background-position: 122% 30rem, 5rem -9rem, 2rem 113%;
