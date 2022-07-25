@@ -1,7 +1,7 @@
 ---
 identifier: coconat
 name: "Coconat"
-image: 
+image: "photo-coconat.jpg"
 logo: "logo-coconat.svg"
 link: "http://www.coconat-space.com"
 address: |
