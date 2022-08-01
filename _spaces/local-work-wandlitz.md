@@ -1,8 +1,8 @@
 ---
 identifier: local-work-wandlitz
 name: "local:work Wandlitz"
-image:
-logo:
+image: "photo-local-work-wandlitz.jpg"
+logo: "logo-local-work-wandlitz.png"
 link: "www.local-work-wandlitz.de "
 address: |
   Prenzlauer Straße 33
