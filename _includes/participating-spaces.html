@@ -1,8 +1,10 @@
 <div class="grid-spaces center mv6">
-  {% for space in site.spaces %}
+  {% assign n = site.spaces | size %}
+  {% assign spaces = site.spaces | sample: n %}
+  {% for space in spaces %}
     <a class="space rotate-10" href="{{ space.link }}" target="_blank">
       <div class="space__logo border-with-shadow">
-        <img src="{{ site.baseurl }}/img/logos/{{ space.logo }}" alt="{{ space.name }} Photo" />
+        <img src="{{ site.baseurl }}/img/logos/{{ space.logo }}" alt="{{ space.name }} Photo"/>
       </div>
       <div class="space__info border-with-shadow">
         <h4>{{ space.name }}</h4>
@@ -12,7 +14,7 @@
       </div>
       {% if space.image %}
         <div class="space__photo">
-          <img src="{{ site.baseurl }}/img/space-photos/{{ space.image }}" alt="{{ space.name }} Photo" />
+          <img src="{{ site.baseurl }}/img/space-photos/{{ space.image }}" alt="{{ space.name }} Photo"/>
         </div>
       {% endif %}
     </a>
