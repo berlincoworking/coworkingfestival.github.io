@@ -1,7 +1,7 @@
 ---
 identifier: jugglehub
 name: "juggleHUB Coworking"
-image: 
+image: "photo-jugglehub.jpg"
 logo: "logo-jugglehub.png"
 link: "http://www.jugglehub.de"
 address: |
