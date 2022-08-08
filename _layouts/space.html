@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<div class="grid-spaces center mv6">
+  <div class="section section--64">
+    <h1>{{page.name}}</h1>
+  </div>
+
+  {% if page.image %}
+    <div>
+      <img src="{{ site.baseurl }}/img/space-photos/{{ page.image }}" alt="{{ page.name }} Photo"/>
+    </div>
+  {% endif %}
+
+  <a class="space rotate-10" href="{{ page.link }}" target="_blank">
+    <div class="space__logo border-with-shadow">
+      <img src="{{ site.baseurl }}/img/logos/{{ page.logo }}" alt="{{ page.name }} Photo"/>
+    </div>
+    <div class="space__info border-with-shadow">
+      <h4>{{ page.name }}</h4>
+      <p class="space__info__small">
+        {{ page.address }}
+      </p>
+    </div>
+  </a>
+</div>

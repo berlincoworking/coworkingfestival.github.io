@@ -69,5 +69,5 @@ defaults:
       path: ""
       type: spaces
     values:
-      layout: default
+      layout: space
       tags: spaces
