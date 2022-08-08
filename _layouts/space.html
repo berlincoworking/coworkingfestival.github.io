@@ -1,28 +1,33 @@
 ---
 layout: default
 ---
-<div class="grid-spaces center mv6">
-  <div class="section section--64">
-    <h1>{{page.name}}</h1>
+
+<div class="container mb6">
+  <div class="section section--64 media-content">
+    <div class="media-content__media">
+      {% if page.image %}
+        <img alt="{{ page.name }} Photo" src="{{ site.baseurl }}/img/space-photos/{{ page.image }}"/>
+      {% endif %}
+    </div>
+    <div class="media-content__content">
+      <div class="border-with-shadow pa4 pa5-l">
+        <h3>{{page.name}}</h3>
+        <p>
+          <div>
+            <img src="{{ site.baseurl }}/img/logos/{{ page.logo }}" alt="{{ page.name }} Photo"/>
+          </div>
+
+        </p>
+        <p>
+          {{ page.address }}
+        </p>
+        <p class="tc mt4">
+          <a class="btn btn--big btn--border-with-shadow" href="{{ page.link }}">
+            {{page.name}}
+            Website
+          </a>
+        </p>
+      </div>
+    </div>
   </div>
-
-  {% if page.image %}
-    <div>
-      <img src="{{ site.baseurl }}/img/space-photos/{{ page.image }}" alt="{{ page.name }} Photo"/>
-    </div>
-  {% endif %}
-
-  <a class="space rotate-10" href="{{ page.link }}" target="_blank">
-    <div class="space__logo border-with-shadow">
-      <img src="{{ site.baseurl }}/img/logos/{{ page.logo }}" alt="{{ page.name }} Photo"/>
-    </div>
-    <div class="space__info border-with-shadow">
-      <h4>{{ page.name }}</h4>
-      <p class="space__info__small">
-        {{ page.address }}
-      </p>
-    </div>
-  </a>
-  <!-- optional content pulled from each space.md -->
-  {{content}}
 </div>
