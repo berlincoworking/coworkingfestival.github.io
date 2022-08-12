@@ -1,7 +1,7 @@
 ---
 identifier: tuesday
 name: "tuesday coworking"
-image: 
+image: "photo-tuesday.jpg"
 logo: "logo-tuesday.png"
 link: "https://www.tuesdaycoworking.com/"
 address: |

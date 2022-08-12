@@ -1,7 +1,7 @@
 ---
 identifier: spree-hub
 name: "Spree-Hub Fürstenwalde"
-image:
+image: "photo-spree-hub.jpg"
 logo: "logo-spree-hub.png"
 link: "https://www.spree-hub.de"
 address: |
