@@ -1,6 +1,6 @@
 ---
 identifier: motion-lab-berlin
-name: "MotionLab Berlin"
+name: "MotionLab.Berlin"
 image: "photo-motionlab.jpg"
 logo: "logo-motionlab.png"
 link: "https://motionlab.berlin"
