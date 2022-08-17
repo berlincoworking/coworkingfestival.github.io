@@ -34,12 +34,9 @@
 
     <div class="event__meta">
       <div class="mr3">
-        Event Language:
         <span class="ttc">
-          {% if event.language %}
-            {{ event.language }}
-          {% else %}
-            n/a
+          {% if event.paid == 'Yes' %}
+            Paid Event
           {% endif %}
         </span>
       </div>
@@ -52,9 +49,6 @@
             <a href="{{ event.fb_url }}" target="_blank"  class="mr3">
           {% endif %}
              Event Site
-             {% if event.paid == 'Yes' %}
-               (Paid Event)
-             {% endif %}
           </a>
         {% endif %}
 

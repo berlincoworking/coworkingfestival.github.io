@@ -9,7 +9,19 @@
 <div class="event border-with-shadow pa4 pa5-l">
   <h4 class="event__details">
     <div class="event__time">
-      <span class="event__weekday">{{ event.weekday_de }},</span>
+      <span class="event__weekday">
+      {% if event.weekday == "Monday" %}
+        Montag
+      {% elsif event.weekday == "Tuesday" %}
+        Dienstag
+      {% elsif event.weekday == "Wednesday" %}
+        Mitwoch
+      {% elsif event.weekday == "Thursday" %}
+        Donnerstag
+      {% else %}
+        Freitag
+      {% endif %},
+      </span>
       {{event.start_time | date: "%R"}}&nbsp;-&nbsp;{{event.end_time | date: "%R"}} Uhr
     </div>
     <div class="event__location">
@@ -34,13 +46,11 @@
 
     <div class="event__meta">
       <div class="mr3">
-        Sprache:
         <span class="ttc">
-          {% if event.language %}
-            {{ event.language }}
-          {% else %}
-            n/a
+          {% if event.paid == 'Yes' %}
+             Nicht kostenlos
           {% endif %}
+
         </span>
       </div>
 
@@ -52,9 +62,6 @@
             <a href="{{ event.fb_url }}" target="_blank"  class="mr3">
           {% endif %}
              Event-Seite
-             {% if event.paid == 'Yes' %}
-               (nicht kostenlos)
-             {% endif %}
           </a>
         {% endif %}
 
