@@ -8,4 +8,6 @@ address: |
   Rollbergstraße 28A
   <br />
   12053 Berlin
+  <br />
+  (please see schedule for days you can visit)
 ---
