@@ -22,7 +22,7 @@ url: "https://www.coworkingfestival.com" # the base hostname & protocol for your
 twitter_username: berlincoworking
 github_username: berlincoworking
 permalink: pretty
-lang: "en_US"
+lang: "en-US"
 twitter:
   username: berlincoworking
   card: summary
