@@ -1,7 +1,7 @@
 ---
 identifier: blok-o
 name: "BLOK O"
-image:
+image: "photo-blok-o.jpg"
 logo: "logo-blok-o.png"
 link: "https://blok-o.de/"
 address: |
