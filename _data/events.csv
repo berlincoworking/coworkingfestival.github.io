@@ -1,9 +1,272 @@
 timestamp,space,event_title_eng,event_desc_eng,event_title_de,event_desc_de,weekday,start_time,end_time,fb_url,url,paid,space_id
-8/16/2022 10:28:58,Project JUNE,BBQ-Evening,4 course BBQ Dinner with the award winning chef Daniel from GUTWALD Griller - please sign-up via email at info@landgasthof-jueterbog.de - cost per person is 39 €,BBQ-Abend,4-Gänge BBQ Event mit dem preisgekrönten Daniel Gutwald vom GUTWALD Grill - bitte anmelden per E-Mail unter info@landgasthof-jueterbog.de - Preis pro Person ist 39 €,Friday,6:00:00 PM,10:00:00 PM,,,Yes,project-june
-8/16/2022 10:30:11,Project JUNE,Daily Breakfast,Kick-Start your Co-Working day with a daily breakfast buffet ,Tägliches Fürhstück,Starte deinen Co-Working Tag mit einem Frühstücksbuffet ,Monday,7:00:00 AM,10:00:00 AM,,,Yes,project-june
-8/16/2022 10:37:31,Project JUNE,Fireside Evening in the Courtyard,"in our courtyard (alternatively in the fireplace room if the weather is bad) we will put on the fire bowl - with some nice music in the background and the restaurant is serving cold and delicious drinks, this will be a wonderful evening. Last train back to Berlin that day is departing 21:36 - alternatively, you can also book a room to stay over night. ",Lagerfeuer im Innenhof,in unserem Innenhof (alternativ im Kaminzimmer bei schlechten Wetter) stellen wir die Feuerschale auf - das Restaurant serviert kalte und leckere Getränke und im Hintergrund spielen wir Musik. Der letzte Zug zurück nach Berlin an diesem Tag fährt um 21:36 Uhr ab - alternativ könnt ihr auch ein Zimmer zum Übernachten buchen.,Wednesday,7:00:00 PM,9:00:00 PM,,,No,project-june
-8/16/2022 10:51:28,Spree-Hub Fürstenwalde,Tag der offenen Tür ,Eine Woche kostenlos das Coworken in Fürstenwalde ausprobieren. Du musst nur deinen Laptop mitbringen und dich vorab auf der Spree-Hub Website anmelden.,Kreatives Schreiben mit Yo-Pa,"Schreibblockaden lösen, Kreative Ideen aus dir herauslocken",Tuesday,2:00:00 PM,3:00:00 PM,,https://spree-hub.com/hier-kannst-du-dich-kostenlos-zum-festival-anmelden/,No,spree-hub
-8/16/2022 14:32:46,Dock3 Lausitz,Get to know Coworking at Dock3: Open House,"On the occasion of the Berlin & Brandenburg Coworking Festival, we will open the doors of our coworking space to all interested parties from September 5-9, 2022. Get to know coworking at Dock3 Lausitz. Cool drinks and coffee are waiting for you.",Lernt Coworking im Dock3 kennen: Tag der offenen Tür,Anlässlich des Berlin & Brandenburg Coworking Festivals öffnen wir vom 5.— 9. September 2022  die Türen unseres Coworking-Bereichs für alle Interessenten. Lernt Coworking im Dock3 Lausitz kennen. Auf Euch warten kühle Getränke und Kaffee. ,Thursday,9:00:00 AM,8:00:00 PM,,https://www.dock3-lausitz.de/wir-sind-dabei-berlin-brandenburg-coworking-festival-2022/,No,dock3-lausitz
+8/29/2022 12:27:09,b+office,Pancake Breakfast with tiny lecture on icebreakers for team events,"You will have the opportunity to come and meet our staff, get a feel for our space, enjoy some yummy pancakes in good company and get some valuable impulses in our mini speech on warm-up exercises for team events, Workshops, and lectures. ",Pancake Frühstück mit Impulsvortrag zu icebreaker-Übungen bei Teamevents,"Wir laden euch ein unseren Space kennenzulernen, ein paar leckere pancakes in guter Gesellschaft zu genießen und wir geben euch ein paar wertvolle Informationen zu Kennenlernübungen in Workshopkontexten, Teamveranstaltungen usw in unserem Impulsvortrag mit.",Friday,10:00:00 AM,12:00:00 PM,,,No,
+8/24/2022 18:00:44,betahaus,Betabreakfast with Metadesign & Digital Rheuma Lab,"Betabreakfast is our weekly breakfast tradition at Betahaus | Kreuzberg connecting entrepreneurs, startups, creatives, and anyone interested in the Berlin startup scene.
+
+Metadesign & Digital Rheuma Lab will take over the stage and present their business ideas.
+
+Afterwards there will be a Q&A round and networking round with breakfast. ",Betabreakfast with Metadesign & Digital Rheuma Lab,"Das Betabreakfast ist unsere wöchentliche Frühstückstradition im Betahaus | Kreuzberg und verbindet Unternehmer, Startups, Kreative und alle, die sich für die Berliner Startup-Szene interessieren.
+
+Metadesign & Digital Rheuma Lab werden die Bühne übernehmen und ihre Geschäftsideen vorstellen.
+
+Anschließend gibt es Q&A und eine Networking-Runde mit Frühstück. ",Thursday,10:00:00 AM,11:00:00 AM,,https://www.betahaus.com/event/betabreakfast,Yes,betahaus
+8/22/2022 18:04:32,C*SPACE Berlin,Monday Movie Nights: 𝙇𝙞𝙠𝙖𝙮 𝙎𝙩𝙖𝙧 - 𝙁𝙧𝙤𝙢 𝙩𝙝𝙚 𝙅𝙪𝙣𝙜𝙡𝙚 𝙩𝙤 𝙩𝙝𝙚 𝙏𝙝𝙖𝙞 𝙊𝙥𝙚𝙧𝙖,"Monday Movie Nights: 𝙇𝙞𝙠𝙖𝙮 𝙎𝙩𝙖𝙧 - 𝙁𝙧𝙤𝙢 𝙩𝙝𝙚 𝙅𝙪𝙣𝙜𝙡𝙚 𝙩𝙤 𝙩𝙝𝙚 𝙏𝙝𝙖𝙞 𝙊𝙥𝙚𝙧𝙖 | Marco Wilms | Thailand | 2013 | 70’
+The documentary is about a 9-year-old jungle child named Manop who dreams of becoming a star in Thailand's most popular folk opera LIKAY. Marco follows the Burmese refugee's journey from his school's chicken coop in the middle of the jungle to the stage to preform with his idol and Thailand's LIKAY superstar CHAIYA MITCHAI.
+Host & moderator: Pisen Sou
+Screening & talk with director Marco Wilms
+The MONDAY MOVIE NIGHTS -ASIAN FILM SERIES is a community initiative by scholarship holders of Konrad-Adenauer-Stiftung (KAS). It is supported by the Asia-Pacific Department of KAS. ",Monday Movie Nights: 𝙇𝙞𝙠𝙖𝙮 𝙎𝙩𝙖𝙧 - 𝙁𝙧𝙤𝙢 𝙩𝙝𝙚 𝙅𝙪𝙣𝙜𝙡𝙚 𝙩𝙤 𝙩𝙝𝙚 𝙏𝙝𝙖𝙞 𝙊𝙥𝙚𝙧𝙖,"Monday Movie Nights: 𝙇𝙞𝙠𝙖𝙮 𝙎𝙩𝙖𝙧 - 𝙁𝙧𝙤𝙢 𝙩𝙝𝙚 𝙅𝙪𝙣𝙜𝙡𝙚 𝙩𝙤 𝙩𝙝𝙚 𝙏𝙝𝙖𝙞 𝙊𝙥𝙚𝙧𝙖 | Marco Wilms | Thailand | 2013 | 70’
+The documentary is about a 9-year-old jungle child named Manop who dreams of becoming a star in Thailand's most popular folk opera LIKAY. Marco follows the Burmese refugee's journey from his school's chicken coop in the middle of the jungle to the stage to preform with his idol and Thailand's LIKAY superstar CHAIYA MITCHAI.
+Host & moderator: Pisen Sou
+Screening & talk with director Marco Wilms
+The MONDAY MOVIE NIGHTS -ASIAN FILM SERIES is a community initiative by scholarship holders of Konrad-Adenauer-Stiftung (KAS). It is supported by the Asia-Pacific Department of KAS. ",Monday,6:30:00 PM,10:00:00 PM,https://www.facebook.com/events/425397016211824/428951745856351/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D,,No,c-space
+8/22/2022 18:39:19,C*SPACE Berlin,SUMMER TEA TIMES with Sudebi Thakurata and Verstraete.,"TEA TIMES are part of C*SPACE Pop-Up Teahouse Summer Program. Every Friday from 24 June to 16 September, 4-7pm we are opening our space for afternoon “TEA TIME”, inviting tea experts, tea enthusiasts and tea lovers to be the hosts.
+For Corworking Festival we are thrilled to welcome tea hosts Sudebi Thakurata, faculty member of Srishti Manipal Institute of Art, Design and Technology in Bangalore and Katelijn Verstraete, Cultural Consultant with long-time work experience in Singapore and China. ",SUMMER TEA TIMES with Sudebi Thakurata and Verstraete.,"TEA TIMES are part of C*SPACE Pop-Up Teahouse Summer Program. Every Friday from 24 June to 16 September, 4-7pm we are opening our space for afternoon “TEA TIME”, inviting tea experts, tea enthusiasts and tea lovers to be the hosts.
+For Corworking Festival we are thrilled to welcome tea hosts Sudebi Thakurata, faculty member of Srishti Manipal Institute of Art, Design and Technology in Bangalore and Katelijn Verstraete, Cultural Consultant with long-time work experience in Singapore and China. ",Friday,4:00:00 PM,7:00:00 PM,https://www.facebook.com/events/1230984971030584?acontext=%7B%22event_action_history%22%3A[%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22create_dialog%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22permalink%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22edit_dialog%22%7D]%2C%22ref_notif_type%22%3Anull%7D,,No,c-space
+8/26/2022 18:47:53,C*SPACE Berlin,Chai Talks: Unfolding Freedom. Hosts: Sudebi Thakurata & Probal Banerjee and Katelijn Verstraete,"On that Pop-Up Teahouse Night we are looking forward to welcome as our hosts:
+Sudebi Thakurata and Probal
+Banerjee, from the Srishti Manipal Institute of Art, Design and Technology in Bangalore and Katelijn Verstraete, Cultural Consultant with long-time work experience between Asia and Europe.
+The three will be hosting a conversation under the title ""Chai Talks: Unfolding Freedom"" - More details on facebook. ",Chai Talks: Unfolding Freedom. Hosts: Sudebi Thakurata & Probal Banerjee and Katelijn Verstraete,"On that Pop-Up Teahouse Night we are looking forward to welcome as our hosts:
+Sudebi Thakurata and Probal
+Banerjee, from the Srishti Manipal Institute of Art, Design and Technology in Bangalore and Katelijn Verstraete, Cultural Consultant with long-time work experience between Asia and Europe.
+The three will be hosting a conversation under the title ""Chai Talks: Unfolding Freedom"" - More details on facebook. ",Friday,7:00:00 PM,10:00:00 PM,https://www.facebook.com/events/1230984971030584?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D,https://www.facebook.com/events/1230984971030584?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D,No,c-space
+8/26/2022 20:50:42,C*SPACE Berlin,A GOOD SHARED BREAK: COMMUNITY YOGA + HEALTHY POTLUCK LUNCH ,"Every Wednesday 12-1 pm it is COMMUNITY YOGA TIME at C*SPACE taught by our community member, yoga teacher and health coach Shawnee Russell (https://worldsbetween.org) (in English). On the occasion of the CO-WORKING Festival, on Wednesday 7th, the yoga session will be followed by a joined potluck lunch (1-2 pm), taking the opportunity for exchange about ways of creating healthy (work) lives and sustainability at the work space.",A GOOD SHARED BREAK: COMMUNITY YOGA + HEALTHY POTLUCK LUNCH ,"Every Wednesday 12-1 pm it is COMMUNITY YOGA TIME at C*SPACE taught by our community member, yoga teacher and health coach Shawnee Russell (https://worldsbetween.org) (in English). On the occasion of the CO-WORKING Festival, on Wednesday 7th, the yoga session will be followed by a joined potluck lunch (1-2 pm), taking the opportunity for exchange about ways of creating healthy (work) lives and sustainability at the work space.",Wednesday,12:00:00 PM,2:00:00 PM,,,No,c-space
+8/25/2022 9:39:11,Coworking Letschin & Coworking Bad Freienwalde,The Coworking Bad Freienwalde introduces itself,"Open Day"", painting competition, treasure hunt, guided meditation (Anja Grossmann), lecture on the Altes Finanzamt (Dr. Schmook), evening get-together with games,",Das Coworking Bad Freienwalde stellt sich vor,"""Tag der offenen Tür"", Malwettbewerb, Schatzsuche, geführte Meditation (Anja Grossmann), Vortrag über das Alte Finanzamt (Dr. Schmook), Abends Get Together mit Spiele,",Tuesday,9:00:00 AM,7:00:00 PM,https://www.facebook.com/coworking.im.oderbruch,https://www.coworking-oderbruch.de/,No,coworking-oderbruch
+8/25/2022 9:46:51,Coworking Letschin & Coworking Bad Freienwalde,Letschin Coworking introduces itself,"""Open Day"", house tour + presentation of STIC business development + presentation of coworkers, reading with Dirk Engelhardt ""Anders Urlauben"", Neusiedlerabend",Coworking Letschin stellt sich vor,"""Tag der offenen Tür"", Hausführung + Vorstellung STIC Wirtschaftsförderung + Vorstellung Coworker:innen, Lesung mit Dirk Engelhardt „Anders Urlauben“, Neusiedlerabend",Thursday,3:00:00 PM,8:00:00 PM,https://www.facebook.com/coworking.im.oderbruch,https://www.coworking-oderbruch.de/,No,coworking-oderbruch
+8/24/2022 8:14:07,Dock3 Lausitz,Get to know Coworking at Dock3 Lausitz,"On the occasion of the Berlin & Brandenburg Coworking Festival, we will open the doors of our coworking area to all interested parties on 08.09.2022. Get to know coworking at Dock3 Lausitz. Cool drinks and coffee are waiting for you.
+From 6 pm we invite to the summer party for founders.",Coworking im Dock3 Lausitz kennenlernen,"Anlässlich des Berlin & Brandenburg Coworking Festivals öffnen wir am 08.09.2022 die Türen unseres Coworking-Bereichs für alle Interessenten. Lernt Coworking im Dock3 Lausitz kennen. Auf Euch warten kühle Getränke und Kaffee.
+Ab 18 Uhr laden wir zum Sommerfest für Gründer ein.",Wednesday,8:00:00 AM,6:00:00 PM,,https://www.dock3-lausitz.de/wir-sind-dabei-berlin-brandenburg-coworking-festival-2022/,No,dock3-lausitz
+8/23/2022 21:44:09,Engelnest,"Digital Nomad Meetup: Taxes, Destinations, Career Advise and the future of Remote Work","Let's enjoy a nomadic afternoon together to talk about favourite nomad topics.
+- Taxation: Legal ways to optimize taxes
+- Where to go next: Bansko, the nomad capital
+- Career advise & how to land your dream remote job
+
+This is an interactive event format where everyone can ask questions and share their own experiences. To kick off the event we have invited three speakers that will give a quick introduction into each topic.
+
+XX, who will share their experiences with low tax jurisdictions and common strategies to keep the authorities happy
+
+Matthias Zeitler, is an ecosystem developer in a rural mountain resort in Bulgaria that is growing into one of the most exciting nomad destinations in Europe.
+
+Yana Maeva, Career Coach and People & Culture leader, will advise on how to envision and achieve a meaningful career goal, land your dream remote job and how to make a career transition.","Digitales Nomaden Meetup: Steuern, Traumziele, Karriere und die Zukunft des ortsunabhängigen Arbeitens","Lassen Sie uns gemeinsam einen nomadischen Nachmittag genießen, um über Lieblingsthemen der Nomaden zu sprechen.
+
+- Besteuerung: Rechtliche Wege zur Steueroptimierung
+- Wohin als nächstes: Bansko, die Hauptstadt der Nomaden
+- Karriereberatung und wie Sie Ihren Traumjob an Land ziehen
+
+Dies ist ein interaktives Veranstaltungsformat, bei dem jeder Fragen stellen und seine eigenen Erfahrungen teilen kann. Zum Auftakt der Veranstaltung haben wir drei Referenten eingeladen, die eine kurze Einführung in jedes Thema geben werden.
+
+XX, die ihre Erfahrungen mit Niedrigsteuer-Jurisdiktionen und gemeinsame Strategien teilen werden, um die Behörden bei Laune zu halten
+
+Matthias Zeitler ist ein Ökosystementwickler in einem ländlichen Bergresort in Bulgarien, das sich zu einem der aufregendsten Nomadenziele in Europa entwickelt.
+
+Yana Maeva, Career Coach und People & Culture Leader, berät Sie, wie Sie sich ein sinnvolles Karriereziel vorstellen und erreichen, Ihren Traumjob an Land ziehen und wie Sie einen Karrierewechsel vollziehen können.",Thursday,5:00:00 PM,7:00:00 PM,https://www.facebook.com/events/831670968211834/,,No,engelnest
+8/29/2022 15:17:59,HeartSpace,Heart-Flow Yoga with Corinna,"Corinna is a yoga & meditation teacher and mindset coach based in Berlin. With her many years of experience, she knows very well how difficult it is to slow down, taking mindful breaks and deep breaths and dropping contagious habits. Her goal is creating a collective guided space for physical and mental practice to finish off the days more relaxed and clear-minded. ",Heart-Flow Yoga mit Corinna,"Corinna ist Yoga- & Meditationslehrerin und Mindset-Coach in Berlin. Mit ihrer langjährigen Erfahrung weiß sie sehr genau, wie schwierig es ist, langsamer zu werden, achtsame Pausen und tiefe Atemzüge einzulegen und ansteckende Gewohnheiten abzulegen. Ihr Ziel ist es, einen kollektiven geführten Raum für körperliche und geistige Übungen zu schaffen, um die Tage entspannter und klarer ausklingen zu lassen.
+Der Session ist für Mitglieder kostenlos, Spenden zwischen 8 und 15 € pro Person werden gerne angenommen.",Thursday,6:00:00 PM,7:30:00 PM,,,No,heartspace
+8/29/2022 15:32:23,HeartSpace,Yoga Bliss with Sebastian,"Sebastian loves yoga, handstand classes, photo and music making, making your body happy, realizing you are not just body, mind, emotions - who are you? - Yoga sessions are all levels - Sebastiaan is here to help you in your practice, adjust postures, remind you to breath, and together enjoy full Bliss. Yoga sequence: Arrive, breath, meditate, slow flow, flow, deeper stretch, story reading, shavasana, ohm.
+The class is free for members, with a donation of €8 to €15 per person gladly accepted.
+
+We will meet at 18:00 for a tour of HeartSpace Coworking (Urbanstrasse 71 - 1.Courtyard - 4.Floor) and then head over to the event space, The Garage @ HeartSpace (Urbanstrasse 70) for yoga.",Yoga Bliss mit Sebastian,"Sebastian liebt Yoga, Handstand-Kurse, Foto- und Musikmachen, seinen Körper glücklich zu machen, zu erkennen, dass man nicht nur Körper, Geist, Emotionen ist – wer bist du? - Yoga-Sitzungen sind auf allen Ebenen möglich - Sebastiaan ist hier, um Ihnen bei Ihrer Praxis zu helfen, Körperhaltungen anzupassen, Sie an das Atmen zu erinnern und gemeinsam die volle Glückseligkeit zu genießen. Yoga-Sequenz: Ankommen, atmen, meditieren, langsam fließen, fließen, tiefer dehnen, Geschichten lesen, Shavasana, Ohm.
+Der Kurs ist für Mitglieder kostenlos, eine Spende von 8 bis 15 € pro Person wird gerne angenommen.",Tuesday,6:00:00 PM,7:30:00 PM,,,No,heartspace
+8/23/2022 21:41:27,kiezbüro,Board Game Night,"Let's play some boardgames!
+
+A great opportunity to meet new people and have a few hours of fun in a relaxed setting.
+Coworking game master Matthias is visiting Berlin and he is bringing some of his favorite games for larger groups.
+
+We will play multiple games in parallel, so you are welcome to bring your own game if you like.",Brettspiel Abend,"Lass uns ein paar Brettspiele spielen!
+
+Eine großartige Gelegenheit, neue Leute kennenzulernen und ein paar Stunden Spaß in einer entspannten Umgebung zu haben.
+
+Coworking Gamemaster Matthias ist zu Besuch in Berlin und bringt einige seiner Lieblingsspiele für größere Gruppen mit.
+
+Wir werden mehrere Spiele parallel spielen, ihr könnt also gerne auch eigene Spiele mitbringen.",Wednesday,8:00:00 PM,11:00:00 PM,https://www.facebook.com/events/861325178181961/,,No,kiezbuero
+8/28/2022 20:25:09,Land.Gut Berlinchen,Tour and diverse activities.,"Varied and exciting days await you at the Coworking Festival!
+
+Here is our schedule:
+- Daily from 05/09/22 - 09/09/22
+From 16Hs: Presentation and tour of Land.Gut Berlinchen.
+From 17:30Hs to 18:30Hs: Diverse activities such as walks around the lake, Horseback riding or bicycle tours to the lake via the Berlinchen airfield.
+- On 06.09:
+From 18:30Hs: Barbecue and music. Happy hour for drinks.
+- On 08.09:
+From 18:30Hs: Campfire and music. Happy hour for drinks.
+
+Become part of our Coworking Festival from 05.09.2022 - 09.09.2022 with great advantages on our Land.Gut.
+- Free day pass for our Co.Working area.
+- 20% discount when booking overnight stays.
+- Free transport from Wittstock (on call).
+
+We look forward to welcoming you!
+Land.Gut Berlinchen Team.
+",Tour und Abwechslungsreiche Aktivitäten.,"Auf dem Coworking Festival erwarten euch abwechslungsreiche und spannende Tage!
+
+Hier unser Programmplan:
+-	Täglich vom 05.09.22 - 09.09.22
+ab 16 Uhr: Präsentation und Tour über unser Land.Gut Berlinchen
+Von 17:30-18.30 Uhr: Abwechslungsreiche Aktivitäten wie Spaziergänge um den See, Pferdereiten oder Fahrradtouren zum See über den Flugplatz Berlinchen.
+-	Am 06.09.:
+ab 18:30: Barbecue und Musik. Happy Hour mit Bier.
+-	Am 08.09.:
+ab 18:30: Lagerfeuer und Musik. Happy Hour mit Bier.
+
+Werdet Teil unseres Coworking Festivals vom 05.- 09.09.2022 und profitiert von tollen
+Vorteilen auf unserem Land.Gut Berlinchen.
+- Kostenlose Tageskarte für unseren Co.Working-Bereich.
+- 20% Rabatt bei der Buchung von Übernachtungen
+- Kostenloser Transport ab Wittstock (Auf Abruf)
+
+Wir freuen uns auf euch!
+Land.Gut Berlinchen Team.
+",Monday,4:00:00 PM,8:30:00 PM,,,No,landgut-berlinchen
+8/28/2022 20:30:07,Land.Gut Berlinchen,"Tour, diverse activities, BBQ and Happy Hour.","Varied and exciting days await you at the Coworking Festival!
+
+Here is our schedule:
+- Daily from 05/09/22 - 09/09/22
+From 16Hs: Presentation and tour of Land.Gut Berlinchen.
+From 17:30Hs to 18:30Hs: Diverse activities such as walks around the lake, Horseback riding or bicycle tours to the lake via the Berlinchen airfield.
+- On 06.09:
+From 18:30Hs: Barbecue and music. Happy hour for drinks.
+- On 08.09:
+From 18:30Hs: Campfire and music. Happy hour for drinks.
+
+Become part of our Coworking Festival from 05.09.2022 - 09.09.2022 with great advantages on our Land.Gut.
+- Free day pass for our Co.Working area.
+- 20% discount when booking overnight stays.
+- Free transport from Wittstock (on call).
+
+We look forward to welcoming you!
+Land.Gut Berlinchen Team.
+","Tour, Abwechslungsreiche Aktivitäten, BBQ und Happy Hour.","Auf dem Coworking Festival erwarten euch abwechslungsreiche und spannende Tage!
+
+Hier unser Programmplan:
+-	Täglich vom 05.09.22 - 09.09.22
+ab 16 Uhr: Präsentation und Tour über unser Land.Gut Berlinchen
+Von 17:30-18.30 Uhr: Abwechslungsreiche Aktivitäten wie Spaziergänge um den See, Pferdereiten oder Fahrradtouren zum See über den Flugplatz Berlinchen.
+-	Am 06.09.:
+ab 18:30: Barbecue und Musik. Happy Hour mit Bier.
+-	Am 08.09.:
+ab 18:30: Lagerfeuer und Musik. Happy Hour mit Bier.
+
+Werdet Teil unseres Coworking Festivals vom 05.- 09.09.2022 und profitiert von tollen
+Vorteilen auf unserem Land.Gut Berlinchen.
+- Kostenlose Tageskarte für unseren Co.Working-Bereich.
+- 20% Rabatt bei der Buchung von Übernachtungen
+- Kostenloser Transport ab Wittstock (Auf Abruf)
+
+Wir freuen uns auf euch!
+Land.Gut Berlinchen Team.
+",Tuesday,4:00:00 PM,8:30:00 PM,,,No,landgut-berlinchen
+8/29/2022 14:49:21,Land.Gut Berlinchen,Tour and diverse activities.,"Varied and exciting days await you at the Coworking Festival!
+
+Here is our schedule:
+- Daily from 05/09/22 - 09/09/22
+From 16Hs: Presentation and tour of Land.Gut Berlinchen.
+From 17:30Hs to 18:30Hs: Diverse activities such as walks around the lake, Horseback riding or bicycle tours to the lake via the Berlinchen airfield.
+- On 06.09:
+From 18:30Hs: Barbecue and music. Happy hour for drinks.
+- On 08.09:
+From 18:30Hs: Campfire and music. Happy hour for drinks.
+
+Become part of our Coworking Festival from 05.09.2022 - 09.09.2022 with great advantages on our Land.Gut.
+- Free day pass for our Co.Working area.
+- 20% discount when booking overnight stays.
+- Free transport from Wittstock (on call).
+
+We look forward to welcoming you!
+Land.Gut Berlinchen Team.
+",Tour und Abwechslungsreiche Aktivitäten.,"Auf dem Coworking Festival erwarten euch abwechslungsreiche und spannende Tage!
+
+Hier unser Programmplan:
+-	Täglich vom 05.09.22 - 09.09.22
+ab 16 Uhr: Präsentation und Tour über unser Land.Gut Berlinchen
+Von 17:30-18.30 Uhr: Abwechslungsreiche Aktivitäten wie Spaziergänge um den See, Pferdereiten oder Fahrradtouren zum See über den Flugplatz Berlinchen.
+-	Am 06.09.:
+ab 18:30: Barbecue und Musik. Happy Hour mit Bier.
+-	Am 08.09.:
+ab 18:30: Lagerfeuer und Musik. Happy Hour mit Bier.
+
+Werdet Teil unseres Coworking Festivals vom 05.- 09.09.2022 und profitiert von tollen
+Vorteilen auf unserem Land.Gut Berlinchen.
+- Kostenlose Tageskarte für unseren Co.Working-Bereich.
+- 20% Rabatt bei der Buchung von Übernachtungen
+- Kostenloser Transport ab Wittstock (Auf Abruf)
+
+Wir freuen uns auf euch!
+Land.Gut Berlinchen Team.
+",Wednesday,4:00:00 PM,8:30:00 PM,,,No,landgut-berlinchen
+8/29/2022 14:51:09,Land.Gut Berlinchen,"Tour, Diverse activities, Campfire and Happy Hour.","Varied and exciting days await you at the Coworking Festival!
+
+Here is our schedule:
+- Daily from 05/09/22 - 09/09/22
+From 16Hs: Presentation and tour of Land.Gut Berlinchen.
+From 17:30Hs to 18:30Hs: Diverse activities such as walks around the lake, Horseback riding or bicycle tours to the lake via the Berlinchen airfield.
+- On 06.09:
+From 18:30Hs: Barbecue and music. Happy hour for drinks.
+- On 08.09:
+From 18:30Hs: Campfire and music. Happy hour for drinks.
+
+Become part of our Coworking Festival from 05.09.2022 - 09.09.2022 with great advantages on our Land.Gut.
+- Free day pass for our Co.Working area.
+- 20% discount when booking overnight stays.
+- Free transport from Wittstock (on call).
+
+We look forward to welcoming you!
+Land.Gut Berlinchen Team.
+","Tour, Abwechslungsreiche Aktivitäten, Lagerfeuer und Happy Hour.","Auf dem Coworking Festival erwarten euch abwechslungsreiche und spannende Tage!
+
+Hier unser Programmplan:
+-	Täglich vom 05.09.22 - 09.09.22
+ab 16 Uhr: Präsentation und Tour über unser Land.Gut Berlinchen
+Von 17:30-18.30 Uhr: Abwechslungsreiche Aktivitäten wie Spaziergänge um den See, Pferdereiten oder Fahrradtouren zum See über den Flugplatz Berlinchen.
+-	Am 06.09.:
+ab 18:30: Barbecue und Musik. Happy Hour mit Bier.
+-	Am 08.09.:
+ab 18:30: Lagerfeuer und Musik. Happy Hour mit Bier.
+
+Werdet Teil unseres Coworking Festivals vom 05.- 09.09.2022 und profitiert von tollen
+Vorteilen auf unserem Land.Gut Berlinchen.
+- Kostenlose Tageskarte für unseren Co.Working-Bereich.
+- 20% Rabatt bei der Buchung von Übernachtungen
+- Kostenloser Transport ab Wittstock (Auf Abruf)
+
+Wir freuen uns auf euch!
+Land.Gut Berlinchen Team.
+",Thursday,4:00:00 PM,8:30:00 PM,,,No,landgut-berlinchen
+8/29/2022 14:53:16,Land.Gut Berlinchen,Tour and diverse activities.,"Varied and exciting days await you at the Coworking Festival!
+
+Here is our schedule:
+- Daily from 05/09/22 - 09/09/22
+From 16Hs: Presentation and tour of Land.Gut Berlinchen.
+From 17:30Hs to 18:30Hs: Diverse activities such as walks around the lake, Horseback riding or bicycle tours to the lake via the Berlinchen airfield.
+- On 06.09:
+From 18:30Hs: Barbecue and music. Happy hour for drinks.
+- On 08.09:
+From 18:30Hs: Campfire and music. Happy hour for drinks.
+
+Become part of our Coworking Festival from 05.09.2022 - 09.09.2022 with great advantages on our Land.Gut.
+- Free day pass for our Co.Working area.
+- 20% discount when booking overnight stays.
+- Free transport from Wittstock (on call).
+
+We look forward to welcoming you!
+Land.Gut Berlinchen Team.
+",Tour und Abwechslungsreiche Aktivitäten.,"Auf dem Coworking Festival erwarten euch abwechslungsreiche und spannende Tage!
+
+Hier unser Programmplan:
+-	Täglich vom 05.09.22 - 09.09.22
+ab 16 Uhr: Präsentation und Tour über unser Land.Gut Berlinchen
+Von 17:30-18.30 Uhr: Abwechslungsreiche Aktivitäten wie Spaziergänge um den See, Pferdereiten oder Fahrradtouren zum See über den Flugplatz Berlinchen.
+-	Am 06.09.:
+ab 18:30: Barbecue und Musik. Happy Hour mit Bier.
+-	Am 08.09.:
+ab 18:30: Lagerfeuer und Musik. Happy Hour mit Bier.
+
+Werdet Teil unseres Coworking Festivals vom 05.- 09.09.2022 und profitiert von tollen
+Vorteilen auf unserem Land.Gut Berlinchen.
+- Kostenlose Tageskarte für unseren Co.Working-Bereich.
+- 20% Rabatt bei der Buchung von Übernachtungen
+- Kostenloser Transport ab Wittstock (Auf Abruf)
+
+Wir freuen uns auf euch!
+Land.Gut Berlinchen Team.
+",Friday,4:00:00 PM,8:30:00 PM,,,No,landgut-berlinchen
 8/17/2022 10:09:52,MotionLab Berlin,Product networking - How to design great products,"Design veteran Rob Hamblen joins us to talk about all things product design, how to conduct world class Sprints and build products using intelligent design.
 
 Join us for some beers and networking with other product people!
@@ -17,18 +280,11 @@ Für Getränke und Erfrischungen ist gesorgt. Wenn Sie diese oder andere unserer
 8/18/2022 10:33:45,MotionLab Berlin,Tour & Beer,"If you are planning to come and spend some time in our coworking space, we're super excited to have you around and would like to invite you for a tour of MotionLab.Berlin. Let's take a time to relax with some beers after work and walk around the lab. We will show you our community, our Workshop areas, machines and get an exclusive look into various products that were developed at MotionLab.Berlin. you've probably seen some in the streets of Berlin! Our tour & beer is happening daily at 5pm. Just check out the link and book a slot for you. In case you're wondering what's special about us, it's EVERYTHING! Check out our pictures, book a tour and find out:)",Tour & Bier,"Wenn du vorhast, einige Zeit in unserem Coworking Space zu verbringen, freuen wir uns sehr auf dich und laden dich zu einer Tour durch das MotionLab.Berlin ein. Lasst uns nach der Arbeit bei einem Bierchen entspannen und durch das Lab spazieren. Wir zeigen euch unsere Community, unsere Workshops, Maschinen und geben euch einen exklusiven Einblick in verschiedene Produkte, die im MotionLab.Berlin entwickelt wurden. Einige davon habt ihr bestimmt schon auf den Straßen Berlins gesehen! Unsere Tour & Bier findet täglich um 17 Uhr statt. Schau dir einfach den Link an und buche einen Platz für dich. Falls du dich fragst, was das Besondere an uns ist, es ist ALLES! Schau dir unsere Bilder an, buche eine Tour und finde es heraus:)",Thursday,5:00:00 PM,6:00:00 PM,,https://calendly.com/motionlabberlin/personal-tour?month=2022-09&date=2022-09-08,No,motion-lab-berlin
 8/18/2022 10:35:32,MotionLab Berlin,Tour & Beer,"If you are planning to come and spend some time in our coworking space, we're super excited to have you around and would like to invite you for a tour of MotionLab.Berlin. Let's take a time to relax with some beers after work and walk around the lab. We will show you our community, our Workshop areas, machines and get an exclusive look into various products that were developed at MotionLab.Berlin. you've probably seen some in the streets of Berlin! Our tour & beer is happening daily at 5pm. Just check out the link and book a slot for you. In case you're wondering what's special about us, it's EVERYTHING! Check out our pictures, book a tour and find out:)",Tour & Bier,"Wenn du vorhast, einige Zeit in unserem Coworking Space zu verbringen, freuen wir uns sehr auf dich und laden dich zu einer Tour durch das MotionLab.Berlin ein. Lasst uns nach der Arbeit bei einem Bierchen entspannen und durch das Lab spazieren. Wir zeigen euch unsere Community, unsere Workshops, Maschinen und geben euch einen exklusiven Einblick in verschiedene Produkte, die im MotionLab.Berlin entwickelt wurden. Einige davon habt ihr bestimmt schon auf den Straßen Berlins gesehen! Unsere Tour & Bier findet täglich um 17 Uhr statt. Schau dir einfach den Link an und buche einen Platz für dich. Falls du dich fragst, was das Besondere an uns ist, es ist ALLES! Schau dir unsere Bilder an, buche eine Tour und finde es heraus:)",Friday,5:00:00 PM,6:00:00 PM,,https://calendly.com/motionlabberlin/personal-tour?month=2022-09&date=2022-09-09,No,motion-lab-berlin
 8/18/2022 11:18:32,MotionLab Berlin,Tour & Beer,"If you are planning to come and spend some time in our coworking space, we're super excited to have you around and would like to invite you for a tour of MotionLab.Berlin. Let's take a time to relax with some beers after work and walk around the lab. We will show you our community, our Workshop areas, machines and get an exclusive look into various products that were developed at MotionLab.Berlin. you've probably seen some in the streets of Berlin! Our tour & beer is happening daily at 5pm. Just check out the link and book a slot for you. In case you're wondering what's special about us, it's EVERYTHING! Check out our pictures, book a tour and find out:)",Tour & Bier,"Wenn du vorhast, einige Zeit in unserem Coworking Space zu verbringen, freuen wir uns sehr auf dich und laden dich zu einer Tour durch das MotionLab.Berlin ein. Lasst uns nach der Arbeit bei einem Bierchen entspannen und durch das Lab spazieren. Wir zeigen euch unsere Community, unsere Workshops, Maschinen und geben euch einen exklusiven Einblick in verschiedene Produkte, die im MotionLab.Berlin entwickelt wurden. Einige davon habt ihr bestimmt schon auf den Straßen Berlins gesehen! Unsere Tour & Bier findet täglich um 17 Uhr statt. Schau dir einfach den Link an und buche einen Platz für dich. Falls du dich fragst, was das Besondere an uns ist, es ist ALLES! Schau dir unsere Bilder an, buche eine Tour und finde es heraus:)",Monday,5:00:00 PM,6:00:00 PM,,https://calendly.com/motionlabberlin/personal-tour?month=2022-09&date=2022-09-05,No,motion-lab-berlin
-8/22/2022 18:04:32,C*SPACE Berlin gGmbH,Monday Movie Nights: 𝙇𝙞𝙠𝙖𝙮 𝙎𝙩𝙖𝙧 - 𝙁𝙧𝙤𝙢 𝙩𝙝𝙚 𝙅𝙪𝙣𝙜𝙡𝙚 𝙩𝙤 𝙩𝙝𝙚 𝙏𝙝𝙖𝙞 𝙊𝙥𝙚𝙧𝙖,"Monday Movie Nights: 𝙇𝙞𝙠𝙖𝙮 𝙎𝙩𝙖𝙧 - 𝙁𝙧𝙤𝙢 𝙩𝙝𝙚 𝙅𝙪𝙣𝙜𝙡𝙚 𝙩𝙤 𝙩𝙝𝙚 𝙏𝙝𝙖𝙞 𝙊𝙥𝙚𝙧𝙖 | Marco Wilms | Thailand | 2013 | 70’
-The documentary is about a 9-year-old jungle child named Manop who dreams of becoming a star in Thailand's most popular folk opera LIKAY. Marco follows the Burmese refugee's journey from his school's chicken coop in the middle of the jungle to the stage to preform with his idol and Thailand's LIKAY superstar CHAIYA MITCHAI.
-Host & moderator: Pisen Sou
-Screening & talk with director Marco Wilms
-The MONDAY MOVIE NIGHTS -ASIAN FILM SERIES is a community initiative by scholarship holders of Konrad-Adenauer-Stiftung (KAS). It is supported by the Asia-Pacific Department of KAS. ",Monday Movie Nights: 𝙇𝙞𝙠𝙖𝙮 𝙎𝙩𝙖𝙧 - 𝙁𝙧𝙤𝙢 𝙩𝙝𝙚 𝙅𝙪𝙣𝙜𝙡𝙚 𝙩𝙤 𝙩𝙝𝙚 𝙏𝙝𝙖𝙞 𝙊𝙥𝙚𝙧𝙖,"Monday Movie Nights: 𝙇𝙞𝙠𝙖𝙮 𝙎𝙩𝙖𝙧 - 𝙁𝙧𝙤𝙢 𝙩𝙝𝙚 𝙅𝙪𝙣𝙜𝙡𝙚 𝙩𝙤 𝙩𝙝𝙚 𝙏𝙝𝙖𝙞 𝙊𝙥𝙚𝙧𝙖 | Marco Wilms | Thailand | 2013 | 70’
-The documentary is about a 9-year-old jungle child named Manop who dreams of becoming a star in Thailand's most popular folk opera LIKAY. Marco follows the Burmese refugee's journey from his school's chicken coop in the middle of the jungle to the stage to preform with his idol and Thailand's LIKAY superstar CHAIYA MITCHAI.
-Host & moderator: Pisen Sou
-Screening & talk with director Marco Wilms
-The MONDAY MOVIE NIGHTS -ASIAN FILM SERIES is a community initiative by scholarship holders of Konrad-Adenauer-Stiftung (KAS). It is supported by the Asia-Pacific Department of KAS. ",Monday,6:30:00 PM,10:00:00 PM,https://www.facebook.com/events/425397016211824/428951745856351/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D,,No,c-space
-8/22/2022 18:39:19,C*SPACE Berlin gGmbH,SUMMER TEA TIMES with Sudebi Thakurata and Verstraete.,"TEA TIMES are part of C*SPACE Pop-Up Teahouse Summer Program. Every Friday from 24 June to 16 September, 4-7pm we are opening our space for afternoon “TEA TIME”, inviting tea experts, tea enthusiasts and tea lovers to be the hosts.
-For Corworking Festival we are thrilled to welcome tea hosts Sudebi Thakurata, faculty member of Srishti Manipal Institute of Art, Design and Technology in Bangalore and Katelijn Verstraete, Cultural Consultant with long-time work experience in Singapore and China. ",SUMMER TEA TIMES with Sudebi Thakurata and Verstraete.,"TEA TIMES are part of C*SPACE Pop-Up Teahouse Summer Program. Every Friday from 24 June to 16 September, 4-7pm we are opening our space for afternoon “TEA TIME”, inviting tea experts, tea enthusiasts and tea lovers to be the hosts.
-For Corworking Festival we are thrilled to welcome tea hosts Sudebi Thakurata, faculty member of Srishti Manipal Institute of Art, Design and Technology in Bangalore and Katelijn Verstraete, Cultural Consultant with long-time work experience in Singapore and China. ",Friday,4:00:00 PM,7:00:00 PM,https://www.facebook.com/events/1230984971030584?acontext=%7B%22event_action_history%22%3A[%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22create_dialog%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22permalink%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22edit_dialog%22%7D]%2C%22ref_notif_type%22%3Anull%7D,,No,c-space
+8/29/2022 12:28:53,MotionLab Berlin,Community Breakfast,"Dear community!! At Monday 06.09 we will have a Breakfast community at MotionLab.Berlin to celebrate the Co-working Festival week! It´´s a good chance to bring your friends, work together and have a nice start of the week ! This breakfast will be also open for all our visitors from the Co-working Festival!! Please register here to have a better organisation of our Breakfast :)",Gemeinschaftsfrühstück,"Liebe Community!!! Am Montag, den 06.09. veranstalten wir im MotionLab.Berlin ein gemeinsames Frühstück, um die Co-Working Festival Woche zu feiern! Es ist eine gute Gelegenheit, Freunde mitzubringen, gemeinsam zu arbeiten und einen schönen Start in die Woche zu haben! Dieses Frühstück wird auch für alle Besucher des Co-working Festivals offen sein! Bitte melde dich hier an, um eine bessere Organisation des Frühstücks zu gewährleisten :)
+",Monday,10:30:00 AM,12:00:00 PM,,https://www.eventbrite.de/e/breakfast-community-tickets-409817754937,No,
+8/16/2022 10:28:58,Project JUNE,BBQ-Evening,4 course BBQ Dinner with the award winning chef Daniel from GUTWALD Griller - please sign-up via email at info@landgasthof-jueterbog.de - cost per person is 39 €,BBQ-Abend,4-Gänge BBQ Event mit dem preisgekrönten Daniel Gutwald vom GUTWALD Grill - bitte anmelden per E-Mail unter info@landgasthof-jueterbog.de - Preis pro Person ist 39 €,Friday,6:00:00 PM,10:00:00 PM,,,Yes,project-june
+8/16/2022 10:30:11,Project JUNE,Daily Breakfast,Kick-Start your Co-Working day with a daily breakfast buffet ,Tägliches Fürhstück,Starte deinen Co-Working Tag mit einem Frühstücksbuffet ,Monday,7:00:00 AM,10:00:00 AM,,,Yes,project-june
+8/16/2022 10:37:31,Project JUNE,Fireside Evening in the Courtyard,"in our courtyard (alternatively in the fireplace room if the weather is bad) we will put on the fire bowl - with some nice music in the background and the restaurant is serving cold and delicious drinks, this will be a wonderful evening. Last train back to Berlin that day is departing 21:36 - alternatively, you can also book a room to stay over night. ",Lagerfeuer im Innenhof,in unserem Innenhof (alternativ im Kaminzimmer bei schlechten Wetter) stellen wir die Feuerschale auf - das Restaurant serviert kalte und leckere Getränke und im Hintergrund spielen wir Musik. Der letzte Zug zurück nach Berlin an diesem Tag fährt um 21:36 Uhr ab - alternativ könnt ihr auch ein Zimmer zum Übernachten buchen.,Wednesday,7:00:00 PM,9:00:00 PM,,,No,project-june
 8/23/2022 21:38:33,Space Shack Coworking,Coworking Best Practices in Tech and User Experience,"How can coworking operations improve using technology, and how can coworking operators benefit from it?
 
 To answer this, we’ve brought together a specialist panel who will share four different perspectives on best practices in technology and user experiences in coworking, at our interactive event held during Berlin Coworking Festival 2022 at Spaceshack Coworking on Tuesday 6th September, 2-5pm CEST.
@@ -62,43 +318,13 @@ Matthias Zeitler, Coworking Bansko: Wie leistungsstarke No-Code-Tools Ihre Proze
 
 Nach einer kurzen Einführung in diese Themen werden unsere Referenten an einer Gruppendiskussion teilnehmen, in der Sie die Möglichkeit haben, Fragen zu stellen und Ihre Gedanken interaktiv zum Einsatz von Technologie in Coworking Spaces auszutauschen.
 Diese kostenlose Veranstaltung steht allen offen.
-Registrieren Sie Ihre Teilnahme hier: https://lets-meet.org/reg/d7712fedf180e85874",Tuesday,3:00:00 PM,6:00:00 PM,https://www.facebook.com/events/1010386579639857/,,No,space-shack
-8/23/2022 21:41:27,kiezbüro,Board Game Night,"Let's play some boardgames!
+Registrieren Sie Ihre Teilnahme hier: https://lets-meet.org/reg/d7712fedf180e85874",Tuesday,3:00:00 PM,6:00:00 PM,https://www.facebook.com/events/1010386579639857/,https://lets-meet.org/reg/d7712fedf180e85874,No,space-shack
+8/16/2022 10:51:28,Spree-Hub Fürstenwalde,Tag der offenen Tür ,Eine Woche kostenlos das Coworken in Fürstenwalde ausprobieren. Du musst nur deinen Laptop mitbringen und dich vorab auf der Spree-Hub Website anmelden.,Kreatives Schreiben mit Yo-Pa,"Schreibblockaden lösen, Kreative Ideen aus dir herauslocken",Tuesday,2:00:00 PM,3:00:00 PM,,https://spree-hub.com/hier-kannst-du-dich-kostenlos-zum-festival-anmelden/,No,spree-hub
+8/29/2022 11:35:48,Starblock B2,open.COLab.day,"""You have the idea and we have the technology""
+Every Wednesday, the COLab (Creative Open Lab) opens its doors to anyone who is interested in trying out the high-tech machines in the makerspace of Startblock B2 for free. Among other things, laser cutters, 3D printers, sewing machines and the COLab experts will be at your disposal. No matter if you do have a concrete idea or just want to sneak in and get inspired by the start-up community around you, everyone is welcome to try out the machines starting 10am till 6pm.",open.COLab.day,"""Ihr habt die Idee und wir haben die Technik""
+Jeden Mittwoch öffnet das COLab ( Cretaive Open Lab) seine Türen für alle, die Lust haben sich an den HighTech Maschinen des Mitmachbereichs im Startblock B2 auszuprobieren. Zur Verfügung stehen euch unter anderem 3D-Drucker, Lasercutter, Nähmaschinen und die dazugehörigen Expert:innen; und das alles for free! Ganz egal ob mit konkreter Idee oder ohne, von 10-16 Uhr ist jede/r willkommen, sich auszuprobieren oder von der (Start-up) Community  inspirieren zu lassen.",Wednesday,10:00:00 AM,6:00:00 PM,https://www.facebook.com/events/674345663887031?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D,https://www.startuprevier.de/index.php/event/open-colab-day-komm-mit-deiner-idee-ins-colab/,No,startblok-b2
+8/30/2022 11:19:38,MotionLab Berlin,Meet your hardware startup co-founder,"We hear it over and over again: You got a great idea, want to bring it to reality and you are looking for a co-founder but you don't know who to take this career-defining step with, nor do you know where to even start!
 
-A great opportunity to meet new people and have a few hours of fun in a relaxed setting.
-Coworking game master Matthias is visiting Berlin and he is bringing some of his favorite games for larger groups.
+Trust us, we got you covered. We not only have the perfect hardware space and program for you, but also the perfect opportunity to find your future startup soulmate.",Trefft deine Hardware-Startup-Mitbegründer,"Wir hören es immer wieder: Du hast eine großartige Idee, wisst du verwirklichen und suchst einen Mitgründer, aber Sie wissen nicht, mit wem Sie diesen karriereentscheidenden Schritt tun sollen, und Sie wissen auch nicht, wo Sie überhaupt anfangen sollen!
 
-We will play multiple games in parallel, so you are welcome to bring your own game if you like.",Brettspiel Abend,"Lass uns ein paar Brettspiele spielen!
-
-Eine großartige Gelegenheit, neue Leute kennenzulernen und ein paar Stunden Spaß in einer entspannten Umgebung zu haben.
-
-Coworking Gamemaster Matthias ist zu Besuch in Berlin und bringt einige seiner Lieblingsspiele für größere Gruppen mit.
-
-Wir werden mehrere Spiele parallel spielen, ihr könnt also gerne auch eigene Spiele mitbringen.",Wednesday,8:00:00 PM,11:00:00 PM,https://www.facebook.com/events/861325178181961/,,No,kiezbuero
-8/23/2022 21:44:09,Engelnest,"Digital Nomad Meetup: Taxes, Destinations, Career Advise and the future of Remote Work","Let's enjoy a nomadic afternoon together to talk about favourite nomad topics.
-- Taxation: Legal ways to optimize taxes
-- Where to go next: Bansko, the nomad capital
-- Career advise & how to land your dream remote job
-
-This is an interactive event format where everyone can ask questions and share their own experiences. To kick off the event we have invited three speakers that will give a quick introduction into each topic.
-
-XX, who will share their experiences with low tax jurisdictions and common strategies to keep the authorities happy
-
-Matthias Zeitler, is an ecosystem developer in a rural mountain resort in Bulgaria that is growing into one of the most exciting nomad destinations in Europe.
-
-Yana Maeva, Career Coach and People & Culture leader, will advise on how to envision and achieve a meaningful career goal, land your dream remote job and how to make a career transition.","Digitales Nomaden Meetup: Steuern, Traumziele, Karriere und die Zukunft des ortsunabhängigen Arbeitens","Lassen Sie uns gemeinsam einen nomadischen Nachmittag genießen, um über Lieblingsthemen der Nomaden zu sprechen.
-
-- Besteuerung: Rechtliche Wege zur Steueroptimierung
-- Wohin als nächstes: Bansko, die Hauptstadt der Nomaden
-- Karriereberatung und wie Sie Ihren Traumjob an Land ziehen
-
-Dies ist ein interaktives Veranstaltungsformat, bei dem jeder Fragen stellen und seine eigenen Erfahrungen teilen kann. Zum Auftakt der Veranstaltung haben wir drei Referenten eingeladen, die eine kurze Einführung in jedes Thema geben werden.
-
-XX, die ihre Erfahrungen mit Niedrigsteuer-Jurisdiktionen und gemeinsame Strategien teilen werden, um die Behörden bei Laune zu halten
-
-Matthias Zeitler ist ein Ökosystementwickler in einem ländlichen Bergresort in Bulgarien, das sich zu einem der aufregendsten Nomadenziele in Europa entwickelt.
-
-Yana Maeva, Career Coach und People & Culture Leader, berät Sie, wie Sie sich ein sinnvolles Karriereziel vorstellen und erreichen, Ihren Traumjob an Land ziehen und wie Sie einen Karrierewechsel vollziehen können.",Thursday,5:00:00 PM,7:00:00 PM,https://www.facebook.com/events/831670968211834/,,No,engelnest
-8/24/2022 8:14:07,Dock3 Lausitz,Get to know Coworking at Dock3 Lausitz,"On the occasion of the Berlin & Brandenburg Coworking Festival, we will open the doors of our coworking area to all interested parties on 08.09.2022. Get to know coworking at Dock3 Lausitz. Cool drinks and coffee are waiting for you.
-From 6 pm we invite to the summer party for founders.",Coworking im Dock3 Lausitz kennenlernen,"Anlässlich des Berlin & Brandenburg Coworking Festivals öffnen wir am 08.09.2022 die Türen unseres Coworking-Bereichs für alle Interessenten. Lernt Coworking im Dock3 Lausitz kennen. Auf Euch warten kühle Getränke und Kaffee.
-Ab 18 Uhr laden wir zum Sommerfest für Gründer ein.",Wednesday,8:00:00 AM,6:00:00 PM,,https://www.dock3-lausitz.de/wir-sind-dabei-berlin-brandenburg-coworking-festival-2022/,No,dock3-lausitz
+Vertrauen Sie uns, wir haben alles für Sie. Wir haben nicht nur den perfekten Hardware-Raum und das perfekte Programm für dich, sondern auch die perfekte Gelegenheit, deinen zukünftigen Startup-Soulmate zu finden.",Wednesday,6:00:00 PM,8:00:00 PM,,https://www.eventbrite.de/e/meet-your-hardware-startup-co-founder-tickets-403880556617?aff=ebdsoporgprofile,No,motion-lab-berlin
