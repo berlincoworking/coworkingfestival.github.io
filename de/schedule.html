@@ -2,7 +2,9 @@
 layout: default-de
 title: Veranstaltungskalender
 lang: de-DE
-description: 'Quer durch Berlin finden Events statt rund um Technologie, Marketing, Business, Community-Building, und vielem mehr. Ganz egal, ob du Workshops besuchen, dich mit anderen Experten in deinem Gebiet, oder einfach nur deine neuen Coworker suchst: Hier wirst du fündig. (Der Kalender ist noch im Aufbau und es kommen täglich Events hinzu.)'
+description: 'Quer durch Berlin finden Events statt rund um Technologie, Marketing, Business, Community-Building, und
+vielem mehr. Ganz egal, ob du Workshops besuchen, dich mit anderen Experten in deinem Gebiet, oder einfach nur deine
+neuen Coworker suchst: Hier wirst du fündig. (Der Kalender ist noch im Aufbau und es kommen täglich Events hinzu.)'
 ---
 
 <div class="container">
@@ -31,9 +33,9 @@ description: 'Quer durch Berlin finden Events statt rund um Technologie, Marketi
     <div class="section section--64 mb5">
       <h2>Montag, 5. September</h2>
       {% for event in sorted %}
-        {% if event.weekday == "Monday" %}
-          {% include event-de.html %}
-        {% endif %}
+      {% if event.weekday == "Monday" %}
+      {% include event-de.html %}
+      {% endif %}
       {% endfor %}
     </div>
   </div>
@@ -44,9 +46,9 @@ description: 'Quer durch Berlin finden Events statt rund um Technologie, Marketi
     <div class="section section--64 mb5">
       <h2>Dienstag, 6. September</h2>
       {% for event in sorted %}
-        {% if event.weekday == "Tuesday" %}
-          {% include event-de.html %}
-        {% endif %}
+      {% if event.weekday == "Tuesday" %}
+      {% include event-de.html %}
+      {% endif %}
       {% endfor %}
     </div>
   </div>
@@ -57,9 +59,9 @@ description: 'Quer durch Berlin finden Events statt rund um Technologie, Marketi
     <div class="section section--64 mb5">
       <h2>Mittwoch, 7. September</h2>
       {% for event in sorted %}
-        {% if event.weekday == "Wednesday" %}
-          {% include event-de.html %}
-        {% endif %}
+      {% if event.weekday == "Wednesday" %}
+      {% include event-de.html %}
+      {% endif %}
       {% endfor %}
     </div>
   </div>
@@ -70,9 +72,9 @@ description: 'Quer durch Berlin finden Events statt rund um Technologie, Marketi
     <div class="section section--64 mb5">
       <h2>Donnerstag, 8. September</h2>
       {% for event in sorted %}
-        {% if event.weekday == "Thursday" %}
-          {% include event-de.html %}
-        {% endif %}
+      {% if event.weekday == "Thursday" %}
+      {% include event-de.html %}
+      {% endif %}
       {% endfor %}
     </div>
   </div>
@@ -83,20 +85,10 @@ description: 'Quer durch Berlin finden Events statt rund um Technologie, Marketi
     <div class="section section--64 mb5">
       <h2>Freitag, 9. September</h2>
       {% for event in sorted %}
-        {% if event.weekday == "Friday" %}
-          {% include event-de.html %}
-        {% endif %}
+      {% if event.weekday == "Friday" %}
+      {% include event-de.html %}
+      {% endif %}
       {% endfor %}
     </div>
-  </div>
-</div>
-
-
-<div class="container">
-  <div class="section section--64 mb6 mt6">
-    <h2>Wochenend-Event, 10. September</h2>
-    <a href="https://www.tuesdaycoworking.com/events/football-fives-2022/" target="_blank">
-      <img alt="Coworking Football Tournament September 10" src="/img/coworking-football-tournament.png">
-    </a>
   </div>
 </div>

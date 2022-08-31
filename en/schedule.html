@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Schedule
-description: "Across Berlin you’ll find events focused on technology, marketing, business operations, community building, and more. Whether you want to visit workshops, learn from other professionals, or just want to find your new coworkers, this is where you can see what’s happening. (The Schedule is still in progress and we add events daily.)"
+description: "Across Berlin you’ll find events focused on technology, marketing, business operations, community
+building, and more. Whether you want to visit workshops, learn from other professionals, or just want to find your new
+coworkers, this is where you can see what’s happening. (The Schedule is still in progress and we add events daily.)"
 
 ---
 
@@ -35,9 +37,9 @@ description: "Across Berlin you’ll find events focused on technology, marketin
         </a>
       </h2>
       {% for event in sorted %}
-        {% if event.weekday == "Monday" %}
-          {% include event.html %}
-        {% endif %}
+      {% if event.weekday == "Monday" %}
+      {% include event.html %}
+      {% endif %}
       {% endfor %}
     </div>
   </div>
@@ -50,9 +52,9 @@ description: "Across Berlin you’ll find events focused on technology, marketin
         <a href="#tuesday">Tuesday, September 6</a>
       </h2>
       {% for event in sorted %}
-        {% if event.weekday == "Tuesday" %}
-          {% include event.html %}
-        {% endif %}
+      {% if event.weekday == "Tuesday" %}
+      {% include event.html %}
+      {% endif %}
       {% endfor %}
     </div>
   </div>
@@ -65,9 +67,9 @@ description: "Across Berlin you’ll find events focused on technology, marketin
         <a href="#wednesday">Wednesday, September 7</a>
       </h2>
       {% for event in sorted %}
-        {% if event.weekday == "Wednesday" %}
-          {% include event.html %}
-        {% endif %}
+      {% if event.weekday == "Wednesday" %}
+      {% include event.html %}
+      {% endif %}
       {% endfor %}
     </div>
   </div>
@@ -80,9 +82,9 @@ description: "Across Berlin you’ll find events focused on technology, marketin
         <a href="#thursday">Thursday, September 8</a>
       </h2>
       {% for event in sorted %}
-        {% if event.weekday == "Thursday" %}
-          {% include event.html %}
-        {% endif %}
+      {% if event.weekday == "Thursday" %}
+      {% include event.html %}
+      {% endif %}
       {% endfor %}
     </div>
   </div>
@@ -95,19 +97,10 @@ description: "Across Berlin you’ll find events focused on technology, marketin
         <a href="#friday">Friday, September 9</a>
       </h2>
       {% for event in sorted %}
-        {% if event.weekday == "Friday" %}
-          {% include event.html %}
-        {% endif %}
+      {% if event.weekday == "Friday" %}
+      {% include event.html %}
+      {% endif %}
       {% endfor %}
     </div>
-  </div>
-</div>
-
-<div class="container">
-  <div class="section section--64 mb6 mt6">
-    <h2>Special Weekend Event, September 10</h2>
-    <a href="https://www.tuesdaycoworking.com/events/football-fives-2022/" target="_blank">
-      <img alt="Coworking Football Tournament September 10" src="/img/coworking-football-tournament.png">
-    </a>
   </div>
 </div>
