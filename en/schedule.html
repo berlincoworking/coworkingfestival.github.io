@@ -24,7 +24,7 @@ description: "Across Berlin and Brandenburg you’ll find events focused on tech
   </div>
 </div>
 
-{% assign sorted = site.data.events | sort: 'start_datetime' %}
+{% assign sorted = site.data.events | add_start_datetime: site.content.events_meta | sort: 'start_datetime' %}
 
 <div class="events-day">
   <div class="container">
