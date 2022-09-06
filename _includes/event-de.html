@@ -55,7 +55,7 @@
       </div>
 
       <div>
-        {% if event.url || event.fb_url %}
+        {% if event.url or event.fb_url %}
           {% if event.url %}
             <a href="{{ event.url }}" target="_blank" class="mr3">
           {% elsif event.fb_url %}
