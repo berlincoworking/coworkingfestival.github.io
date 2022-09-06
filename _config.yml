@@ -33,10 +33,6 @@ social:
     - https://www.coworkingfestival.com/
     - https://twitter.com/berlincoworking
     - https://www.instagram.com/berlincoworking/
-content:
-  events_meta:
-    start_date: "2022-09-05"
-    days: "Monday Tuesday Wednesday Thursday Friday"
 
 # Build settings
 markdown: kramdown
