@@ -29,7 +29,11 @@ description: 'Quer durch Berlin & Brandenburg finden Events statt rund um Techno
 <div class="events-day">
   <div class="container">
     <div class="section section--64 mb5">
-      <h2>Montag, 5. September</h2>
+      <h2>
+        <a href="#montag" id="montag">
+          Montag, 5. September
+        </a>
+      </h2>
       {% for event in sorted %}
       {% if event.weekday == "Monday" %}
       {% include event-de.html %}
@@ -42,7 +46,11 @@ description: 'Quer durch Berlin & Brandenburg finden Events statt rund um Techno
 <div class="events-day">
   <div class="container">
     <div class="section section--64 mb5">
-      <h2>Dienstag, 6. September</h2>
+      <h2>
+        <a href="#dienstag" id="dienstag">
+          Dienstag, 6. September
+        </a>
+      </h2>
       {% for event in sorted %}
       {% if event.weekday == "Tuesday" %}
       {% include event-de.html %}
@@ -55,7 +63,11 @@ description: 'Quer durch Berlin & Brandenburg finden Events statt rund um Techno
 <div class="events-day">
   <div class="container">
     <div class="section section--64 mb5">
-      <h2>Mittwoch, 7. September</h2>
+      <h2>
+        <a href="#mittwoch" id="mittwoch">
+          Mittwoch, 7. September
+        </a>
+      </h2>
       {% for event in sorted %}
       {% if event.weekday == "Wednesday" %}
       {% include event-de.html %}
@@ -68,7 +80,11 @@ description: 'Quer durch Berlin & Brandenburg finden Events statt rund um Techno
 <div class="events-day">
   <div class="container">
     <div class="section section--64 mb5">
-      <h2>Donnerstag, 8. September</h2>
+      <h2>
+        <a href="#donnerstag" id="donnerstag">
+          Donnerstag, 8. September
+        </a>
+      </h2>
       {% for event in sorted %}
       {% if event.weekday == "Thursday" %}
       {% include event-de.html %}
@@ -81,7 +97,9 @@ description: 'Quer durch Berlin & Brandenburg finden Events statt rund um Techno
 <div class="events-day">
   <div class="container">
     <div class="section section--64 mb5">
-      <h2>Freitag, 9. September</h2>
+      <h2>
+        <a href="#freitag" id="freitag">Freitag, 9. September</a>
+      </h2>
       {% for event in sorted %}
       {% if event.weekday == "Friday" %}
       {% include event-de.html %}
