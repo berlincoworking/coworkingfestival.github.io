@@ -16,13 +16,13 @@
   &:hover, &:focus {
     outline: none;
     color: $color-text;
-    .logo__2022 {
+    .logo__2023 {
       transform: rotate(10deg);
     }
   }
 }
 
-.logo__2022 {
+.logo__2023 {
   transition-property: color, background-color, border, transform;
   transition-duration: $transition-duration;
   transition-timing-function: $transition-timing-function;
