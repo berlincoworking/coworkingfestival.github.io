@@ -2,7 +2,7 @@
   {% assign n = site.spaces | size %}
   {% assign spaces = site.spaces | sample: n %}
   {% for space in spaces %}
-    <a class="space rotate-10" href="{{ space.link }}" target="_blank">
+    <a class="space rotate-10" href="{{ space.url }}" target="_blank">
       <div class="space__logo border-with-shadow">
         <img src="{{ site.baseurl }}/img/logos/{{ space.logo }}" alt="{{ space.name }} Photo"/>
       </div>
