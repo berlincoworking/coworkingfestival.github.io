@@ -6,21 +6,25 @@ layout: default
   <div class="section section--64 media-content">
     <div class="media-content__media">
       {% if page.image %}
-        <img alt="{{ page.name }} Photo" src="{{ site.baseurl }}/img/space-photos/{{ page.image }}"/>
+      <img alt="{{ page.name }} Photo" src="{{ site.baseurl }}/img/space-photos/{{ page.image }}" />
       {% endif %}
     </div>
     <div class="media-content__content">
       <div class="border-with-shadow pa4 pa5-l">
         <h3>{{page.name}}</h3>
         <p>
-          <div>
-            <img src="{{ site.baseurl }}/img/logos/{{ page.logo }}" alt="{{ page.name }} Photo"/>
-          </div>
+        <div>
+          <img src="{{ site.baseurl }}/img/logos/{{ page.logo }}" alt="{{ page.name }} Photo" />
+        </div>
 
         </p>
         <p>
           {{ page.address }}
         </p>
+        <p>
+          {{page.description}}
+        </p>
+
         <p class="tc mt4">
           <a class="btn btn--big btn--border-with-shadow" href="{{ page.link }}">
             {{page.name}}

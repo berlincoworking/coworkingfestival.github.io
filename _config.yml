@@ -71,4 +71,5 @@ defaults:
       type: spaces
     values:
       layout: space
-      tags: spaces
+      tags:
+        - spaces
