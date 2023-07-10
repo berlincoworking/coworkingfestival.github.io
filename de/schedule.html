@@ -1,8 +1,8 @@
 ---
 layout: default-de
 title: Veranstaltungskalender
-lang: de_DE
-description: 'Quer durch Berlin finden Events statt rund um Technologie, Marketing, Business, Community-Building, und vielem mehr. Ganz egal, ob du Workshops besuchen, dich mit Betreiber*innen von Coworking Spaces austauschen, oder einfach nur mit gleichgesinnten Coworkern quatschen willst: Hier wirst du fündig.'
+lang: de-DE
+description: 'Quer durch Berlin & Brandenburg finden Events statt rund um Technologie, Marketing, Business, Community-Building, und vielem mehr. Ganz egal, ob du Workshops besuchen, dich mit anderen Experten in deinem Gebiet, oder einfach nur deine neuen Coworker suchst: Hier wirst du fündig. (Der Kalender ist noch im Aufbau und es kommen täglich Events hinzu.)'
 ---
 
 <div class="container">
@@ -29,11 +29,15 @@ description: 'Quer durch Berlin finden Events statt rund um Technologie, Marketi
 <div class="events-day">
   <div class="container">
     <div class="section section--64 mb5">
-      <h2>Montag, 9. September</h2>
+      <h2>
+        <a href="#montag" id="montag">
+          Montag, 5. September
+        </a>
+      </h2>
       {% for event in sorted %}
-        {% if event.weekday == "Monday" %}
-          {% include event-de.html %}
-        {% endif %}
+      {% if event.weekday == "Monday" %}
+      {% include event-de.html %}
+      {% endif %}
       {% endfor %}
     </div>
   </div>
@@ -42,11 +46,15 @@ description: 'Quer durch Berlin finden Events statt rund um Technologie, Marketi
 <div class="events-day">
   <div class="container">
     <div class="section section--64 mb5">
-      <h2>Dienstag, 10. September</h2>
+      <h2>
+        <a href="#dienstag" id="dienstag">
+          Dienstag, 6. September
+        </a>
+      </h2>
       {% for event in sorted %}
-        {% if event.weekday == "Tuesday" %}
-          {% include event-de.html %}
-        {% endif %}
+      {% if event.weekday == "Tuesday" %}
+      {% include event-de.html %}
+      {% endif %}
       {% endfor %}
     </div>
   </div>
@@ -55,11 +63,15 @@ description: 'Quer durch Berlin finden Events statt rund um Technologie, Marketi
 <div class="events-day">
   <div class="container">
     <div class="section section--64 mb5">
-      <h2>Mittwoch, 11. September</h2>
+      <h2>
+        <a href="#mittwoch" id="mittwoch">
+          Mittwoch, 7. September
+        </a>
+      </h2>
       {% for event in sorted %}
-        {% if event.weekday == "Wednesday" %}
-          {% include event-de.html %}
-        {% endif %}
+      {% if event.weekday == "Wednesday" %}
+      {% include event-de.html %}
+      {% endif %}
       {% endfor %}
     </div>
   </div>
@@ -68,11 +80,15 @@ description: 'Quer durch Berlin finden Events statt rund um Technologie, Marketi
 <div class="events-day">
   <div class="container">
     <div class="section section--64 mb5">
-      <h2>Donnerstag, 12. September</h2>
+      <h2>
+        <a href="#donnerstag" id="donnerstag">
+          Donnerstag, 8. September
+        </a>
+      </h2>
       {% for event in sorted %}
-        {% if event.weekday == "Thursday" %}
-          {% include event-de.html %}
-        {% endif %}
+      {% if event.weekday == "Thursday" %}
+      {% include event-de.html %}
+      {% endif %}
       {% endfor %}
     </div>
   </div>
@@ -81,11 +97,13 @@ description: 'Quer durch Berlin finden Events statt rund um Technologie, Marketi
 <div class="events-day">
   <div class="container">
     <div class="section section--64 mb5">
-      <h2>Freitag, 13. September</h2>
+      <h2>
+        <a href="#freitag" id="freitag">Freitag, 9. September</a>
+      </h2>
       {% for event in sorted %}
-        {% if event.weekday == "Friday" %}
-          {% include event-de.html %}
-        {% endif %}
+      {% if event.weekday == "Friday" %}
+      {% include event-de.html %}
+      {% endif %}
       {% endfor %}
     </div>
   </div>

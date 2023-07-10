@@ -5,6 +5,13 @@
   border-top: 3px solid $color-text;
   &:nth-child(odd) {
     background-color: $color-green;
+    h2 a {
+      color: $color-white;
+      &:hover,
+      &:focus {
+        color: $color-foam;
+      }
+    }
   }
   .section {
     display: flex;

@@ -1,17 +1,20 @@
 <footer class="site-footer flex flex-wrap">
   <div class="footer__supporters">
     <div class="flex items-center">
-      <a alt="Cobot" class="footer__sponsor footer__sponsor--cobot mr5" href="https://www.cobot.me/" target="_blank">
-        <img src="{{ site.baseurl }}/img/logos/logo-cobot.svg" alt="Cobot Logo"/>
-      </a>
+      {% include sponsor-logos.html %}
     </div>
     <h4>Sponsoren</h4>
     <p class="mb0 text-medium">
-      Das Festival wird unterstützt von
-      <a href="https://www.cobot.me/" target="_blank">Cobot</a>, der weltweit führenden Coworking Software aus Berlin.
+      Das Festival wird organisiert und unterstützt von
+      <a href="https://www.cobot.me/?utm_source=coworkingfestival&utm_medium=sponsoring&utm_content=sponsor-link"
+        target="_blank">Cobot</a>, der weltweit führenden Coworking Management Software aus Berlin.
+      Unterstützt von
+      <a href="https://onecoworking.com?utm_source=coworkingfestival&utm_medium=sponsoring&utm_content=sponsor-link"
+        target="_blank">One Coworking</a>, die App, die Menschen und Teams mit den besten Coworking Spaces rund um den
+      Globus verbindet.
     </p>
   </div>
-  <div class="footer__meta">
+  <div class=" footer__meta">
     <div class="footer__nav">
       <a class="link--footer" href="/">Homepage</a>
       <span class="link--footer" href="/de/schedule">Kalender</span>
@@ -19,9 +22,18 @@
       <a class="link--footer pr0" href="/de/contact">Kontakt</a>
     </div>
     <div class="footer__credit text-medium">
-      <span class="pr2">&copy; 2022 Coworking Festival Berlin</span>
+      <span class="pr2">&copy; 2023 |
+        <a href="https://2022.coworkingfestival.com">2022</a> |
+        <a href="https://2019.coworkingfestival.com">2019</a> |
+        <a href="https://2018.coworkingfestival.com">2018</a> |
+        <a href="https://berlincoworking.wixsite.com/coworking-festival">2017</a>
+        Coworking Festival Berlin & Brandenburg
+      </span>
       &bull;
       <a class="link--footer pl2 pr0" href="/de/impressum">Impressum</a>
+      &bull;
+      <a class="link--footer pl2 pr0" targe="_blank"
+        href="https://drive.google.com/drive/folders/1vSFWeL-GWFORnRM2pQZZak7obsPTWw2h?usp=sharing">Pressematerial</a>
     </div>
   </div>
 </footer>
