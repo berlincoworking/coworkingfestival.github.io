@@ -1,8 +1,8 @@
-{% assign current_space = event.space_id %}
+{% assign current_space_id = event.space_id %}
 
 {% for space in site.spaces %}
-  {% if space.identifier == current_space %}
-    {% assign website_link = space.link %}
+  {% if space.identifier == current_space_id %}
+    {% assign current_space = space %}
   {% endif %}
 {% endfor %}
 
@@ -25,7 +25,7 @@
       {{event.start_time | date: "%R"}}&nbsp;-&nbsp;{{event.end_time | date: "%R"}} Uhr
     </div>
     <div class="event__location">
-      <a href="{{ website_link }}">{{event.space}}</a>
+      <a href="{{ current_space.url }}">{{event.space}}</a>
       <div class="pin-wrapper ml3">
         <div class='pin'></div>
         <div class='pulse'></div>
@@ -65,8 +65,8 @@
           </a>
         {% endif %}
 
-        <a href="{{ website_link }}" class="" target="_blank">
-          Space-Homepage
+        <a href="{{ current_space.url }}" class="">
+          Space-Profil
         </a>
       </div>
 
