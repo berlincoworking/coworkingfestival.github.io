@@ -56,11 +56,17 @@
       </div>
 
       <div>
-        {% if event.url or event.fb_url %}
+        {% if event.url or event.fb_url or event.meetup_url or event.eventbrite_url or event.linkedin_url %}
           {% if event.url %}
             <a href="{{ event.url }}" target="_blank" class="mr3">
+          {% elsif event.eventbrite_url %}
+              <a href="{{ event.eventbrite_url }}" target="_blank" class="mr3">
+          {% elsif event.meetup_url %}
+              <a href="{{ event.meetup_url }}" target="_blank" class="mr3">
           {% elsif event.fb_url %}
             <a href="{{ event.fb_url }}" target="_blank"  class="mr3">
+          {% elsif event.linkedin_url %}
+              <a href="{{ event.linkedin_url }}" target="_blank" class="mr3">
           {% endif %}
              Event-Seite
           </a>
