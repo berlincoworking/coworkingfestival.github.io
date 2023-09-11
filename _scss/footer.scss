@@ -46,12 +46,12 @@
 }
 
 .footer__supporters {
-  max-width: 36rem;
+  max-width: 56rem;
   @include media-query($size-m) {
-    max-width: 40rem;
+    max-width: 60rem;
   }
   @include media-query($size-l) {
-    max-width: 44rem;
+    max-width: 64rem;
   }
   a {
     text-decoration: underline;
