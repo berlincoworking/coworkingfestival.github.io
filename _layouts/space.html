@@ -35,3 +35,34 @@ layout: default
     </div>
   </div>
 </div>
+
+
+{% assign sorted = site.data.events | sort: 'start_time' | where: "space_id", page.identifier %}
+
+{% if sorted.size > 0 %}
+<div class="section section--64 mb6">
+  <h2> Events at {{page.name}}
+  </h2>
+</div>
+
+{% endif %}
+{% assign monday_events = sorted | where: "weekday", "Monday" %}
+{% if monday_events.size > 0 %}
+{% include schedule_day.html date="Monday, September 11" day_events = monday_events %}
+{% endif %}
+{% assign tuesday_events = sorted | where: "weekday", "Tuesday" %}
+{% if tuesday_events.size > 0 %}
+{% include schedule_day.html date="Tuesday, September 12" day_events = tuesday_events %}
+{% endif %}
+{% assign wednesday_events = sorted | where: "weekday", "Wednesday" %}
+{% if wednesday_events.size > 0 %}
+{% include schedule_day.html date="Wednesday, September 13" day_events = wednesday_events %}
+{% endif %}
+{% assign thursday_events = sorted | where: "weekday", "Thursday" %}
+{% if thursday_events.size > 0 %}
+{% include schedule_day.html date="Thursday, September 14" day_events = thursday_events %}
+{% endif %}
+{% assign friday_events = sorted | where: "weekday", "Friday" %}
+{% if friday_events.size > 0 %}
+{% include schedule_day.html date="Friday, September 15" day_events = friday_events %}
+{% endif %}
