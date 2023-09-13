@@ -47,12 +47,11 @@
 
     <div class="event__meta">
       <div class="mr3">
-        <span class="ttc">
-          {% if event.paid == 'Yes' %}
-             Nicht kostenlos
-          {% endif %}
-
+        {% if event.paid == 'Yes' %}
+        <span class="ttc bold">
+          kostenpflichtiges Event
         </span>
+        {% endif %}
       </div>
 
       <div>

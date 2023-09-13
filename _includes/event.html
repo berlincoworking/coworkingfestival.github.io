@@ -34,11 +34,11 @@
 
     <div class="event__meta">
       <div class="mr3">
-        <span class="ttc">
-          {% if event.paid == 'Yes' %}
-            Paid Event
-          {% endif %}
+        {% if event.paid == 'Yes' %}
+        <span class="ttc bold">
+          Paid Event
         </span>
+        {% endif %}
       </div>
 
       <div>
