@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Coworking Festival Berlin Brandenburg. September 2023.
+title: Coworking Festival - 23 - 27.September 2024.
 email: berlincoworking@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Discover the Future of Work: What will the workplace look like in five years? What about ten? Even more? Explore how today’s coworking spaces are leading the way forward in work, life, and everything in between.
+  Stay tuned. It will be big!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.coworkingfestival.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: berlincoworking
