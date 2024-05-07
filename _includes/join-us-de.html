@@ -1,21 +1,19 @@
+{% assign space = site.spaces | sample: 1 %}
 <div class="container mb6">
   <div class="section section--64 media-content">
     <div class="media-content__media">
-      <img src="/img/space-photos/photo-cowomen.jpg" alt="Cowomen Space" />
+      <img src="{{ site.baseurl }}/img/space-photos/{{ space.image }}" alt="{{ space.name }} Photo" />
     </div>
     <div class="media-content__content">
       <div class="border-with-shadow pa4 pa5-l">
-        <h3>Am Festival teilnehmen</h3>
+        <h3>Work Renaissance: Gemeinsam die Zukunft gestalten</h3>
         <p>
-          Vom 11. bis 15. September 2023 werden Coworking Spaces in Berlin und Brandenburg ihre Türen öffnen und die
-          Öffentlichkeit einladen, Coworking persönlich zu erleben. Es ist eine Gelegenheit, mit der breiteren
-          Gemeinschaft in
-          Kontakt zu treten und zu zeigen, was so viele Fachleute auf der ganzen Welt bereits erkannt haben: Coworking
-          wird nicht
-          nur bleiben, sondern unsere Beziehung zur Arbeit neu definieren.
+          Das Festival in Coworking Spaces überall in Deutschland wird Möglichkeiten zeigen die Arbeit neu zu denken,
+          Innovationen zu fördern und eine integrativere
+          und nachhaltigere Zukunft für alle aufzubauen.
         </p>
         <p class="tc mt4 flex gap3">
-          {% include join-button.html button_text="Kostenlos anmelden" %}
+          {% include register-button-de.html %}
         </p>
       </div>
     </div>

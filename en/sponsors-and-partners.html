@@ -1,0 +1,18 @@
+---
+layout: default
+title: Sponsors and Partners
+---
+
+<div class="container">
+  <div class="section section--64 mb6">
+    <h1>{{ page.title }}</h1>
+  </div>
+
+  {% for partner in site.data.partners %}
+  <div class="section section--64 mb5">
+    <h3>{{ partner.name }}</h3>
+    <a href="{{ partner.url }}" target="_blank"><img src="{{ site.baseurl }}/img/partners/{{ partner.logo }}"
+        alt="{{ partner.name }} Logo"></a>
+  </div>
+  {% endfor %}
+</div>

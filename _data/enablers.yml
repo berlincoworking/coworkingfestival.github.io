@@ -1,0 +1,13 @@
+- name: German Coworking Federation e.V.
+  url: https://www.coworking-germany.org
+  logo: logo-gcf.png
+- name: Cobot
+  url: https://www.cobot.me
+  logo: logo-cobot.svg
+  claim_de: ", die intuitive Coworking-Management-Software."
+  claim_en: ", the intuitive Coworking Management Software."
+- name: Coconat
+  url: https://coconat-space.com
+  logo: logo-coconat.svg
+  claim_de: " Community and konzentriert Arbeiten in der Natur"
+  claim_en: " Community and Concentrated Work in Nature"

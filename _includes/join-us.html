@@ -1,21 +1,17 @@
+{% assign space = site.spaces | sample: 1 %}
 <div class="container mb6">
   <div class="section section--64 media-content">
     <div class="media-content__media">
-      <img alt="CoWomen Space" src="/img/space-photos/photo-cowomen.jpg" />
+      <img src="{{ site.baseurl }}/img/space-photos/{{ space.image }}" alt="{{ space.name }} Photo" />
     </div>
     <div class="media-content__content">
       <div class="border-with-shadow pa4 pa5-l">
-        <h3>Take part in the Festival</h3>
-        <p>
-          From September 11th – 15th 2023, coworking spaces in Berlin and Brandenburg will open their doors and invite
-          the public to personally experience coworking. It’s an opportunity to engage with the wider community and
-          demonstrate what so many professionals around the world have already figured out: Coworking is not only here
-          to stay, it is redefining our relationship with work.
+        <h3>Work Renaissance: Shaping the Future Together.</h3>
+        The festival in spaces across Germany will show ways to rethink work, promote innovation and build a more
+        inclusive and sustainable future for all.
         </p>
         <p class="tc mt4">
-          {% include join-button.html button_text="Register for Free" %}
-
-          </a>
+          {% include register-button.html %}
         </p>
       </div>
     </div>

@@ -5,14 +5,11 @@
     </div>
     <p class="mb0 text-medium">
       The festival is enabled by: <br>
-      <a href="https://www.coworking-germany.org/?utm_source=coworkingfestival&utm_medium=sponsoring&utm_content=sponsor-link"
-        target="_blank">German Coworking Federation e.V.</a>
+      {% for enabler in site.data.enablers %}
+      <a href="{{ enabler.url }}?utm_source=coworkingfestival&utm_medium=sponsoring&utm_content=sponsor-link"
+        target="_blank">{{ enabler.name }}</a>{{enabler.claim_en}}
       <br>
-      <a href="https://www.cobot.me/?utm_source=coworkingfestival&utm_medium=sponsoring&utm_content=sponsor-link"
-        target="_blank">Cobot</a>, the intuitive Coworking Management Software.
-      <br>
-      <a href="https://https://coconat-space.com?utm_source=coworkingfestival&utm_medium=sponsoring&utm_content=sponsor-link"
-        target="_blank">Coconat</a> Community and Concentrated Work in Nature
+      {% endfor %}
     </p>
   </div>
   <div class="footer__meta">
@@ -35,6 +32,8 @@
       <a class="link--footer pl2 pr0" href="/de/impressum">Imprint</a>
       &bull;
       <a class="link--footer pl2 pr0" href="/de/datenschutz">Privacy (ger)</a>
+      &bull;
+      <a class="link--footer pl2 pr0" href="/en/sponsors-and-partners">Sponsors and Partners</a>
       <!-- &bull;
       <a class="link--footer pl2 pr0" targe="_blank"
         href="https://drive.google.com/drive/folders/1Y0LsjaDkZJA7egH9J7yOMPIQPNlbMp9Y">Press Kit</a>

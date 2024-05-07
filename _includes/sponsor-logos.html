@@ -1,13 +1,6 @@
-<a alt="German Coworking Federation e.V." class="footer__sponsor footer__sponsor--gcf mr5"
-  href="https://www.coworking-germany.org?utm_source=coworkingfestival&utm_medium=sponsoring&utm_content=logo"
-  target="_blank">
-  <img src="{{ site.baseurl }}/img/logos/logo-gcf.png" alt="GCF Logo" />
+{% for enabler in site.data.enablers %}
+<a alt="{{ enabler.name }}" class="footer__sponsor footer__sponsor--gcf mr5"
+  href="{{ enabler.url }}?utm_source=coworkingfestival&utm_medium=sponsoring&utm_content=logo" target="_blank">
+  <img src="{{ site.baseurl }}/img/logos/{{ enabler.logo }}" alt="GCF Logo" />
 </a>
-<a alt="Cobot" class="footer__sponsor footer__sponsor--cobot mr5"
-  href="https://www.cobot.me/?utm_source=coworkingfestival&utm_medium=sponsoring&utm_content=logo" target="_blank">
-  <img src="{{ site.baseurl }}/img/logos/logo-cobot.svg" alt="Cobot Logo" />
-</a>
-<a alt="Coconat" class="footer__sponsor footer__sponsor--coconat mr5"
-  href="https://onecoworking.com?utm_source=coworkingfestival&utm_medium=sponsoring&utm_content=logo" target="_blank">
-  <img src="{{ site.baseurl }}/img/logos/logo-coconat.svg" alt="Coconat Logo" />
-</a>
+{% endfor %}
