@@ -1,0 +1,28 @@
+---
+layout: default-en
+lang: en-US
+title: About Us
+description: Learn more about the people behind the Coworking Festival.
+---
+
+
+<div class="container">
+  <div class="section section--64 mb6">
+    <h1>{{ page.title }}</h1>
+    <h2>Team</h2>
+    {% for team_member in site.data.team %}
+    <h3>{{ team_member.name }}</h3>
+    <p>{{ team_member.role_en }}</p>
+    {% endfor %}
+  </div>
+  <div class="section section--64 mb6">
+    <h2>Ambassadors</h2>
+    {% assign ambassadors = site.data.ambassadors | where: "Status", "confirmed" %}
+    {% for ambassador in ambassadors %}
+    <h3>{{ ambassador.Name }}</h3>
+    <p>{{ ambassador.FederalState }}</p>
+    {% endfor %}
+  </div>
+
+
+</div>
