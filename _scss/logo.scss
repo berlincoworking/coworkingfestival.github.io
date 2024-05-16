@@ -3,7 +3,7 @@
   display: grid;
   grid-gap: 1em;
   grid-template-columns: 7.25em 1fr;
-  align-items: end;
+  align-items: center;
   color: $color-text;
   font-family: sofia-pro-condensed, sans-serif;
   font-size: 1rem;
@@ -16,13 +16,13 @@
   &:hover, &:focus {
     outline: none;
     color: $color-text;
-    .logo__2023 {
+    .logo__2024 {
       transform: rotate(10deg);
     }
   }
 }
 
-.logo__2023 {
+.logo__2024 {
   transition-property: color, background-color, border, transform;
   transition-duration: $transition-duration;
   transition-timing-function: $transition-timing-function;
@@ -32,17 +32,22 @@
   }
 }
 
-.logo__name {
-  font-size: 1.575em;
+.logo__copy {
+  font-size: 1.75em;
   line-height: 1.275;
   letter-spacing: .025em;
+  display: flex;
+  flex-direction: column;
+}
+
+.logo__name {
+  order: 2;
 }
 
 .logo__details {
-  font-size: .625em;
+  font-size: .5em;
   font-family: sofia-pro, sans-serif;
   line-height: 2.325;
-  text-align: right;
   white-space: nowrap;
 }
 
