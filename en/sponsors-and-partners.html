@@ -1,25 +1,31 @@
 ---
 layout: default
 title: Enablers, Sponsors and Partners
+description: 'We thank our enablers, sponsors and partners for their support.'
 ---
 
 <div class="container">
   <div class="section section--64 mb6">
-    <h1>{{ page.title }}</h1>
-    <h2>Enablers</h2>
+    <h1 class="lh-title">{{ page.title }}</h1>
+    <h2 class="lh-title">Enablers</h2>
     {% for enabler in site.data.enablers %}
-    <h3>{{ enabler.name }}</h3>
-    <a href="{{ enabler.url }}" target="_blank">
-      <img src="{{ site.baseurl }}/img/logos/{{ enabler.logo }}" alt="{{enabler.name}} Logo" />
-    </a>
+    <div class="container">
+
+      <a href="{{ enabler.url }}" target="_blank">
+        <img class="mw6" src="{{ site.baseurl }}/img/logos/{{ enabler.logo }}" alt="{{enabler.name}} Logo" />
+      </a>
+      <h3>{{ enabler.name }}</h3>
+    </div>
     {% endfor %}
   </div>
   <div class="section section--64 mb6">
-    <h2>Partners</h2>
+    <h2 class="lh-title">Partners</h2>
     {% for partner in site.data.partners %}
-    <h3>{{ partner.name }}</h3>
-    <a href="{{ partner.url }}" target="_blank"><img src="{{ site.baseurl }}/img/partners/{{ partner.logo }}"
-        alt="{{ partner.name }} Logo"></a>
+    <div class="container">
+      <a href="{{ partner.url }}" target="_blank"><img class="mw6"
+          src="{{ site.baseurl }}/img/partners/{{ partner.logo }}" alt="{{ partner.name }} Logo"></a>
+      <h3>{{ partner.name }}</h3>
+    </div>
     {% endfor %}
   </div>
 </div>
