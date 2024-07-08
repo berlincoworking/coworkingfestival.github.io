@@ -1,22 +1,43 @@
 <div class="grid-spaces center mv6">
-  {% assign n = site.spaces | size %}
-  {% assign spaces = site.spaces | sample: n %}
+  {% assign n = site.data.pretix-spaces | size %}
+  {% assign spaces = site.data.pretix-spaces | sample: n %}
   {% for space in spaces %}
-    <a class="space rotate-10" href="{{ space.url }}" target="_blank">
-      <div class="space__logo border-with-shadow">
-        <img src="{{ site.baseurl }}/img/logos/{{ space.logo }}" alt="{{ space.name }} Photo"/>
-      </div>
-      <div class="space__info border-with-shadow">
-        <h4>{{ space.name }}</h4>
-        <p class="space__info__small">
-          {{ space.address }}
-        </p>
-      </div>
-      {% if space.image %}
-        <div class="space__photo">
-          <img src="{{ site.baseurl }}/img/space-photos/{{ space.image }}" alt="{{ space.name }} Photo"/>
-        </div>
-      {% endif %}
-    </a>
+  <a class="space rotate-10" href="{{ space.url }}" target="_blank">
+    <div class="space__logo border-with-shadow">
+      <img src="{{ site.baseurl }}/img/logos/logo-{{ space.space_id }}.svg" alt="{{ space.name }} Logo" />
+    </div>
+    <div class="space__info border-with-shadow">
+      <h4>{{ space.name }}</h4>
+      <p class="space__info__small">
+        {{ space.space_state }}
+      </p>
+    </div>
+    {% if space.photo_link %}
+    <div class="space__photo">
+      <img src="{{ site.baseurl }}/img/space-photos/photo-{{ space.space_id }}" alt="{{ space.name }} Photo" />
+    </div>
+    {% endif %}
+  </a>
   {% endfor %}
+
+  <!-- {% assign m = site.spaces | size %}
+  {% assign spaces_2023 = site.spaces | sample: m %}
+  {% for space_2023 in spaces_2023 %}
+  <a class="space rotate-10" href="{{ space_2023.link }}" target="_blank">
+    <div class="space__logo border-with-shadow">
+      <img src="{{ site.baseurl }}/img/logos/{{ space_2023.logo }}" alt="{{ space_2023.name }} Logo" />
+    </div>
+    <div class="space__info border-with-shadow">
+      <h4>{{ space_2023.name }}</h4>
+      <p class="space__info__small">
+        {{ space_2023.address }}
+      </p>
+    </div>
+    {% if space_2023.image %}
+    <div class="space__photo">
+      <img src="{{ site.baseurl }}/img/space-photos/{{ space_2023.image }}" alt="{{ space_2023.name }} Photo" />
+    </div>
+    {% endif %}
+  </a>
+  {% endfor %} -->
 </div>
