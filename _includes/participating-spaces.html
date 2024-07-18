@@ -20,24 +20,25 @@
   </a>
   {% endfor %}
 
-  <!-- {% assign m = site.spaces | size %}
+  {% assign m = site.spaces | size %}
   {% assign spaces_2023 = site.spaces | sample: m %}
   {% for space_2023 in spaces_2023 %}
   <a class="space rotate-10" href="{{ space_2023.link }}" target="_blank">
     <div class="space__logo border-with-shadow">
-      <img src="{{ site.baseurl }}/img/logos/{{ space_2023.logo }}" alt="{{ space_2023.name }} Logo" />
+      <img src="{{ site.baseurl }}/img/logos/logo-{{ space_2023.space_id }}.svg" alt="{{ space_2023.name }} Logo" />
     </div>
     <div class="space__info border-with-shadow">
       <h4>{{ space_2023.name }}</h4>
       <p class="space__info__small">
-        {{ space_2023.address }}
+        {{ space_2023.space_state }}
       </p>
     </div>
-    {% if space_2023.image %}
+    {% if space_2023.image_format %}
     <div class="space__photo">
-      <img src="{{ site.baseurl }}/img/space-photos/{{ space_2023.image }}" alt="{{ space_2023.name }} Photo" />
+      <img src="{{ site.baseurl }}/img/space-photos/photo-{{ space_2023.space_id }}.{{ space_2023.image_format}}"
+        alt="{{ space_2023.name }} Photo" />
     </div>
     {% endif %}
   </a>
-  {% endfor %} -->
+  {% endfor %}
 </div>

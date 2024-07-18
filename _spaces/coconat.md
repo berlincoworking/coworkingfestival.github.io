@@ -1,12 +1,12 @@
 ---
-identifier: coconat
+space_id: coconat
 name: "Coconat"
-image: "photo-coconat.jpg"
-logo: "logo-coconat.svg"
-link: "http://www.coconat-space.com"
+image_format: "jpg"
+space_state: "Brandenburg"
+link: "https://www.coconat-space.com"
 description: "COCONAT stands for community and concentrated work in nature
 <br>
-We are an impact driven company – our purpose statement: Inviting. Inspiring. Inventing sustainable stuff. 
+We are an impact driven company – our purpose statement: Inviting. Inspiring. Inventing sustainable stuff.
 <br>
 We do this through our innovative model of tourism, which combines workation, coworking, coliving, a maker's space and special projects focusing on rural development.
 <br>
