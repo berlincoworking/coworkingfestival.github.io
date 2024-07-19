@@ -1,8 +1,8 @@
 ---
 space_id: kreativwerk
 name: "KreativWerkR6"
-image_format: "jpg"
 link: "https://kreativwerkr6.de"
+image_format: "jpg"
 space_state: "Brandenburg"
 description: "Was wir heute als KreativWerkR6 kennen, war viele Jahre das alte Alexander S. Puschkin-Gymnasium im Herzen von Hennigsdorf.
 Als Denkmal, das lange leer stand, wurde das Haus ab 2020 aufwendig und denkmalgerecht saniert, mit modernster Technik ausgestattet und auf den Namen KreativWerkR6 (für Rathenaustraße 6) getauft!

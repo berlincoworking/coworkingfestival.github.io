@@ -1,6 +1,7 @@
 ---
 space_id: coconat
 name: "Coconat"
+logo_format: "svg"
 image_format: "jpg"
 space_state: "Brandenburg"
 link: "https://www.coconat-space.com"
