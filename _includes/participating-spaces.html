@@ -4,7 +4,7 @@
   {% for space in spaces %}
   <a class="space rotate-10" href="{{ space.url }}" target="_blank">
     <div class="space__logo border-with-shadow">
-      <img src="{{ site.baseurl }}/img/logos/logo-{{ space.space_id }}.svg" alt="{{ space.name }} Logo" />
+      <img src="{{ site.baseurl }}/img/logos/logo-{{ space.space_id }}.{{ space.logo_format }}" alt="{{ space.name }} Logo" />
     </div>
     <div class="space__info border-with-shadow">
       <h4>{{ space.name }}</h4>
