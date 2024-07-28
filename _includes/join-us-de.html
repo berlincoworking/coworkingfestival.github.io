@@ -1,4 +1,4 @@
-{% assign space = site.spaces | sample: 1 %}
+{% assign space = site.spaces | where: "image_format", truthy | sample %}
 <div class="container mb6">
   <div class="section section--64 media-content">
     <div class="media-content__media">
