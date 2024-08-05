@@ -12,8 +12,8 @@
   <link rel="manifest" href="/site.webmanifest">
   {% seo %}
   <meta property="og:image" content="
-    {%- if page.image -%}
-      {{ site.baseurl }}/img/space-photos/{{ page.image }}
+    {%- if page.image_format -%}
+      {{ site.baseurl }}/img/space-photos/{{ page.space_id }}.{{ page.image_format }}
     {%- else -%}
       <!-- https://coworkingfestival.com/img/og-banner-coworkingfestival-2023.png -->
     {%- endif -%}
