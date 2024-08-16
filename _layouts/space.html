@@ -5,8 +5,10 @@ layout: default
 <div class="container mb6">
   <div class="section section--64 media-content">
     <div class="media-content__media">
-      {% if page.image %}
-      <img alt="{{ page.name }} Photo" src="{{ site.baseurl }}/img/space-photos/{{ page.image }}" />
+      {% if page.image_format %}
+      <img alt="{{ page.name }} Photo"
+        src="{{ site.baseurl }}/img/space-photos/photo-{{ page.space_id }}.{{ page.image_format }}"
+        alt="{{ page.name }} Photo" />
       {% endif %}
     </div>
     <div class="media-content__content">
@@ -14,7 +16,8 @@ layout: default
         <h3>{{page.name}}</h3>
         <p>
         <div>
-          <img src="{{ site.baseurl }}/img/logos/{{ page.logo }}" alt="{{ page.name }} Photo" />
+          <img src="{{ site.baseurl }}/img/logos/logo-{{ page.space_id }}.{{ page.logo_format | default: 'png' }}"
+            alt="{{ page.name }} Logo" />
         </div>
 
         </p>
@@ -35,13 +38,13 @@ layout: default
     </div>
   </div>
 </div>
+<!--
 
-
-{% assign sorted = site.data.events | sort: 'start_time' | where: "space_id", page.identifier %}
+{% assign sorted = site.data.events | where: "space_id", page.space_id | sort: 'start_time' %}
 
 {% if sorted.size > 0 %}
 <div class="section section--64 mb6">
-  <h2> Events at {{page.name}}
+  <h2> Events @ {{page.name}}
   </h2>
 </div>
 
@@ -65,4 +68,4 @@ layout: default
 {% assign friday_events = sorted | where: "weekday", "Friday" %}
 {% if friday_events.size > 0 %}
 {% include schedule_day.html date="Friday, September 15" day_events = friday_events %}
-{% endif %}
+{% endif %} -->

@@ -1,10 +1,11 @@
 <div class="grid-spaces center mv6">
   {% assign n = site.data.pretix-spaces | size %}
-  {% assign spaces = site.data.pretix-spaces | sample: n %}
+  {% assign spaces = site.data.pretix-spaces | sample: 0 %}
   {% for space in spaces %}
   <a class="space rotate-10" href="{{ space.url }}" target="_blank">
     <div class="space__logo border-with-shadow">
-      <img src="{{ site.baseurl }}/img/logos/logo-{{ space.space_id }}.{{ space.logo_format }}" alt="{{ space.name }} Logo" />
+      <img src="{{ site.baseurl }}/img/logos/logo-{{ space.space_id }}.{{ space.logo_format }}"
+        alt="{{ space.name }} Logo" />
     </div>
     <div class="space__info border-with-shadow">
       <h4>{{ space.name }}</h4>
@@ -23,9 +24,10 @@
   {% assign m = site.spaces | size %}
   {% assign spaces_2023 = site.spaces | sample: m %}
   {% for space_2023 in spaces_2023 %}
-  <a class="space rotate-10" href="{{ space_2023.link }}" target="_blank">
+  <a class="space rotate-10" href="{{ space_2023.url }}" target="_blank">
     <div class="space__logo border-with-shadow">
-      <img src="{{ site.baseurl }}/img/logos/logo-{{ space_2023.space_id }}.{{space_2023.logo_format | default: 'png'}}" alt="{{ space_2023.name }} Logo" />
+      <img src="{{ site.baseurl }}/img/logos/logo-{{ space_2023.space_id }}.{{space_2023.logo_format | default: 'png'}}"
+        alt="{{ space_2023.name }} Logo" />
     </div>
     <div class="space__info border-with-shadow">
       <h4>{{ space_2023.name }}</h4>
