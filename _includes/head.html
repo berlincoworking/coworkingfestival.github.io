@@ -13,14 +13,14 @@
   {% seo %}
   <meta property="og:image" content="
     {%- if page.image_format -%}
-      {{ site.baseurl }}/img/space-photos/photo-{{ page.space_id }}.{{ page.image_format }}
+      https://coworkingfestival.com/img/space-photos/photo-{{ page.space_id }}.{{ page.image_format }}
     {%- elsif page.logo_format -%}
-      {{ site.baseurl }}/img/logos/logo-{{ page.space_id }}.{{ page.logo_format | default: 'png' }}
+      https://coworkingfestival.com/img/logos/logo-{{ page.space_id }}.{{ page.logo_format | default: 'png' }}
     {%- else -%}
-      <!-- https://coworkingfestival.com/img/og-banner-coworkingfestival-2023.png -->
+      https://coworkingfestival.com/img/og-banner-coworkingfestival-2024.png
     {%- endif -%}
   " />
-  <meta name="twitter:image" content="https://coworkingfestival.com/img/og-banner-coworkingfestival-2023.png">
+  <meta name="twitter:image" content="https://coworkingfestival.com/img/og-banner-coworkingfestival-2024.png">
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet" href="https://use.typekit.net/reg4veq.css">
   {% include facebook-pixel-script.html %}

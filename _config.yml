@@ -27,13 +27,13 @@ twitter:
   username: berlincoworking
   card: summary
 social:
-  name: BerlinCoworking
+  name: CoworkingFestival
   links:
-    - https://www.facebook.com/berlincoworking/
+    - https://www.facebook.com/coworkingfestival.de
     - https://www.coworkingfestival.com/
     - https://twitter.com/berlincoworking
     - https://www.instagram.com/berlincoworking/
-    - https://www.linkedin.com/company/berlincoworking/
+    - https://www.linkedin.com/showcase/coworkingfestival
 
 # Build settings
 markdown: kramdown
