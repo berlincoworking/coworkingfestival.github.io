@@ -64,6 +64,7 @@ exclude:
 collections:
   spaces:
     output: true
+    permalink: /de/spaces/:path/
 defaults:
   - scope:
       path: ""
