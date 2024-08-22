@@ -1,18 +1,30 @@
 <!doctype html>
 <html class="no-js" lang="de_DE">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body class="site-body">
-    {% include menu-de.html %}
-    {% include language-switch.html %}
-    {% include header.html %}
-    <main class="site-main">
-      {{content}}
-    </main>
-    {% include footer-de.html %}
-    <div class="parallax"></div>
-    {% include scripts.html %}
-  </body>
+<body class="site-body">
+  {% include menu-de.html %}
+  {% include language-switch.html %}
+  {% include header.html %}
+  <div class="container">
+    <ul class="states_menu">
+      {% for federal_state in site.federal-states %}
+      {% assign federal_spaces = site.spaces | where: "space_state", federal_state.name %}
+      {% if federal_spaces.size > 0 %}
+      <li>
+        <a href="{{ federal_state.url }}">{{ federal_state.name }}</a>
+      </li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+  <main class="site-main">
+    {{content}}
+  </main>
+  {% include footer-de.html %}
+  <div class="parallax"></div>
+  {% include scripts.html %}
+</body>
 
 </html>

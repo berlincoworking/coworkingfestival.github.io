@@ -1,28 +1,10 @@
 <div class="grid-spaces center mv6">
-  {% assign n = site.data.pretix-spaces | size %}
-  {% assign spaces = site.data.pretix-spaces | sample: 0 %}
-  {% for space in spaces %}
-  <a class="space rotate-10" href="{{ space.url }}" target="_blank">
-    <div class="space__logo border-with-shadow">
-      <img src="{{ site.baseurl }}/img/logos/logo-{{ space.space_id }}.{{ space.logo_format }}"
-        alt="{{ space.name }} Logo" />
-    </div>
-    <div class="space__info border-with-shadow">
-      <h4>{{ space.name }}</h4>
-      <p class="space__info__small">
-        {{ space.space_state }}
-      </p>
-    </div>
-    {% if space.photo_link %}
-    <div class="space__photo">
-      <img src="{{ site.baseurl }}/img/space-photos/photo-{{ space.space_id }}.jpg" alt="{{ space.name }} Photo" />
-    </div>
-    {% endif %}
-  </a>
-  {% endfor %}
-
-  {% assign m = site.spaces | size %}
-  {% assign spaces_2023 = site.spaces | sample: m %}
+  {% assign m = include.participating_spaces.size %}
+  {% if m > 1 %}
+  {% assign spaces_2023 = include.participating_spaces | sample: m %}
+  {% else %}
+  {% assign spaces_2023 = include.participating_spaces %}
+  {% endif %}
   {% for space_2023 in spaces_2023 %}
   <a class="space rotate-10" href="{{ space_2023.url }}" target="_blank">
     <div class="space__logo border-with-shadow">

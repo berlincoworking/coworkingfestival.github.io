@@ -65,6 +65,9 @@ collections:
   spaces:
     output: true
     permalink: /de/spaces/:path/
+  federal-states:
+    output: true
+    permalink: /de/bundesland/:name/
 defaults:
   - scope:
       path: ""
@@ -74,3 +77,11 @@ defaults:
       germanonly: true
       tags:
         - spaces
+  - scope:
+      path: ""
+      type: federal-states
+    values:
+      layout: federal-state
+      germanonly: true
+      tags:
+        - federal-states

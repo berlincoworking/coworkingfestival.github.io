@@ -1,0 +1,35 @@
+//states menu
+.states_menu {
+  li {
+    font-size: larger;
+    display: inline;
+    margin-right: 10px; // Adjust the spacing as needed
+    position: relative;
+
+
+    &::after {
+        content: "|"; // This is the separator
+        position: absolute;
+        right: -10px; // Adjust based on your margin-right
+      }
+
+      &:last-child::after {
+        content: ""; // Remove the separator for the last item
+      }
+  }
+
+  padding: 1rem 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  position: relative;
+
+
+  @include media-query($size-m) {
+    padding: 0.75rem 0;
+    width: 74rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+}

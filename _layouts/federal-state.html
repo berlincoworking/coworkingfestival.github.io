@@ -1,0 +1,13 @@
+---
+layout: default-de
+germanonly: true
+---
+
+<div class="container pv6 overflow-hidden">
+  <div class="section section--64">
+    <h2>Teilnehmende Spaces in {{page.name}}</h2>
+  </div>
+  {% assign federal_spaces = site.spaces | where: "space_state", page.name %}
+  {% include participating-spaces.html participating_spaces = federal_spaces %}
+</div>
+</div>
