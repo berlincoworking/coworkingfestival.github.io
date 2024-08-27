@@ -1,6 +1,7 @@
 ---
 space_id: innomania
 name: "INNOMANIAcowork"
+image_format: "jpg"
 logo_format: "svg"
 link: "https://innomania-cowork.de/"
 description: ""
