@@ -8,5 +8,6 @@ description: "The juggleHUB is a coworking space, event location, café and, for
 In addition, juggleHUB is the first Berlin coworking space that offers flexible childcare. Coworking and childcare can, but are not required to go hand-in-hand. Our childcare service can be booked flexibly and as needed within our childcare hours. It is also available for those offering or attending events."
 space_state: "Berlin"
 address: |
-  Christburger Straße 23, 10405 Berlin
+  Christburger Straße 23<br>
+  10405 Berlin
 ---
