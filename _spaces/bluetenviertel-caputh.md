@@ -12,4 +12,5 @@ address: |
   Kirschanger 4<br>
   14548 Schwielowsee
 logo_format: "png"
+image_format: "jpg"
 ---
