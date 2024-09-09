@@ -38,7 +38,6 @@ layout: default
     </div>
   </div>
 </div>
-<!--
 
 {% assign sorted = site.data.events | where: "space_id", page.space_id | sort: 'start_time' %}
 
@@ -49,23 +48,23 @@ layout: default
 </div>
 
 {% endif %}
-{% assign monday_events = sorted | where: "weekday", "Monday" %}
+{% assign monday_events = sorted | where: "weekday", "Montag / Monday" %}
 {% if monday_events.size > 0 %}
-{% include schedule_day.html date="Monday, September 11" day_events = monday_events %}
+{% include schedule_day.html date="Montag, 23. September" day_events = monday_events day_id = monday%}
 {% endif %}
-{% assign tuesday_events = sorted | where: "weekday", "Tuesday" %}
+{% assign tuesday_events = sorted | where: "weekday", "Dienstag / Tuesday" %}
 {% if tuesday_events.size > 0 %}
-{% include schedule_day.html date="Tuesday, September 12" day_events = tuesday_events %}
+{% include schedule_day.html date="Dienstag, 24. September" day_events = tuesday_events day_id = tuesday%}
 {% endif %}
-{% assign wednesday_events = sorted | where: "weekday", "Wednesday" %}
+{% assign wednesday_events = sorted | where: "weekday", "Mittwoch / Wednesday" %}
 {% if wednesday_events.size > 0 %}
-{% include schedule_day.html date="Wednesday, September 13" day_events = wednesday_events %}
+{% include schedule_day.html date="Mittwoch, 25. September" day_events = wednesday_events day_id = wednesday %}
 {% endif %}
-{% assign thursday_events = sorted | where: "weekday", "Thursday" %}
+{% assign thursday_events = sorted | where: "weekday", "Donnerstag / Thursday" %}
 {% if thursday_events.size > 0 %}
-{% include schedule_day.html date="Thursday, September 14" day_events = thursday_events %}
+{% include schedule_day.html date="Donnerstag, 26. September" day_events = thursday_events day_id = thursday %}
 {% endif %}
-{% assign friday_events = sorted | where: "weekday", "Friday" %}
+{% assign friday_events = sorted | where: "weekday", "Freitag / Friday" %}
 {% if friday_events.size > 0 %}
-{% include schedule_day.html date="Friday, September 15" day_events = friday_events %}
-{% endif %} -->
+{% include schedule_day.html date="Freitag, 27. September" day_events = friday_events day_id = friday %}
+{% endif %}

@@ -1,421 +1,63 @@
-timestamp,space,event_title_eng,event_desc_eng,event_title_de,event_desc_de,weekday,start_time,end_time,fb_url,url,paid,contact_email,score,linkedin_url,eventbrite_url,meetup_url,space_id
-8/7/2023 12:25:22,Engelnest,Closing Party,"Theme: Embracing the Future of Work
+Zeitstempel,E-Mail-Adresse,Space Name ,event_title,event_desc,weekday,start_time,end_time,event_url,fb_url,linkedin_url,eventbrite_url,meetup_url,paid,Link zum Event Foto / Link to Event Photo,space_id
+26.08.2024 12:53:37,info@coworking0711.de,Coworking0711 Stuttgart-West,Brötchen & Business & BlaBla,"Wir laden Coworker und Gäste herzlich ein zu: ""Brötchen & Business & BlaBla"" aka Frühstück.
 
-Invite Only Entrance - Guests can also invite their friends and network.
+Bei Brötchen, Aufstrich und Kaffee habt ihr Zeit zum geselligen Kennenlernen und Austausch. Ihr könnt auch gerne eigenen SchnickSchnack für alle mitbringen.
 
-Expand Your Network: The Closing Party offers the perfect opportunity to forge new connections and strengthen existing ones. Mingle with industry experts, entrepreneurs, and like-minded professionals in the coworking community.
+Verbindliche Anmeldungen werden erbeten, damit wir besser kalkulieren können: blabla@coworking0711.de",Montag / Monday,09:00:00,10:30:00,https://coworking0711.de/events/event?tx_news_pi1%5Bnews%5D=311&cHash=e7b7a1715ae7e7e98cde1a664f74933d,,,,,No,https://coworking0711.de/fileadmin/_processed_/e/0/csm_1715110627402_0b8c734b55.jpg,coworking0711-stuttgart-west
+26.08.2024 12:55:27,info@coworking0711.de,Coworking0711 Esslingen,Brötchen & Business & BlaBla,"Wir laden Coworker und Gäste herzlich ein zu: ""Brötchen & Business & BlaBla"" aka Frühstück.
 
-Concept Celebration: Let's celebrate the transformative power of coworking, remote lifestyles and the boundless potential of new work. Together, we have explored innovative concepts, shared insights, and inspired each other to embrace the future of work with enthusiasm and determination.
+Bei Brötchen, Aufstrich und Kaffee habt ihr Zeit zum geselligen Kennenlernen und Austausch. Ihr könnt auch gerne eigenen SchnickSchnack für alle mitbringen.
 
-Raise a Toast: Cheers to the success of the Coworking Festival and the incredible strides made in shaping the future of work. Enjoy an array of refreshing drinks at the bar.
+Verbindliche Anmeldungen werden erbeten, damit wir besser kalkulieren können: blabla@coworking0711.de",Dienstag / Tuesday,09:00:00,10:30:00,https://coworking0711.de/events/event?tx_news_pi1%5Bnews%5D=313&cHash=e99cbdc5075b49932c1979eff0776720,,,,,No,https://coworking0711.de/fileadmin/_processed_/e/0/csm_1715110627402_0b8c734b55.jpg,coworking0711-esslingen
+26.08.2024 12:56:30,info@coworking0711.de,Coworking0711 Stuttgart-West,Kurzer historischer Stadtteilspaziergang durch Stuttgart-West,"Coworkerin Claudia ist Historikerin und weiß viel über die lebendige Geschichte des Stuttgarter Westens zu erzählen. Sie nimmt euch am Montag Abend nach getaner Arbeit mit auf einen kurzen historischen Stadtteilspaziergang mit einem Fokus auf Handwerk und frühe Industrialisierung.
 
-Fresh Snacks: Savor yummy snacks that reflect our commitment to providing a fresh and inviting atmosphere in our gathering.
-",Abschlussparty,Motto: Embracing the Future of Work,Friday,19:00:00,23:59:00,,https://www.eventbrite.com/e/coworking-festival-closing-party-tickets-696513469537,No,irmak@engelnest.de,,,https://www.eventbrite.com/e/coworking-festival-closing-party-tickets-696513469537,,engelnest
-8/28/2023,Engelnest,Open Coworking Day,"We will open the doors of our coworking area to all interested parties on 12.09.2023 from 9 am - 6 pm. Cool drinks will be waiting for you, and the use of our coworking workstations is free of charge on this day: first come, first served.
+Eine Anmeldung ist nicht erforderlich. Seid einfach spätestens um 18:30 an unserer Location in Stuttgart-West: Gutenbergstr. 77a, im Innenhof.",Montag / Monday,18:30:00,19:30:00,https://coworking0711.de/events/event?tx_news_pi1%5Bnews%5D=316&cHash=6e800dab41fbbca9dbabe6fe5805b7c9,,,,,No,,coworking0711-stuttgart-west
+26.08.2024 12:57:40,info@coworking0711.de,Coworking0711 Stuttgart-West,Die Revolution der Generativen KI: Auswirkungen und Anwendungen,"Dieser Vortrag beleuchtet die transformative Kraft der Generativen Künstlichen Intelligenz (Gen AI) und ihre weitreichenden Auswirkungen auf Unternehmen und den privaten Gebrauch. Gen AI hat das Potenzial, Geschäftsprozesse zu revolutionieren, indem sie kreative Inhalte generiert und neue Möglichkeiten in der Produktentwicklung, im Marketing und in der Kundeninteraktion eröffnet. Unternehmen können durch den Einsatz von Gen AI ihre Effizienz steigern, Kosten senken und innovative Produkte und Dienstleistungen anbieten. Gleichzeitig müssen sie sich jedoch auch mit ethischen und rechtlichen Herausforderungen auseinandersetzen, die mit der Nutzung von KI verbunden sind.
 
-There will also be an experience report on coworking: Coworking, why it is so important to break out of the familiar environment every now and then.",,,Monday,09:00:00,18:00:00,,,,,,,,,engelnest
-8/28/2023,Engelnest,Open Coworking Day,"We will open the doors of our coworking area to all interested parties on 12.09.2023 from 9 am - 6 pm. Cool drinks will be waiting for you, and the use of our coworking workstations is free of charge on this day: first come, first served.
+Für den privaten Gebrauch stehen leistungsfähige und benutzerfreundliche Tools wie Textgeneratoren (z.B. GPT-4) und Bildgeneratoren (z.B. DALL-E) zur Verfügung. Der erfolgreiche Einsatz von Gen AI erfordert eine strategische Herangehensweise, bei der Unternehmen klare Ziele definieren, geeignete Anwendungsfälle identifizieren und ethische Richtlinien entwickeln. Dieser Vortrag bietet einen umfassenden Überblick über die Möglichkeiten und Herausforderungen der Generativen KI und zeigt auf, wie Unternehmen und Privatpersonen diese bahnbrechende Technologie effektiv nutzen können.",Dienstag / Tuesday,18:30:00,20:30:00,https://coworking0711.de/events/event?tx_news_pi1%5Bnews%5D=314&cHash=7b3aa31453b388cae2d4fc2cb125e89c,,,,,No,https://coworking0711.de/fileadmin/_processed_/b/f/csm_Cowofest-GenAI_ce624eca07.jpg,coworking0711-stuttgart-west
+26.08.2024 12:59:17,info@coworking0711.de,Coworking0711 Stuttgart-West,Netzwerktreffen für Coworking-Space Betreiber:innen und Interessierte,"Eingeladen sind Betreiber:innen von Coworking Spaces sowie Initiativen und alle, die sich dafür interessieren.
 
-There will also be an experience report on coworking: Coworking, why it is so important to break out of the familiar environment every now and then.",,,Tuesday,09:00:00,18:00:00,,,,,,,,,engelnest
-8/28/2023,Engelnest,Open Coworking Day,"We will open the doors of our coworking area to all interested parties on 12.09.2023 from 9 am - 6 pm. Cool drinks will be waiting for you, and the use of our coworking workstations is free of charge on this day: first come, first served.
+Die Landeskoordination BaWü von Coworkland lädt ein zum virtuellen Netzwerktreffen am 27. September (Freitag, Start: 17:00 Uhr, Ende: 18:30 Uhr). Eingeladen sind Betreiber:innen von Coworking Spaces sowie Initiativen und alle, die sich dafür interessieren. Wer dabei sein will, bitte melden!
 
-There will also be an experience report on coworking: Coworking, why it is so important to break out of the familiar environment every now and then.",,,Wednesday,09:00:00,18:00:00,,,,,,,,,engelnest
-8/28/2023,Engelnest,Open Coworking Day,"We will open the doors of our coworking area to all interested parties on 12.09.2023 from 9 am - 6 pm. Cool drinks will be waiting for you, and the use of our coworking workstations is free of charge on this day: first come, first served.
+Wir wollen uns austauschen zum Status Quo von Coworking im Ländle, bringt gerne Vorschläge und Ideen mit ein.
 
-There will also be an experience report on coworking: Coworking, why it is so important to break out of the familiar environment every now and then.",,,Thursday,09:00:00,18:00:00,,,,,,,,,engelnest
-8/28/2023,Engelnest,Open Coworking Day,"We will open the doors of our coworking area to all interested parties on 12.09.2023 from 9 am - 6 pm. Cool drinks will be waiting for you, and the use of our coworking workstations is free of charge on this day: first come, first served.
+Bitte meldet euch formlos per E-Mail bei christopher@coworkland.de und/oder harald@coworkland.de an.
+",Freitag / Friday,17:00:00,18:30:00,https://coworking0711.de/events/event?tx_news_pi1%5Bnews%5D=317&cHash=97e8cad9c5dc714dc9b3721336519757,,,,,No,https://coworking0711.de/fileadmin/_processed_/b/3/csm_Cowo-Fest-Meetup_4cd30d5466.jpg,coworking0711-stuttgart-west
+26.08.2024 14:28:08,thomas@coworkkem.de,Coworking Kemnath,Debattierclub,"In einer Zeit, in der Diskussionen oft von Emotionen dominiert werden, bieten wir Dir die Möglichkeit, den Austausch von Argumenten auf eine ganz neue Art zu erleben. Mit unserem Debattierclub im Coworking Kemnath stellen wir den fairen und logischen Diskurs in den Mittelpunkt und trainieren damit unsere Argumentationskraft!
 
-There will also be an experience report on coworking: Coworking, why it is so important to break out of the familiar environment every now and then.",,,Friday,09:00:00,18:00:00,,,,,,,,,engelnest
-9/4/2023,Engelnest,Office 2.0 (DE),"Post-Corona, Hybrides Arbeiten und die Möglichkeit zum Home Office: Die Arbeitswelt hat sich in den letzten Jahren enorm verändert. Im Zeiten von steigenden Mieten überlegen immer mehr Unternehmen, ungenutzte Büroflächen abzustoßen und die verbleibenden Räumlichkeiten umzubauen, sodass sie den Anforderungen an moderne Zusammenarbeit gerecht werden. Es werden Zonen definiert, Buchungssysteme eingeführt und über Clean-Desk-Policies diskutiert. Der Innovationsberater Michael Metzger gibt Einblick in ein aktuelles Beratungsprojekt seiner Agentur D.Network, in der die Bedürfnisse von 500 Mitarbeitenden an moderne Zusammenarbeit erhoben worden sind. Michael zeigt Spannungsfelder auf, unterschiedliche Nutzungstypen von Arbeitswelten sowie Prototypen und Lösungsmodelle, die nun beim Kunden eingeführt werden – um die Büroräumlichkeiten mehr wie einen Coworking-Space zu organisieren.",Office 2.0,"Post-Corona, Hybrides Arbeiten und die Möglichkeit zum Home Office: Die Arbeitswelt hat sich in den letzten Jahren enorm verändert. Im Zeiten von steigenden Mieten überlegen immer mehr Unternehmen, ungenutzte Büroflächen abzustoßen und die verbleibenden Räumlichkeiten umzubauen, sodass sie den Anforderungen an moderne Zusammenarbeit gerecht werden. Es werden Zonen definiert, Buchungssysteme eingeführt und über Clean-Desk-Policies diskutiert. Der Innovationsberater Michael Metzger gibt Einblick in ein aktuelles Beratungsprojekt seiner Agentur D.Network, in der die Bedürfnisse von 500 Mitarbeitenden an moderne Zusammenarbeit erhoben worden sind. Michael zeigt Spannungsfelder auf, unterschiedliche Nutzungstypen von Arbeitswelten sowie Prototypen und Lösungsmodelle, die nun beim Kunden eingeführt werden – um die Büroräumlichkeiten mehr wie einen Coworking-Space zu organisieren.",Monday,18:00:00 PM,21:00:00 PM,,,No,info@engelnest.de,,https://www.linkedin.com/events/berlincoworkingtalks-unitingide7104741533773348864/comments/,,,engelnest
-8/15/2023 10:12:33,Dock3 Lausitz,Open Coworking Day,"We will open the doors of our coworking area to all interested parties on 12.09.2023 from 9 am - 6 pm. Cool drinks will be waiting for you, and the use of our coworking workstations is free of charge on this day: first come, first served.
+Nach dem großartigen Erfolg unserer ersten Runde freuen wir uns, Dich zu unserem nächsten Treffen am 23. September um 18 Uhr einzuladen. In einer lebendigen und unterstützenden Atmosphäre wirst Du nicht nur die Kunst der Debatte erlernen, sondern auch Deine rhetorischen Fähigkeiten auf die Probe stellen.
 
-There will also be an experience report on coworking: Coworking, why it is so important to break out of the familiar environment every now and then.",Tag der offenen Coworkingtür,"Wir öffnen aam 12.09.2023 von 9 – 18 Uhr die Türen unseres Coworking-Bereichs für alle Interessenten. Es warten kühle Getränke auf Euch, die Nutzung unserer Coworking-Arbeitsplätze ist an diesem Tag kostenfrei: First come, first served.
+Was erwartet Dich?
+- Etabliertes Format: Bei jeder Debatte wirst Du entweder die Pro- oder Kontraseite vertreten und Deine Argumente zu einem spannenden Thema vorbringen. Durch dieses Format lernst Du, unterschiedliche Perspektiven einzunehmen und Deine Überzeugungskraft zu stärken.
+- Wertvolles Feedback: Was unseren Club besonders macht, ist die kompetente Jury, bestehend aus allen Teilnehmenden, die am Ende jeder Debatte eine wertschätzende Rückmeldung gibt. So erhältst Du konstruktive Kritik, die Dir hilft, Deine Fähigkeiten weiter auszubauen.
 
-Außerdem wird es einen Erfahrungsbericht zum Coworking geben: Coworking, warum es so wichtig ist, ab und zu aus dem bekannten Umfeld auszubrechen.",Tuesday,09:00:00,18:00:00,,https://www.dock3-lausitz.de/kommt-zum-berlin-brandenburg-coworking-festival/,No,f.mueller@asg-spremberg.de,,,,,dock3
-8/28/2023 13:23:14,tuesday coworking,Chandelier Session: M.Rider,"The Chandelier Sessions are back with a bang! This September, join us at the Berlin-Brandenburg Coworking Festival for an evening of music and foot-tapping goodness as we welcome Mirna Stanic aka M.Rider to soak in our chandelier’s spotlight.
+Unsere Mitinitiatoren, Dr. Gabriel Schweizer und „Demokratie leben!“ des BMFSFJ, sind überzeugt, dass der faire Austausch von Argumenten ein Eckpfeiler einer gesunden Gesellschaft ist. Sie möchten Dich dabei unterstützen, Deine Ideen überzeugend zu präsentieren und gleichzeitig die Sichtweisen anderer zu verstehen.
 
-Mirna is a Croatian singer, songwriter, producer and multi-instrumentalist based in Berlin. Taking cues from 1980s pop-rock and 1990s downtempo and house, M.Rider’s music is emotional, kaleidoscopic and distinct. Her voice especially makes her sound stand out even more, leading to comparisons with artists like Nico or Sade.
+Ob Du schon Erfahrung im Debattieren hast oder einfach neugierig bist, spielt keine Rolle – unser Debattierclub heißt Dich herzlich willkommen!
+",Montag / Monday,18:00:00,21:00:00,https://coworking-kemnath.de/events/debattierclub-3/,https://www.facebook.com/events/1835882306899234?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22your_upcoming_events_unit%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D,https://www.linkedin.com/events/7231956404452900864/comments/,,,No,https://coworking-kemnath.de/wp-content/uploads/2024/01/2024-09_DebattierclubKemnath_h-1-scaled.jpg,kemnath
+26.08.2024 14:30:45,thomas@coworkkem.de,Coworking Kemnath,YoungLeader,"Im Rahmen unserer neuen Veranstaltungsreihe “Young Leader” laden wir junge Führungskräfte und solche, die kurz davorstehen, eine Führungsrolle zu übernehmen, herzlich zur ersten Veranstaltung am 24. September um 19 Uhr ein. Diese Reihe richtet sich an ambitionierte Persönlichkeiten, die ihre Führungsqualitäten weiterentwickeln und sich auf die Herausforderungen in leitenden Positionen vorbereiten möchten.
 
-Her latest detour into dance music is expected to yield a dancefloor-ready album, due for release in autumn 2023. Her first new single “Little Things” off the upcoming new album is out on June 16th, offering a first taste of her dreamy, ethereal and genre-bending soundscape.
+Zum Auftakt freuen wir uns, Herrn Johannes Waldhör, Standortleiter bei Siemens Healthineers in Kemnath, begrüßen zu dürfen. Als erfahrene Führungskraft wird Johannes wertvolle Einblicke in seinen persönlichen Werdegang geben und die Chancen und Herausforderungen beleuchten, die sich jungen Führungskräften in der modernen Arbeitswelt bieten.
 
-Tickets to the concert are free, but capacity is limited. Grab your ticket(s) via the Eventbrite link before they’re gone!
+Warum lohnt es sich teilzunehmen?
+- Praxisnahe Einblicke: Erhaltet aus erster Hand wertvolle Erfahrungsberichte und Best Practices von einer erfolgreichen jungen Führungskraft.
+- Chancen und Herausforderungen: Erfahre, wie Du als junge Führungskraft die vielfältigen Herausforderungen meistern und die sich bietenden Chancen optimal nutzen kannst.
+- Netzwerken und Austausch: Nutze die Gelegenheit, sich mit Gleichgesinnten auszutauschen und ein starkes Netzwerk aufzubauen. Der persönliche Austausch im Anschluss an den Vortrag ist ein wesentlicher Bestandteil der Veranstaltung.
+- Weiterentwicklung: Profitiere von den Erfahrungen anderer und erlange wertvolle Impulse für deine eigene berufliche Weiterentwicklung.
 
-- All donations collected at the venue go straight to the artists
-- Venue: tuesday coworking, Bundesallee 187, 10717 Berlin-Wilmersdorf
-- Doors: 7pm
-- Music: 7:30pm
+Diese Veranstaltung findet im Rahmen des Coworking Festivals vom 23. bis 27. September statt. Nutzen Sie diese besondere Gelegenheit, um Teil eines inspirierenden Netzwerks zu werden und sich auf Ihrem Weg zur erfolgreichen Führungskraft weiterzuentwickeln.
 
-Follow Chandelier Sessions on Instagram where we announce new sessions first: instagram.com/chandeliersessionsberlin",Chandelier Session: M.Rider,"Die Chandelier Sessions sind mit einem Knall zurück! Diesen September könnt ihr beim Berlin-Brandenburg Coworking Festival einen Abend voller Musik und Fußwippen erleben, wenn wir Mirna Stanic alias M.Rider im Scheinwerferlicht unseres Kronleuchters begrüßen.
+Datum: 24. September
+Uhrzeit: 19 Uhr
+Ort: Coworking Kemnath
 
-Mirna ist eine kroatische Sängerin, Songwriterin, Produzentin und Multiinstrumentalistin, die in Berlin lebt. Mit Einflüssen aus dem Pop-Rock der 1980er und dem Downtempo und House der 1990er ist die Musik von M.Rider emotional, kaleidoskopisch und unverwechselbar. Vor allem ihre Stimme hebt ihren Sound noch mehr hervor, was zu Vergleichen mit Künstlern wie Nico oder Sade führt.
+Anmeldung: kostenloses Ticket",Dienstag / Tuesday,19:00:00,21:00:00,https://coworking-kemnath.de/events/young-leader-auftaktveranstaltung/,https://www.facebook.com/events/475563385343616?acontext=%7B%22event_action_history%22%3A[%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22your_upcoming_events_unit%22%2C%22surface%22%3A%22bookmark%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22left_rail%22%2C%22surface%22%3A%22bookmark%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22calendar_tab_event%22%2C%22surface%22%3A%22bookmark_calendar%22%7D]%2C%22ref_notif_type%22%3Anull%7D,https://www.linkedin.com/events/7232013164735848448/comments/,,,No,https://coworking-kemnath.de/wp-content/uploads/2024/08/youngleader-scaled.jpg,kemnath
+27.08.2024 16:03:19,events@space-shack.com,Space Shack Coworking,Space Shack - Thirsty Thursday,"Our monthly Thirsty Thursday is back, and this time it's for a special occasion - the Coworking Festival 2024! Look forward to cold drinks, delicious snacks, and great conversations amidst the artistic architecture of our coworking space in Berlin-Schöneberg!",Donnerstag / Thursday,17:00:00,21:00:00,https://space-shack.com/,,https://space-shack.com/,,,No,https://drive.google.com/drive/folders/1P0fV9VaoYL6FffSqD4kfA3wFztAgLJoJ?usp=sharing,space-shack
+05.09.2024 12:33:13,servus@coworking-badtoelz.de,Coworking Bad Tölz,Lernt unsere Coworking-Community besser kennen: Workation & Coworkation,"Lernt unsere Coworking-Community besser kennen: Workation & Coworkation.
 
-Ihr jüngster Abstecher in die Tanzmusik soll ein tanzbares Album hervorbringen, das im Herbst 2023 erscheinen soll. Ihre erste neue Single ""Little Things"" aus dem kommenden neuen Album erschien am 16. Juni und bietet einen ersten Vorgeschmack auf ihre verträumte, ätherische und genreübergreifende Klangwelt.
+W﻿usstet Ihr, dass Workation ein Kunstwort aus working (arbeiten) und vacation (Urlaub) ist? Also, wenn ihr an Orten arbeitet, wo man normalerweise Urlaub macht, oder Urlaub und Arbeiten kombiniert. Wenn ihr zum Arbeiten dann auch noch in einen Coworking-Space geht, die lokale Community sozusagen mitnutzt, dann wird aus ""workation"" die ""coworkation"".
 
-Die Tickets für das Konzert sind kostenlos, aber die Kapazität ist begrenzt. Sichern Sie sich Ihr(e) Ticket(s) über den Eventbrite-Link, bevor sie weg sind!
+B﻿eate Mader, eine der Coworking-Pioniere im Oberland verknüpft, mit ihrer Beratungs-Zielgruppe Tourismus und die Vernetzung als Coworkerin und Coworking Betreiberin beide Welten.
 
-- Alle am Veranstaltungsort gesammelten Spenden gehen direkt an die Künstler.
-- Veranstaltungsort: tuesday coworking, Bundesallee 187, 10717 Berlin-Wilmersdorf
-- Einlass: 19 Uhr
-- Musik: 19:30 Uhr
-
-Folge den Chandelier Sessions auf Instagram, wo wir neue Sessions zuerst ankündigen: instagram.com/chandeliersessionsberlin",Tuesday,19:00:00,22:00:00,,https://www.tuesdaycoworking.com/events/chandelier-session-m-rider/,No,info@tuesdaycoworking.com,,,https://www.eventbrite.de/e/chandelier-session-m-rider-tickets-699173686317,,tuesday
-9/4/2023 16:06:25,IM.PULS,Tours of Berlin Adlershof,Experience 100 years of aviation history or the prototypes for a clean energy future – our guided tours of the site offer a unique experience for people of all ages. And you visit with our Guide secret places. And for the fun factor we will do it with a electric Scooter. You can rent or use your own. We have space for ten people. Please send an E-Mail to salmon@wista.de if you want to be part of it.,Führung durch Adlershof,"Erlebt 100 Jahre Luftfahrtgeschichte oder die Prototypen der Energiewende – unsere Standortführungen bieten einmalige Erlebnisse. Zudem habt Ihr die Möglichkeit geheime Orte zu sehen, die sonst keiner sieht. Und für den Spaßfaktor machen wir die Führung mithilfe von E-Scootern. Diese könnt Ihr vor Ort mieten oder Ihr bringt Euren eigenen mit. Teilnehmerzahl ist auf 10 Personen begrenzt. Bitte vorher anmelden unter salmon@wista.de",Tuesday,14:00:00,15:30:00,,https://www.wista.de/aktuelles/termin/coworking-festival,No,salmon@wista.de,,https://www.linkedin.com/showcase/wista-coworking/?viewAsMember=true,,,impuls
-9/4/2023 16:07:48,IM.PULS,Tours of Berlin Adlershof,"Experience 100 years of aviation history or the prototypes for a clean energy future – our guided tours of the site offer a unique experience for people of all ages. And you visit with our Guide secret places. And for the fun factor we will do it with a electric Scooter. You can rent or use your own. If you want to be a part of it, please send an E-Mail to salmon@wista.de",Führung durch Adlershof,"Erlebt 100 Jahre Luftfahrtgeschichte oder die Prototypen der Energiewende – unsere Standortführungen bieten einmalige Erlebnisse. Zudem habt Ihr die Möglichkeit geheime Orte zu sehen, die sonst keiner sieht. Und für den Spaßfaktor machen wir die Führung mithilfe von E-Scootern. Diese könnt Ihr vor Ort mieten oder Ihr bringt Euren eigenen mit. Teilnehmerzahl ist auf 10 Personen begrenzt. Bitte vorher anmelden unter salmon@wista.de",Wednesday,11:00:00,12:30:00,,https://www.wista.de/aktuelles/termin/coworking-festival,No,salmon@wista.de,,"Erlebt 100 Jahre Luftfahrtgeschichte oder die Prototypen der Energiewende – unsere Standortführungen bieten einmalige Erlebnisse für Jung und Alt. Zudem habt Ihr die Möglichkeit geheime Orte zu sehen, die sonst keiner sieht. Und für den Spaßfaktor machen wir die Führung mithilfe von E-Scootern. Diese könnt Ihr vor Ort mieten oder Ihr bringt Euren eigenen mit.",,,impuls
-9/4/2023 16:08:52,IM.PULS,Tours of Berlin Adlershof,"Experience 100 years of aviation history or the prototypes for a clean energy future – our guided tours of the site offer a unique experience for people of all ages. And you visit with our Guide secret places. And for the fun factor we will do it with a electric Scooter. You can rent or use your own. If you want a part of it, please send an E-Mail to salmon@wista.de",Führung durch Adlershof,"Erlebt 100 Jahre Luftfahrtgeschichte oder die Prototypen der Energiewende – unsere Standortführungen bieten einmalige Erlebnisse. Zudem habt Ihr die Möglichkeit geheime Orte zu sehen, die sonst keiner sieht. Und für den Spaßfaktor machen wir die Führung mithilfe von E-Scootern. Diese könnt Ihr vor Ort mieten oder Ihr bringt Euren eigenen mit. Teilnehmerzahl ist auf 10 Personen begrenzt. Bitte vorher anmelden unter salmon@wista.de",Monday,14:00:00,15:30:00,,https://www.wista.de/aktuelles/termin/coworking-festival,No,salmon@wista.de,,https://www.linkedin.com/showcase/wista-coworking/?viewAsMember=true,,,impuls
-9/4/2023 16:10:17,IM.PULS,Use this chance to kick-start your business idea!,"
-WISTA Management GmbH has created the Adlershof Founder's Lab as a tool to enable young business founders to work on their business idea. We support 2-3 founders per team for a period of one year with 2,000 euros / month. In addition to financial support, our programme includes workshops and coaching on business-related topics. We will say you how and what you have to do and when the next round begin. Please send an E-Mail, if you want to hear the speach.",Ein Jahr um durchzustarten!,"Ihr habt eine Idee und wollt diese gemeinsam als Team weiterentwickeln? Dann nutzt die Gelegenheit, mit der einjährigen Gründungsförderung von WISTA und Senatsverwaltung für Wirtschaft, Energie und Betriebe (SenWEB) Eure Idee auf das nächste Level zu heben. Wir sagen euch, wie es geht und wann die nächste Runde startet. Teilnehmerzahl ist auf 10 Personen begrenzt. Bitte vorher anmelden unter salmon@wista.de",Monday,10:00:00,11:00:00,,https://www.wista.de/aktuelles/termin/coworking-festival,No,salmon@wista.de,,https://www.linkedin.com/showcase/wista-coworking/?viewAsMember=true,,,impuls
-9/4/2023 16:11:26,IM.PULS,Use this chance to kick-start your business idea!,"WISTA Management GmbH has created the Adlershof Founder's Lab as a tool to enable young business founders to work on their business idea. We support 2-3 founders per team for a period of one year with 2,000 euros / month. In addition to financial support, our programme includes workshops and coaching on business-related topics. We will say you how and what you have to do and when the next round begin. Please send an E-Mail to salmon@wista.de if you want to hear the speach.",Ein Jahr um durchzustarten!,"Ihr habt eine Idee und wollt diese gemeinsam als Team weiterentwickeln? Dann nutzt die Gelegenheit, mit der einjährigen Gründungsförderung von WISTA und Senatsverwaltung für Wirtschaft, Energie und Betriebe (SenWEB) Eure Idee auf das nächste Level zu heben. Wir sagen euch, wie es geht und wann die nächste Runde startet. Teilnehmerzahl ist auf 10 Personen begrenzt. Bitte vorher anmelden unter salmon@wista.de",Tuesday,10:30:00,11:30:00,,https://www.wista.de/aktuelles/termin/coworking-festival,No,salmon@wista.de,,https://www.linkedin.com/showcase/wista-coworking/?viewAsMember=true,,,impuls
-9/4/2023 16:12:17,IM.PULS,Use this chance to kick-start your business idea!,"WISTA Management GmbH has created the Adlershof Founder's Lab as a tool to enable young business founders to work on their business idea. We support 2-3 founders per team for a period of one year with 2,000 euros / month. In addition to financial support, our programme includes workshops and coaching on business-related topics. We will say you how and what you have to do and when the next round begin. To hear the speach, please send an E-Mail to salmon@wista.de",Ein Jahr um durchzustarten!,"Ihr habt eine Idee und wollt diese gemeinsam als Team weiterentwickeln? Dann nutzt die Gelegenheit, mit der einjährigen Gründungsförderung von WISTA und Senatsverwaltung für Wirtschaft, Energie und Betriebe (SenWEB) Eure Idee auf das nächste Level zu heben. Wir sagen euch, wie es geht und wann die nächste Runde startet. Teilnehmerzahl ist auf 10 Personen begrenzt. Bitte vorher anmelden unter salmon@wista.de",Wednesday,10:00:00,11:00:00,,https://www.wista.de/aktuelles/termin/coworking-festival,No,salmon@wista.de,,https://www.linkedin.com/showcase/wista-coworking/?viewAsMember=true,,,impuls
-9/4/2023 16:13:11,IM.PULS,Use this chance to kick-start your business idea!,"WISTA Management GmbH has created the Adlershof Founder's Lab as a tool to enable young business founders to work on their business idea. We support 2-3 founders per team for a period of one year with 2,000 euros / month. In addition to financial support, our programme includes workshops and coaching on business-related topics. We will say you how and what you have to do and when the next round begin. If you want to hear the speach, please send an E-Mail to salmon@wista.de",Ein Jahr um durchzustarten!,"Ihr habt eine Idee und wollt diese gemeinsam als Team weiterentwickeln? Dann nutzt die Gelegenheit, mit der einjährigen Gründungsförderung von WISTA und Senatsverwaltung für Wirtschaft, Energie und Betriebe (SenWEB) Eure Idee auf das nächste Level zu heben. Wir sagen euch, wie es geht und wann die nächste Runde startet. Teilnehmerzahl ist auf 10 Personen begrenzt. Bitte vorher anmelden unter salmon@wista.de",Thursday,10:00:00,11:00:00,,https://www.wista.de/aktuelles/termin/coworking-festival,No,salmon@wista.de,,https://www.linkedin.com/showcase/wista-coworking/?viewAsMember=true,,,impuls
-9/4/2023 16:13:50,IM.PULS,Work for free,Use the chance to work in our Coworking Space IM.PULS with a free daypass with a lot of coffee. ,Kostenfrei Arbeiten,Nutzt die Chance und arbeitet in unserem Coworking Space IM.PULS mit einem kostenfreien Tagesticket und einer Menge Kaffee. ,Monday,09:00:00,18:00:00,,https://www.wista.de/aktuelles/termin/coworking-festival,No,salmon@wista.de,,https://www.linkedin.com/showcase/wista-coworking/?viewAsMember=true,,,impuls
-8/25/2023 13:59:03,IM.PULS,Work for free,Use the chance to work in our Coworking Space IM.PULS with a free daypass with a lot of coffee.,Freies Arbeiten,Nutzt die Chance und arbeitet in unserem Coworking Space IM.PULS mit einem kostenfreien Tagesticket und einer Menge Kaffee.,Tuesday,09:00:00,18:00:00,,https://www.wista.de/aktuelles/termin/coworking-festival,No,salmon@wista.de,,https://www.linkedin.com/showcase/wista-coworking/?viewAsMember=true,,,impuls
-8/25/2023 14:01:01,IM.PULS,Work for free,Use the chance to work in our Coworking Space IM.PULS with a free daypass with a lot of coffee.,Freies Arbeiten,Nutzt die Chance und arbeitet in unserem Coworking Space IM.PULS mit einem kostenfreien Tagesticket und einer Menge Kaffee.,Wednesday,09:00:00,18:00:00,,https://www.wista.de/aktuelles/termin/coworking-festival,No,salmon@wista.de,,https://www.linkedin.com/showcase/wista-coworking/?viewAsMember=true,,,impuls
-8/25/2023 14:02:51,IM.PULS,Work for free,Use the chance to work in our Coworking Space IM.PULS with a free daypass with a lot of coffee.,Freies Arbeiten,Nutzt die Chance und arbeitet in unserem Coworking Space IM.PULS mit einem kostenfreien Tagesticket und einer Menge Kaffee.,Thursday,09:00:00,18:00:00,,https://www.wista.de/aktuelles/termin/coworking-festival,No,salmon@wista.de,,https://www.linkedin.com/showcase/wista-coworking/?viewAsMember=true,,,impuls
-8/25/2023 15:29:42,workish,Meet the Machines @ FabLab Neukölln,"The FabLab Neukölln is a collaboration powered by 42berlin and workish.berlin. It’s a maker space, creative workshop, and hardware lab, right here in Neukölln.
-
-The 150sqm FabLab is split into two. A dirt lab with woodworking and metal working equipment, perfect for making dust and loud noises. Across the hall, you’ll find a clean lab equipped with a 3D printer, laser cutter, and textile lab where your electronics or more delicate projects can come to life.
-
-Stop by to meet the machines and the makers.
-
-Update: Reduced activities due to illness.",Meet the Machines @ FabLab Neukölln,"Das FabLab Neukölln ist eine Kooperation von 42berlin und workish.berlin. Es ist ein Makerspace, eine Kreativwerkstatt und ein Hardware-Labor, direkt hier in Neukölln.
-
-Das 150qm große FabLab ist in zwei Bereiche aufgeteilt. Ein schmutziges Labor mit Holz- und Metallbearbeitungsgeräten, perfekt um Staub und Lärm zu machen. Auf der anderen Seite des Flurs findest du ein sauberes Labor mit einem 3D-Drucker, einem Laserschneider und einem Textillabor, in dem deine elektronischen oder empfindlicheren Projekte zum Leben erweckt werden können.
-
-Kommen Sie vorbei und lernen Sie die Maschinen und die Macher kennen.
-Update: Verringerter Umfang durch Krankheit.",Thursday,17:00:00,20:00:00,,https://workish.berlin/fablab,No,taylor@workish.berlin,,,,,workish
-8/25/2023 15:34:28,Coworking Letschin & Coworking Bad Freienwalde,Open Tour ,"We show you around. Get to know our work and event spaces, our community and our projects. In Letschin, you will get to know the former school garden, where our vans is placed and you can relax in our hammock. In Bad Freienwalde you will have the opportunity to get an insight of the historic building. Community Manager Torsten and Christin will show you around. ",Rundgang ,"Komm rum, wir zeigen dir unsere Coworking Spaces. Lerne unsere Arbeits- und Veranstaltungsräume, unsere Community und unsere Projekte kennen. In Letschin kannst du die Alte Schule mit dem schönen Schulhof erkunden. Entspanne in der Hängematte und sieh dir unseren Bauwagen an. In Bad Freienwalde bekommst du einen Einblick des historischen Gebäudes. Community Manager Torsten (Letschin) und Christin (Bad Freienwalde, Oder) werden dich herumführen. ",Monday,10:00:00,11:00:00,,https://www.coworking-oderbruch.de/,No,m.westreicher@stic.de,,,,,coworking-oderbruch
-8/25/2023 15:36:37,Coworking Letschin & Coworking Bad Freienwalde,Open Tour ,"We show you around. Get to know our work and event spaces, our community and our projects. In Letschin, you will get to know the former school and its garden, where our vans is placed and you can relax in our hammock. In Bad Freienwalde you will have the opportunity to get an insight of the historic building. Community Manager Torsten and Christin will show you around. ",Rundgang,"Komm rum, wir zeigen dir unsere Coworking Spaces. Lerne unsere Arbeits- und Veranstaltungsräume, unsere Community und unsere Projekte kennen. In Letschin kannst du die Alte Schule mit dem schönen Schulhof erkunden. Entspanne in der Hängematte und sieh dir unseren Bauwagen an. In Bad Freienwalde bekommst du einen Einblick des historischen Gebäudes. Community Manager Torsten (Letschin) und Christin (Bad Freienwalde, Oder) werden dich herumführen. ",Wednesday,10:00:00,11:00:00,https://www.coworking-oderbruch.de/,,No,m.westreicher@stic.de,,,,,coworking-oderbruch
-8/25/2023 15:37:49,Coworking Letschin & Coworking Bad Freienwalde,Open Tour ,"We show you around. Get to know our work and event spaces, our community and our projects. In Letschin, you will get to know the former school and its garden, where our vans is placed and you can relax in our hammock. In Bad Freienwalde you will have the opportunity to get an insight of the historic building. Community Manager Torsten and Christin will show you around. ",Rundgang ,"Komm rum, wir zeigen dir unsere Coworking Spaces. Lerne unsere Arbeits- und Veranstaltungsräume, unsere Community und unsere Projekte kennen. In Letschin kannst du die Alte Schule mit dem schönen Schulhof erkunden. Entspanne in der Hängematte und sieh dir unseren Bauwagen an. In Bad Freienwalde bekommst du einen Einblick des historischen Gebäudes. Community Manager Torsten (Letschin) und Christin (Bad Freienwalde, Oder) werden dich herumführen. ",Friday,10:00:00,11:00:00,,https://www.coworking-oderbruch.de/,No,m.westreicher@stic.de,,,,,coworking-oderbruch
-8/25/2023 15:41:28,Coworking Letschin & Coworking Bad Freienwalde,Free Coworking ,Free Coworking. Please register here: https://www.coworking-oderbruch.de/buchen/,Kostenloses Probe Coworking ,Kostenloses Probe Coworking. Bitte vorab hier buchen: https://www.coworking-oderbruch.de/buchen/,Monday,09:00:00,15:00:00,,www.coworking-oderbruch.de/buchen/,No,m.westreicher@stic.de,,,,,coworking-oderbruch
-8/25/2023 15:43:21,Coworking Letschin & Coworking Bad Freienwalde,Free Coworking ,Free Coworking. Please register here: https://www.coworking-oderbruch.de/buchen/,Kostenloses Probe Coworking ,Bitte vorab hier buchen: https://www.coworking-oderbruch.de/buchen/,Tuesday,09:00:00,15:00:00,,www.coworking-oderbruch.de/buchen/,No,m.westreicher@sti.de,,,,,coworking-oderbruch
-8/25/2023 15:44:38,Coworking Letschin & Coworking Bad Freienwalde,Free Coworking ,Free Coworking. Please register here: https://www.coworking-oderbruch.de/buchen/,Kostenloses Probe Coworking,Kostenloses Probe Coworking. Bitte vorab hier buchen: https://www.coworking-oderbruch.de/buchen/,Wednesday,09:00:00,15:00:00,,https://www.coworking-oderbruch.de/buchen/,No,m.westreicher@stic.de,,,,,coworking-oderbruch
-8/25/2023 15:45:51,Coworking Letschin & Coworking Bad Freienwalde,Free Coworking ,Free Coworking. Please register here: https://www.coworking-oderbruch.de/buchen/,Kostenloses Probe Coworking,Kostenloses Probe Coworking. Bitte vorab hier buchen: https://www.coworking-oderbruch.de/buchen/,Thursday,09:00:00,15:00:00,,https://www.coworking-oderbruch.de/buchen/,No,m.westreicher@stic.de,,,,,coworking-oderbruch
-8/25/2023 15:47:01,Coworking Letschin & Coworking Bad Freienwalde, Free Coworking,"
-Free Coworking. Please register here: https://www.coworking-oderbruch.de/buchen/",Kostenloses Probe Coworking,Kostenloses Probe Coworking. Bitte vorab hier buchen: https://www.coworking-oderbruch.de/buchen/,Friday,09:00:00,15:00:00,,https://www.coworking-oderbruch.de/buchen/,No,m.westreicher@stic.de,,,,,coworking-oderbruch
-8/25/2023 15:52:22,Coworking Letschin & Coworking Bad Freienwalde,Free Coworking ,"We show you around. Get to know our work and event spaces, our community and our projects. In Letschin, you will get to know the former school garden, where our vans is placed and you can relax in our hammock. In Bad Freienwalde you will have the opportunity to get an insight of the historic building. Community Manager Torsten and Christin will show you around. ",Kostenloses Probe Cowkring ,"Komm rum, wir zeigen dir unsere Coworking Spaces. Lerne unsere Arbeits- und Veranstaltungsräume, unsere Community und unsere Projekte kennen. In Letschin kannst du die Alte Schule mit dem schönen Schulhof erkunden. Entspanne in der Hängematte und sieh dir unseren Bauwagen an. In Bad Freienwalde bekommst du einen Einblick des historischen Gebäudes. Community Manager Torsten (Letschin) und Christin (Bad Freienwalde, Oder) werden dich herumführen. ",Tuesday,09:00:00,15:00:00,,https://www.coworking-oderbruch.de/buchen/,No,m.westreicher@stic.de,,,,,coworking-oderbruch
-8/25/2023 18:47:28,co.creation loft,Breathwork & Balance: Cultivating Skills in Self-Organized Workspaces,"Dive into a transformative session led by breathwork coach, Daniel Micelli. Experience a gentle practice blending conscious connected breath, keen body awareness, and myofascial unwinding. Together, we'll anchor our internal resources, using breath as a guide to send ripples of ease throughout our nervous system, proving invaluable in daily life.
-
-Following this rejuvenating breathwork session, explore the dynamics of the cocreation.loft. Understand how it thrives without classic management and is orchestrated by the coworkers, for the coworkers. Christine Oymann, a seasoned change manager and transformation coach, will shed light on the structures, attitudes, and commitments essential for such a conscious space.
-
-With additional discussion on Meditation & Flow, by professional Meditation Teacher, Eddie Vero
-
-Join us for an evening that bridges the power of breath with the intricacies of self-organized workspaces.",Breath Work & Gleichgewicht: Ressourcen in selbstorganisierten Arbeitsräumen kultivieren,"Tauche ein in eine transformative Session, geleitet vom Breath Work Trainer, Daniel Micelli. Erlebe eine sanfte Praxis, die bewusstes, verbundenes Atmen, scharfe Körperwahrnehmung und myofasziales Entspannen verbindet. Gemeinsam werden wir unsere inneren Ressourcen verankern und den Atem als Leitfaden nutzen, um Wellen der Entspannung durch unser Nervensystem zu senden, was sich im täglichen Leben als unschätzbar wertvoll erweist.
-
-Nach dieser erfrischenden Atemarbeitssitzung kannst du das cocreation.loft erkunden. Wir wollen zeigen wie ein solcher Ort ohne klassisches Management gedeiht und von den Mitgliedern selbst organisiert wird. Christine Oymann, eine erfahrene Change-Managerin und Transformationscoachin, wird Licht auf die inneren Strukturen, Einstellungen und Verpflichtungen werfen, die für einen solchen bewussten Raum unerlässlich sind.
-
-Kommen Sie zu uns und erlebe wie wir die Kraft des Atmens mit den Feinheiten von selbstorganisierten Arbeitsräumen verbinden.",Monday,19:00:00,20:30:00,https://www.facebook.com/cocreationloft/posts/pfbid02n59mquiB1c76Be46QS7G5BfaxKzbGpyrvc8ZwiApaCehhRogH4UrecUrqXCuJk8Rl,,No,edward@thesenseofself.de,,https://www.linkedin.com/events/breathwork-balance-cultivatingr7100495553477705728/,,,cocreation-loft
-8/26/2023 14:31:51,UMA Hub,Once upon a time at UMA Hub...,"...migrants meet at a space with delicious coffee some innovative migrant entrepreneurs. They had fun, created some great stuff and if they have not died, they still continue to found. - The end.
-
-If you want to be part of a great story, then visit UMA Hub at 13.09.23, meet like-minded people and creative minds. See ya.",Es war einmal bei UMA Hub...,"...Migranten, die sich im Coworking Space mit leckerem Kaffee und innovativen GründerInnen mit Migrationshintergrund trafen. Sie hatten Spaß, haben tolle Sachen geschaffen und wenn sie nicht gestorben sind, gründen sie noch weiter. - Ende.
-
-Wenn auch Du Teil einer großartigen Geschichte sein möchtest, dann besuch UMA Hub am 13.09.23, treffe Gleichgesinnte und kreative Köpfe. Bis dann.",Wednesday,17:00:00,19:00:00,,https://www.umahub.com/event-details/once-upon-a-time-at-uma-hub,No,info@umahub.com,,,,,umahub
-8/28/2023 13:02:01,Ahoy Berlin,End of Summer - Pizza 'n Beer,"Let's celebrate the coldest Summer together! Spend a pleasant Friday evening with us, Pizza and beer. It can't get any better. :)",Ende des Sommers - Pizza 'n Bier,"Lasst uns gemeinsam den kältesten Sommer feiern! Verbringe einen angenehmen Freitagmittag mit uns, Pizza und Bier. Besser kann es nicht werden. :)",Friday,16:00:00,19:00:00,,,Yes,info@ahoyberlin.com,,,,,ahoy
-8/28/2023 13:20:59,tuesday coworking,The Discussion Experiment,"Join us for a Berlin-Brandenburg Coworking Festival 2023 event at tuesday coworking as we enjoy another round of The Discussion Experiment! In this series of events, organised by tuesday coworker Igor Don, we explore new techniques to make group discussions more interesting, fun, and insightful. In each session, we discuss a real question to test and refine the method while having a thought-provoking evening at the same time.
-
-This time, we will discuss the following topic: Given that Germany is ageing and younger generations will have less and less influence on what their future should look like - should there be a maximum age for voting?
-
-Come along, experiment and discuss with us. You don't need to prepare anything, just bring curiosity and 2 hours of time.
-
-When: 14 September - 6pm
-Where: tuesday coworking - Belziger Str. 69-71, 10823 Berlin, ground floor
-
-No registration necessary, just turn up! :)",The Discussion Experiment (English-speaking event),"Kommt alle zum Berlin-Brandenburg Coworking Festival 2023 ins tuesday coworking und erleben Sie eine weitere Runde von The Discussion Experiment (in englischer Sprache)! In dieser Veranstaltungsreihe, die von tuesday coworker Igor Don organisiert wird, erforschen wir neue Techniken, um Gruppendiskussionen interessanter, lustiger und aufschlussreicher zu gestalten. In jeder Sitzung diskutieren wir eine reale Frage, um die Methode zu testen und zu verfeinern, während wir gleichzeitig einen Abend verbringen, der zum Nachdenken anregt.
-
-Dieses Mal werden wir das folgende Thema diskutieren: Angesichts der Tatsache, dass Deutschland immer älter wird und die jüngeren Generationen immer weniger Einfluss darauf haben, wie ihre Zukunft aussehen soll - sollte es ein Höchstalter für das Wahlrecht geben?
-
-Kommt vorbei, experimentiert und diskutiert mit uns. Du müsst nichts vorbereiten, nur Neugier und 2 Stunden Zeit mitbringen.
-
-Wann: Donnerstag, 14.09. - 18 Uhr
-Wo: tuesday coworking - Belziger Str. 69-71, 10823 Berlin, Erdgeschoss
-
-Keine Anmeldung nötig, einfach vorbeikommen! :)",Thursday,18:00:00,20:00:00,,https://www.tuesdaycoworking.com/events/the-discussion-experiment/,No,info@tuesdaycoworking.com,,,,,tuesday
-8/29/2023 9:39:30,betahaus,betabreakfast,"betabreakfast is our weekly breakfast tradition at betahaus | Kreuzberg connecting entrepreneurs, startups, creatives, and anyone interested in the Berlin startup scene. Sometimes it’s breakfast and sometimes it’s a pitch event. We’ve had tea tastings, panels, crypto meet ups, demos, and live performances from time to time, too. It’s the original breakfast event since +10 years connecting Berlin entrepreneurs, and the best way to break into the betahaus community.
-
-We’ll bring the croissants. You make the connections.",betabreakfast,"""betabreakfast"" ist unsere wöchentliche Frühstückstradition im betahaus | Kreuzberg, bei der Unternehmer, Startups, Kreative und alle Interessierten der Berliner Startup-Szene zusammenkommen. Manchmal handelt es sich um ein Frühstück, manchmal um ein Pitch-Event. Wir hatten schon Tee-Verkostungen, Diskussionsrunden, Krypto-Treffen, Vorführungen und gelegentlich auch Live-Auftritte. Es ist das ursprüngliche Frühstücksevent, das seit über 10 Jahren Berliner Unternehmer verbindet, und der beste Weg, Teil der betahaus-Community zu werden.
-
-Die Croissants bringen wir mit. Die Verbindungen schaffst du.",Thursday,10:00:00,11:00:00,,https://www.betahaus.com/event/betabreakfast,Yes,gillord@betahaus.de,,,https://www.eventbrite.com/e/betabreakfast-registration-626089509577,,betahaus
-9/4/2023 16:55:59,Coconat,Work and Lifestyle Evolution (Vision Quest Bar-Camp),"Take part in a 'Vision Quest-Bar Camp', a platform for participants to collectively speculate on future scenarios where individuals have the freedom to explore the world and life/work spaces by leveraging tech advancements, seamlessly moving between urban & rural environments, or slow travel far away.
-
-Let’s revolutionize the way we live; imagining a world where AI automates routine tasks, XR transforms the way we communicate and collaborate, and workspace autonomy liberates individuals from the constraints of presence. We explore the implications of these advancements on our daily lives.
-
-Online event hosted and moderated by COCONAT - a workation retreat co-founder Julianne Becker. Please register with your email address to participate.
-
-In person, the Coconat event is generously hosted at Engelnest Coworking (also the location of the closing party).
-
--Hopeful imagination of future, spring points offered and ideas soar - guilt free world exploration, experience not exploitation - future of life
-
--Participants gain insights into potential disruptions, challenges, and opportunities, allowing them to adapt and prepare for the evolving landscape.
-
--These collaborations can lead to joint projects, shared resources, and cooperative initiatives that enhance the services and offerings of participants
-
-REGISTRATION - https://forms.gle/oBkqmfPvJjrZiWig7",Work and Lifestyle Evolution (Vision Quest Bar-Camp),"Take part in a 'Vision Quest-Bar Camp', a platform for participants to collectively speculate on future scenarios where individuals have the freedom to explore the world and life/work spaces by leveraging tech advancements, seamlessly moving between urban & rural environments, or slow travel far away.
-
-Let’s revolutionize the way we live; imagining a world where AI automates routine tasks, XR transforms the way we communicate and collaborate, and workspace autonomy liberates individuals from the constraints of presence. We explore the implications of these advancements on our daily lives.
-
-Online event hosted and moderated by COCONAT - a workation retreat co-founder Julianne Becker. Please register with your email address to participate.
-
-In person, the Coconat event is generously hosted at Engelnest Coworking (also the location of the closing party).
-
--Hopeful imagination of future, spring points offered and ideas soar - guilt free world exploration, experience not exploitation - future of life
-
--Participants gain insights into potential disruptions, challenges, and opportunities, allowing them to adapt and prepare for the evolving landscape.
-
--These collaborations can lead to joint projects, shared resources, and cooperative initiatives that enhance the services and offerings of participants
-
-REGISTRATION: https://forms.gle/oBkqmfPvJjrZiWig7",Friday,15:00:00,17:00:00,https://fb.me/e/36pwUVRKZ,,No,julianne@coconat-space.com,,https://www.linkedin.com/events/workandlifestyleevolution-power7102627050087174145/,,,coconat
-8/31/2023 17:12:42,workish,Weekend-ish Community Beers,"Every week, we meet for beers and BBQ in the workish garden. Join us for the Coworking Festival edition! ",Weekend-ish Community Beers,Jede Woche treffen wir uns zu Bier und BBQ im Workish Garden. Mach mit bei der Coworking Festival Ausgabe! ,Wednesday,18:00:00,20:00:00,,,No,taylor@workish.berlin,,,,,workish
-9/1/2023 16:05:23,Brick coworking,BRIK Coworking: Your Week of Free Work,"Explore the Future of Work at BRIK Coworking! From 12/09 to 15/09/23, we're giving you the opportunity to test our top-notch workspaces for FREE.
-Sign up now and secure your spot! Please note that registration is required at least 48 hours in advance. Don't miss this chance to work productively and be inspired.",BRIK Coworking: Deine Woche des kostenlosen Arbeitens!,"Entdecke die Zukunft des Arbeitens im BRIK Coworking! Vom 12.09. bis zum 15.09.23 bieten wir dir die Chance, unseren erstklassigen Arbeitsraum KOSTENLOS zu testen. Melde dich jetzt unter coworking@brik.land an und sichere dir deinen Platz! Bitte beachte, dass eine Anmeldung mindestens 48 Stunden im Voraus erforderlich ist. Verpasse nicht diese Gelegenheit, produktiv und inspiriert zu arbeiten.",Friday,08:00:00,20:00:00,,,No,coworking@brik.land,,,,,brik
-9/1/2023 16:08:49,Brick coworking,BRIK Coworking: Your Week of Free Work,"Explore the Future of Work at BRIK Coworking! From 12/09 to 15/09/23, we're giving you the opportunity to test our top-notch workspaces for FREE.
-Sign up now and secure your spot! Please note that registration is required at least 48 hours in advance. Don't miss this chance to work productively and be inspired.",BRIK Coworking: Deine Woche des kostenlosen Arbeitens!,"Entdecke die Zukunft des Arbeitens im BRIK Coworking! Vom 12.09. bis zum 15.09.23 bieten wir dir die Chance, unseren erstklassigen Arbeitsraum KOSTENLOS zu testen. Melde dich jetzt unter coworking@brik.land an und sichere dir deinen Platz! Bitte beachte, dass eine Anmeldung mindestens 48 Stunden im Voraus erforderlich ist. Verpasse nicht diese Gelegenheit, produktiv und inspiriert zu arbeiten.",Thursday,08:00:00,20:00:00,,,No,coworking@brik.land,,,,,brik
-9/1/2023 16:10:57,Brick coworking,BRIK Coworking: Your Week of Free Work,"Explore the Future of Work at BRIK Coworking! From 12/09 to 15/09/23, we're giving you the opportunity to test our top-notch workspaces for FREE.
-Sign up now and secure your spot! Please note that registration is required at least 48 hours in advance. Don't miss this chance to work productively and be inspired.",BRIK Coworking: Deine Woche des kostenlosen Arbeitens!,"Entdecke die Zukunft des Arbeitens im BRIK Coworking! Vom 12.09. bis zum 15.09.23 bieten wir dir die Chance, unseren erstklassigen Arbeitsraum KOSTENLOS zu testen. Melde dich jetzt unter coworking@brik.land an und sichere dir deinen Platz! Bitte beachte, dass eine Anmeldung mindestens 48 Stunden im Voraus erforderlich ist. Verpasse nicht diese Gelegenheit, produktiv und inspiriert zu arbeiten.",Wednesday,08:00:00,20:00:00,,,No,coworking@brik.land,,,,,brik
-9/3/2023 20:25:37,tuesday coworking,Bike Tour: Schöneberg Coworking Spaces,"It's the Berlin-Brandenburg Coworking Festival 2023 and you know what that means!
-It's time to discover what the Berlin coworking ecosystem has to offer!
-
-Join me (John from tuesday coworking) at 4pm on Friday, 15 September, as we all get on on our bikes and find out what's behind the doors of four very different Schöneberg coworking spaces!
-
-Here are the details:
-
-Duration: 2ish hours
-Meeting point is Großbeerenstrasse 60
-
-The spaces we'll visit:
-16:00: Uma Hub (Großbeerenstrasse 60)
-16:40: tuesday coworking (Belziger Strasse 71)
-(17:00 if there's time: tuesday coworking, Feurigstrasse 51)
-17:20: District One
-17:50: Engelnest
-
-The Coworking Festival's Closing Party takes place at Engelnest from 18:00, so why not stick around after the tour for some drinks and super casual networkin'!
-
-Make sure to RSVP here so we don't pedal off without you!",Fahrradtour durch die Coworking-Spaces Schönebergs,"Es ist das Berlin-Brandenburg Coworking Festival 2023 und du weißt, was das bedeutet!
-Es ist Zeit zu entdecken, was das Berliner Coworking-Ökosystem zu bieten hat!
-
-Begleite mich (John von tuesday coworking) am Freitag, den 15. September um 16 Uhr, wenn wir uns alle auf unsere Räder schwingen und herausfinden, was sich hinter den Türen von vier sehr unterschiedlichen Coworking Spaces in Schöneberg verbirgt!
-
-Hier sind die Details:
-
-Dauer: ca. 2 Stunden
-Treffpunkt: Großbeerenstraße 60
-
-Die Spaces, die wir besuchen sind:
-
-16:00 Uhr: Uma Hub (Großbeerenstraße 60)
-16:40: tuesday coworking (Belziger Straße 71)
-(17:00 wenn noch Zeit ist: tuesday coworking, Feurigstrasse 51)
-17:20: District One
-17:50 Uhr: Engelnest
-
-Die Closing Party des Coworking Festivals findet ab 18:00 Uhr im Engelnest statt. Bleibt also nach der Tour noch für ein paar Drinks und super lässiges Networking!
-
-Melde dich an, damit wir nicht ohne dich losfahren!",Friday,16:00:00,18:00:00,,https://www.addevent.com/event/It18489849,No,info@tuesdaycoworking.com,,,,,tuesday
-9/4/2023 0:48:52,Havel Space,My first Wordpress Website,A workshop about the necessary steps to a professional website. From hosting provider to website design with Wordpress to SEO.,Meine erste Wordpress Webseite,Ein Workshop über die notwendigen Schritte zur professionellen Website. Vom Hosting-Anbieter über Webseitengestaltung mit Wordpress bis SEO.,Monday,18:00:00,20:00:00,,https://www.havelspace.de/events,No,rick@havelspace.de,,,,https://www.meetup.com/de-DE/havel-valley/events/295872232/,havelspace
-9/4/2023 0:56:06,Havel Space,Lunch & Learn: Creative Marketing with Reels,Learn how to create handmade frame-by-frame videos for your social media presence. Delicious snacks will be provided.,Lunch & Learn: Kreatives Marketing mit Reels,Lerne wie du handgemachte Frame-by-Frame Videos erstellst für deinen Social Media Auftritt. Leckere Snacks werden zur Verfügung gestellt.,Wednesday,12:00:00,13:00:00,,https://www.havelspace.de/events,No,rick@havelspace.de,,,,https://www.meetup.com/de-DE/havel-valley/events/295872585/,havelspace
-9/4/2023 1:00:51,Havel Space,Online Self Promotion,"Entrepreneur Lars Schulze answers questions on the topic of self-marketing via social media, branding to web3 and NFT's.",Online Selbstvermarktung,"Unternehmer Lars Schulze steht Rede und Antwort zum Thema Selbstvermarkung über Social Media, Branding bis zu web3 und NFT’s.",Wednesday,18:00:00,20:00:00,,https://www.havelspace.de/events,No,rick@havelspace.de,,,,https://www.meetup.com/havel-valley/events/295872719/,havelspace
-9/4/2023 1:06:00,Havel Space,Improve Customer Service through AI,Learn which tools and technologies help to improve your Online-Shop and strengthen your website and how they work., Kundenservice-Qualität durch KI verbessern,Erfahre welche Tools und Technologien zur Verbesserung deines Online-Shops und Stärkung deiner Website helfen und wie sie funktionieren.,Thursday,18:00:00,20:00:00,,https://www.havelspace.de/events,No,rick@havelspace.de,,,,https://www.meetup.com/havel-valley/events/295797891/,havelspace
-9/4/2023 16:38:51,Coconat,Open Coworking,"Come and try out Coworking at Coconat.
-Free Coworking (for non-members)
-
-Have you been wondering what it is like to work from Coconat, rather than commuting or staying in your home office. Come then, now is the time to give it a try!
-
-Coconat offers one week of free coworking for those who are curious to try.
-
-Coconat stands for Community and Concentrated work in Nature, and was designed with productivity and healthy work practices - come on by!
-
-Want to join lunch? Everyone sits at the same table at 1pm. 9€ for buffet style vegetarian meal.
-",Offenes Coworking,"(Übersetzt von einem Roboter)
-
-Komm und probiere Coworking bei Coconat aus.
-Kostenloses Coworking (für Nicht-Mitglieder)
-
-Hast du dich schon gefragt, wie es ist, von Coconat aus zu arbeiten, anstatt zu pendeln oder in deinem Home Office zu bleiben? Dann ist es jetzt an der Zeit, es auszuprobieren!
-
-Coconat bietet eine Woche kostenloses Coworking für alle, die neugierig darauf sind.
-
-Coconat steht für ""Community and Concentrated work in Nature"" (Gemeinschaft und konzentriertes Arbeiten in der Natur) und wurde mit Blick auf Produktivität und gesunde Arbeitspraktiken entwickelt - komm vorbei!
-
-Willst du am Mittagessen teilnehmen? Um 13 Uhr sitzen alle an einem Tisch. 9€ für ein vegetarisches Buffet.",Monday,08:30:00,19:00:00,,https://coconat-space.com/events/open-coworking-berlin-brandenburg-coworking-festival/,No,julianne@coconat-space.com,,,,,coconat
-9/4/2023 16:40:54,Coconat,Open Coworking,"Come and try out Coworking at Coconat.
-Free Coworking (for non-members)
-
-Have you been wondering what it is like to work from Coconat, rather than commuting or staying in your home office. Come then, now is the time to give it a try!
-
-Coconat offers one week of free coworking for those who are curious to try.
-
-Coconat stands for Community and Concentrated work in Nature, and was designed with productivity and healthy work practices - come on by!
-
-Want to join lunch? Everyone sits at the same table at 1pm. 9€ for buffet style vegetarian meal.",Offenes Coworking,"(Übersetzt von einem Roboter)
-
-Komm und probiere Coworking bei Coconat aus.
-Kostenloses Coworking (für Nicht-Mitglieder)
-
-Hast du dich schon gefragt, wie es ist, von Coconat aus zu arbeiten, anstatt zu pendeln oder in deinem Home Office zu bleiben? Dann ist es jetzt an der Zeit, es auszuprobieren!
-
-Coconat bietet eine Woche kostenloses Coworking für alle, die neugierig darauf sind.
-
-Coconat steht für ""Community and Concentrated work in Nature"" (Gemeinschaft und konzentriertes Arbeiten in der Natur) und wurde mit Blick auf Produktivität und gesunde Arbeitspraktiken entwickelt - komm vorbei!
-
-Willst du am Mittagessen teilnehmen? Um 13 Uhr sitzen alle an einem Tisch. 9€ für ein vegetarisches Buffet.",Tuesday,08:30:00,19:00:00,,https://coconat-space.com/events/open-coworking-berlin-brandenburg-coworking-festival/,No,julianne@coconat-space.com,,,,,coconat
-9/4/2023 16:42:15,Coconat,Open Coworking,"Come and try out Coworking at Coconat.
-Free Coworking (for non-members)
-
-Have you been wondering what it is like to work from Coconat, rather than commuting or staying in your home office. Come then, now is the time to give it a try!
-
-Coconat offers one week of free coworking for those who are curious to try.
-
-Coconat stands for Community and Concentrated work in Nature, and was designed with productivity and healthy work practices - come on by!
-
-Want to join lunch? Everyone sits at the same table at 1pm. 9€ for buffet style vegetarian meal.",Offenes Coworking,"(Übersetzt von einem Roboter)
-
-Komm und probiere Coworking bei Coconat aus.
-Kostenloses Coworking (für Nicht-Mitglieder)
-
-Hast du dich schon gefragt, wie es ist, von Coconat aus zu arbeiten, anstatt zu pendeln oder in deinem Home Office zu bleiben? Dann ist es jetzt an der Zeit, es auszuprobieren!
-
-Coconat bietet eine Woche kostenloses Coworking für alle, die neugierig darauf sind.
-
-Coconat steht für ""Community and Concentrated work in Nature"" (Gemeinschaft und konzentriertes Arbeiten in der Natur) und wurde mit Blick auf Produktivität und gesunde Arbeitspraktiken entwickelt - komm vorbei!
-
-Willst du am Mittagessen teilnehmen? Um 13 Uhr sitzen alle an einem Tisch. 9€ für ein vegetarisches Buffet.",Wednesday,08:30:00,19:00:00,,https://coconat-space.com/events/open-coworking-berlin-brandenburg-coworking-festival/,No,julianne@coconat-space.com,,,,,coconat
-9/4/2023 16:43:41,Coconat,Open Coworking,"Come and try out Coworking at Coconat.
-Free Coworking (for non-members)
-
-Have you been wondering what it is like to work from Coconat, rather than commuting or staying in your home office. Come then, now is the time to give it a try!
-
-Coconat offers one week of free coworking for those who are curious to try.
-
-Coconat stands for Community and Concentrated work in Nature, and was designed with productivity and healthy work practices - come on by!
-
-Want to join lunch? Everyone sits at the same table at 1pm. 9€ for buffet style vegetarian meal.",Offenes Coworking,"(Übersetzt von einem Roboter)
-
-Komm und probiere Coworking bei Coconat aus.
-Kostenloses Coworking (für Nicht-Mitglieder)
-
-Hast du dich schon gefragt, wie es ist, von Coconat aus zu arbeiten, anstatt zu pendeln oder in deinem Home Office zu bleiben? Dann ist es jetzt an der Zeit, es auszuprobieren!
-
-Coconat bietet eine Woche kostenloses Coworking für alle, die neugierig darauf sind.
-
-Coconat steht für ""Community and Concentrated work in Nature"" (Gemeinschaft und konzentriertes Arbeiten in der Natur) und wurde mit Blick auf Produktivität und gesunde Arbeitspraktiken entwickelt - komm vorbei!
-
-Willst du am Mittagessen teilnehmen? Um 13 Uhr sitzen alle an einem Tisch. 9€ für ein vegetarisches Buffet.",Thursday,08:30:00,19:00:00,,https://coconat-space.com/events/open-coworking-berlin-brandenburg-coworking-festival/,No,julianne@coconat-space.com,,,,,coconat
-9/4/2023 16:45:16,Coconat,Open Coworking,"Come and try out Coworking at Coconat.
-Free Coworking (for non-members)
-
-Have you been wondering what it is like to work from Coconat, rather than commuting or staying in your home office. Come then, now is the time to give it a try!
-
-Coconat offers one week of free coworking for those who are curious to try.
-
-Coconat stands for Community and Concentrated work in Nature, and was designed with productivity and healthy work practices - come on by!
-
-Want to join lunch? Everyone sits at the same table at 1pm. 9€ for buffet style vegetarian meal.",Offenes Coworking,"(Übersetzt von einem Roboter)
-
-Komm und probiere Coworking bei Coconat aus.
-Kostenloses Coworking (für Nicht-Mitglieder)
-
-Hast du dich schon gefragt, wie es ist, von Coconat aus zu arbeiten, anstatt zu pendeln oder in deinem Home Office zu bleiben? Dann ist es jetzt an der Zeit, es auszuprobieren!
-
-Coconat bietet eine Woche kostenloses Coworking für alle, die neugierig darauf sind.
-
-Coconat steht für ""Community and Concentrated work in Nature"" (Gemeinschaft und konzentriertes Arbeiten in der Natur) und wurde mit Blick auf Produktivität und gesunde Arbeitspraktiken entwickelt - komm vorbei!
-
-Willst du am Mittagessen teilnehmen? Um 13 Uhr sitzen alle an einem Tisch. 9€ für ein vegetarisches Buffet.",Friday,08:30:00,19:00:00,,https://coconat-space.com/events/open-coworking-berlin-brandenburg-coworking-festival/,No,julianne@coconat-space.com,,,,,coconat
-9/4/2023 22:50:04,co.up coworking,Sustainability in coworking spaces,"Coworking spaces also face the challenge of using resources sparingly and sustainably. As part of the ""sharing economy"", sustainable resource use is part of their DNA anyway, but in day-to-day business there are still many areas where specific challenges arise: Energy consumption and efficiency, waste avoidance and separation, food consumption, and more.
-
-Our guests this evening:
-
-The Instant Group, Gold Sponsor of the Coworking Festival, has created a ""Sustainability Index"" for coworking spaces, which they will present for the first time in Germany this evening.
-
-Pascal Weith-Höinghaus, Von Westfalen GmbH, is a specialist in sustainability consulting and will introduce us to the topic ""CO2 handprint"".
-
-In addition, there will be practical examples from the coworking environment with snacks and drinks, of course, the opportunity for exchange and conversation. ",Nachhaltigkeit in Coworking Spaces,"Auch Coworking Spaces stehen vor der Herausforderung, Ressourcen schonend und nachhaltig einzusetzen. Als Teil der ""Sharing Economy"" ist nachhaltige Ressourcennutzung zwar ohnehin  Teil ihrer DNA, aber im täglichen Geschäft gibt es noch immer viele Bereiche, in denen sich konkrete Herausforderungen stellen: Energieverbrauch und - effizienz, Müllvermeidung und -trennung, Lebensmittelverbrauch und einiges mehr.
-
-Unsere Gesprächspartner an diesem Abend:
-Die Instant Group, Gold Sponsor des Coworking Festivals, hat einen ""Sustainability Index"" für Coworking Spaces erstellt, den sie an diesem Abend erstmals in Deutschland vorstellen werden.
-
-Pascal Weith-Höinghaus, Von Westfalen GmbH, ist Spezialist für Nachhaltigkeitsberatung und wird uns in das Thema ""CO2-Handabdruck"" einführen.
-
-Daneben gibt es Praxisbeispiele aus dem Coworkingumfeld bei Snacks und Getränken natürlich die Möglichkeit für Austausch und Gespräche.
-
-
-D",Thursday,17:00:00,20:00:00,https://www.facebook.com/events/292516820057617/?acontext=%7B%22event_action_history%22%3A[%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22left_rail%22%2C%22surface%22%3A%22bookmark%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22create_dialog%22%7D]%2C%22ref_notif_type%22%3Anull%7D,,No,bjoern@kiez-buero.de,,https://www.linkedin.com/events/7104558346623426560/comments/,,https://www.meetup.com/de-DE/kiez-buro-coworking-meetup/events/295891747/,co-up
-9/5/2023 10:33:39,Engelnest,Unlock the Potential of Berlin Coworking (EN),How agile methodologies are shaping the way business operates and how many opportunities it brings to us in terms of creating an international startup community in Berlin. ,Unlock the Potential of Berlin Coworking (EN),How agile methodologies are shaping the way business operates and how many opportunities it brings to us in terms of creating an international startup community in Berlin. ,Wednesday,18:00:00,21:00:00,,,No,irmak@engelnest.de,,https://www.linkedin.com/events/berlincoworkingtalks-unitingide7104741533773348864/comments/,,,engelnest
-9/5/2023 13:46:41,Loft 102,Open Coworking Day,"On Tuesday and Wednesday, 12 + 13.09.2023, we invite all interested to visit our new space for creative work.
-On these days, we will provide you with our coworking workspaces free of charge in the time from 10-16:00. Let us inspire you and spoil you with a delicious coffee.
-We look forward to seeing you!
-Please book in advance via:
-www.coworkingberlin.de/kontakt",Open Coworking Day,"Am Dienstag und Mittwoch, 12.+13.09.2023, laden wir alle Interessierten ein, unsere neuen Raum für kreatives Arbeiten zu besuchen.
-An diesen Tagen stellen wir euch in der Zeit von 10-16:00 Uhr unsere Coworking-Arbeitsplätze kostenlos zu Verfügung. Lasst euch inspirieren und von uns mit einem leckeren Kaffee verwöhnen.
-Wir freuen uns auf euch!
-Gerne vorab buchen über:
-www.coworkingberlin.de/kontakt",Wednesday,10:00:00,16:00:00,,,No,loft102@coworkingberlin.de,,,,,loft-102
-9/6/2023 18:31:25,denizen house,Hawaii Photo Exhibition w/ Madalina Vintilescu,"Come and see our coworking space and enjoy the photo exhibition opening night at Denizen House! Experience the enchantment of Hawaii through the lens of the talented photographer Madalina Vintilescu, who has curated a stunning collection of photographs over three years during her travels. Join us at her vernissage, where all photograph sales will directly benefit the victims of the devastating fires on Maui Island. This event offers a unique opportunity to embrace the beauty of Hawaii's landscapes and population while making a meaningful contribution to a community in need.",Hawaii-Fotoausstellung mit Madalina Vintilescu,"Besuchen Sie unseren Coworking Space und genießen Sie die Eröffnungsnacht der Fotoausstellung im Denizen House! Erleben Sie den Zauber Hawaiis durch die Linse der talentierten Fotografin Madalina Vintilescu, die auf ihren Reisen über drei Jahre hinweg eine atemberaubende Fotosammlung zusammengestellt hat. Seien Sie bei ihrer Vernissage dabei, bei der alle Fotoverkäufe direkt den Opfern der verheerenden Brände auf der Insel Maui zugute kommen. Diese Veranstaltung bietet eine einzigartige Gelegenheit, die Schönheit der Landschaften und der Bevölkerung Hawaiis zu genießen und gleichzeitig einen sinnvollen Beitrag für eine bedürftige Gemeinschaft zu leisten.",Thursday,18:30:00,22:00:00,,,No,info@thisisdenizen.com,,,https://www.eventbrite.de/e/hawaii-photography-exhibition-tickets-713722712847,,denizen
-9/5/2023 16:47:08,betahaus,Cobot Meet & Greet: Automation tools for your space,"Meet the team behind your favorite coworking space management software!
-
-You want to optimize and automate your space? Or you are already, but something isn’t quite working? In an open session hosted by Betahaus, the Cobot team will share tips and tricks around automating your space, from setup advice to expert insider knowledge. Bring all your questions, ideas and suggestions – You’ll get to chat directly with the founders, developers, designers and support team behind Cobot, and talk shop!
-
-Cobot is the leading coworking management solution, offering automated payments, invoices, bookings, event, community and visitor management, and much more. Cobot was founded along with the coworking movement in Berlin over a decade ago. Today Cobot powers hundreds of spaces and serves hundreds of thousands of coworkers around the world.",Cobot Meet & Greet: Automatisierungstipps für deinen Space,"Möchtest du deinen Space optimieren und automatisieren? Oder machst du das bereits, aber irgendetwas läuft noch nicht ganz rund? In einer lockeren Runde teilt das Cobot-Team Tipps und Tricks zur Automatisierung deines Spaces – von Starthilfe bis zu Insider-Know-how. Bring alle deine Fragen, Ideen und Vorschläge mit – Du hast die Gelegenheit, direkt mit den Gründer*innen, Entwickler*innen, und dem Support-Team von Cobot zu plaudern und dich auszutauschen!
-
-Cobot ist die führende Lösung zur Verwaltung von Coworking-Spaces und bietet automatisierte Zahlungen, Rechnungsstellung, Buchungen, Event-Organisation, Community-Management und Besucherverwaltung und vieles mehr. Cobot wurde vor über einem Jahrzehnt zusammen mit der Coworking-Bewegung in Berlin gegründet. Heute unterstützt Cobot Hunderte von Spaces und organisiert Hunderttausende von Coworkern weltweit.",Thursday,14:00:00,15:30:00,https://www.facebook.com/cobot.me,https://www.cobot.me/,No,kriessse@gmail.com,,https://www.linkedin.com/company/cobot/,,,betahaus
-9/5/2023 16:54:02,Engelnest,Cobot Meet & Greet: Automation tools for your space,"Meet the team behind your favorite coworking space management software!
-
-You want to optimize and automate your space? Or you are already, but something isn’t quite working? In an open session hosted by Engelnest, the Cobot team will share tips and tricks around automating your space, from setup advice to expert insider knowledge. Bring all your questions, ideas and suggestions – You’ll get to chat directly with the founders, developers, designers and support team behind Cobot, and talk shop!
-
-Cobot is the leading coworking management solution, offering automated payments, invoices, bookings, event, community and visitor management, and much more. Cobot was founded along with the coworking movement in Berlin over a decade ago. Today Cobot powers hundreds of spaces and serves hundreds of thousands of coworkers around the world.",Cobot Meet & Greet: Automatisierungstipps für deinen Space,"Möchtest du deinen Space optimieren und automatisieren? Oder machst du das bereits, aber irgendetwas läuft noch nicht ganz rund? In einer lockeren Runde (zu Gast bei Engelnest) teilt das Cobot-Team Tipps und Tricks zur Automatisierung deines Spaces – von Starthilfe bis zu Insider-Know-how. Bring alle deine Fragen, Ideen und Vorschläge mit – Du hast die Gelegenheit, direkt mit den Gründer*innen, Entwickler*innen, und dem Support-Team von Cobot zu plaudern und dich auszutauschen!
-
-Cobot ist die führende Lösung zur Verwaltung von Coworking-Spaces und bietet automatisierte Zahlungen, Rechnungsstellung, Buchungen, Event-Organisation, Community-Management und Besucherverwaltung und vieles mehr. Cobot wurde vor über einem Jahrzehnt zusammen mit der Coworking-Bewegung in Berlin gegründet. Heute unterstützt Cobot Hunderte von Spaces und organisiert Hunderttausende von Coworkern weltweit.",Friday,14:00:00,15:30:00,https://www.facebook.com/cobot.me,https://www.cobot.me/,No,kriessse@gmail.com,,https://www.linkedin.com/company/cobot/,,,engelnest
-9/5/2023 17:21:20,Loft 102,Open Coworking Day,"On Tuesday and Wednesday, 12 + 13.09.2023, we invite all interested to visit our new space for creative work.
-On these days, we will provide you with our coworking workspaces free of charge in the time from 10-16:00. Let us inspire you and spoil you with a delicious coffee.
-We are looking forward to meeting you!
-Please book in advance via:
-www.coworkingberlin.de/kontakt",Open Coworking Day,"Am Dienstag und Mittwoch, 12.+13.09.2023, laden wir alle Interessierten ein, unsere neuen Raum für kreatives Arbeiten zu besuchen.
-An diesen Tagen stellen wir euch in der Zeit von 10-16:00 Uhr unsere Coworking-Arbeitsplätze kostenlos zu Verfügung. Lasst euch inspirieren und von uns mit einem leckeren Kaffee verwöhnen.
-Wir freuen uns auf euch!
-Gerne vorab buchen über:
-www.coworkingberlin.de/kontakt",Tuesday,10:00:00,16:00:00,,,No,loft102@coworkingberlin.de,,,,,loft-102
-9/7/2023 22:35:10,C*SPACE Berlin,CO-WORKING LUNCH & LEARN with key-note on: What is impact and how can it be usefull for my business? ,"The Co-Working Lunch and Learn is our monthly event for space and networking members, collaborators and all curious new minds to connect. Purpose: Exchange and inspire each other with exciting work ideas, make new connections, find out what we could do together in the community. This event will be special one: First, in the spirit of solidarity we celebrate together CO-WORKING CULTURE with all other participants of the festival! Second, we have a key-note by our member Mike Romig, founder of Purpose + Motion, specialised in change making processes on: ""Social Impact: What is it, and how can it be useful for me/ my business?”. Third, C*SPACE co-founder and co-host Katja Hellkötter will be sharing news about the new C*SPACE upcoming ""C*SPACE LAB for Creative & Social Entrepreneurship"" that is supported by the German Ministry of Economics and its Social Economy initiative.
-Agenda:
-12:30: Arrival, visit of space, welcome drink
-13:00: Welcome by host
-13:15: input speech by Mike Romig
-13:30-14:00: Tour de Table, Intro by participants.
-14:00-14:30: Free Networking
-
-Fee EURO 10. Registration: info@c-space.eu ",CO-WORKING LUNCH & LEARN Meet-Up. Key-Note Speech on IMPACT.,"Unser C*SPACE LUNCH & LEARN am 13. September wird ein ganz besonderes werden: Gleich zwei Kontexte gibt es zu feiern: Erstens, wir sind mit diesem Event wieder Teil des Berlin Brandenburg Co-Working Festivals! Und zweitens: Wir werden das erste C*SPACE Community interne Kick-Off unseres neuen Programms “C*SPACE LAB for Social & Creative Entrepreneurship” machen: Wir haben eine Förderung im Rahmen des Programm REACT WITH IMPACT des Bundesministeriums für Wirtschaft und Klima erhalten. Bei diesem Lunch werden wir unserer Community, interessierten Netzwerk-Partnerinnen sowie allen Negierungen aus naher und ferner Nachbarschaft erzählen, worum es dabei geht und wie ihr teilnehmen könnt! Geplant sind noch 4 Workshops bis Ende des Jahres, noch gibt es Raum für Co-Creation. Wir wollen wissen: Was sind Eure Themen und Interessen?
-
-Ferner freuen auf einen Input von Mike Romig, Gründer der auf Transformationsprozessbegleitung spezialisierten Agentur Purpose + Motion zum Thema SOCIAL IMPACT - Was ist Impact? Welche Relevanz hat Impact für mich und mein Business?
-
-Ablauf:
-Ab 12:45 -  Ankommen / Welcome-Drink / Registration
-13:00 - Welcome + Intro
-13:15 - Input presentation by Mike Romig, P+M: On IMPACT and CHANGE MAKING
-13:30-14:00: Tour de Table - Introductions
-14:-14:30: Free Networking
-
-Language: Depending on the majority of people around the table the inputs will be either in German or in English, beyond that, everyone around the table can speak what ever language suits best to have good conversations.
-Cost: EURO 10 for lunch. RSVP required: info@c-space.eu (key word: Co-Working Lunch Sept 13)
-",Wednesday,13:00:00,14:30:00,,,No,katja.hellkoetter@c-space.eu,,https://www.linkedin.com/company/65584685/admin/feed/posts/,,,c-space
-9/8/2023 10:10:10,Engelnest,Growing Startup Ecosystem in Berlin,"Anna Wiese and Kemal Apaydin will discuss how agile methodologies are shaping the way business operates and how many opportunities it brings to us in terms of creating an international startup community in Berlin.
-
-Anna Wiese - Manager International Startups At Berlin Partner:
-Anna is responsible for the internationalization of Berlin-based startups. In her role she is supporting companies in their global expansion by organizing delegation trips e.g., to the USA, China, UAE, France and the UK.
-
-Kemal Apaydin - CEO, Alon Health
-With over 10+ years of startup experience and a successful exit in the US, he is an award-winning entrepreneur recognized by prestigious publications like Forbes and TechCrunch. Additionally, he has had the privilege of being a speaker at more than 100 events, including TEDx conferences, and he serves as a mentor and advisor for various organizations, including TUSIAD.
-",International Startup Communities in Berlin,"Anna Wiese and Kemal Apaydin will discuss how agile methodologies are shaping the way business operates and how many opportunities it brings to us in terms of creating an international startup community in Berlin.
-
-Anna Wiese - Manager International Startups At Berlin Partner:
-Anna is responsible for the internationalization of Berlin-based startups. In her role she is supporting companies in their global expansion by organizing delegation trips e.g., to the USA, China, UAE, France and the UK.
-
-Kemal Apaydin - CEO, Alon Health
-With over 10+ years of startup experience and a successful exit in the US, he is an award-winning entrepreneur recognized by prestigious publications like Forbes and TechCrunch. Additionally, he has had the privilege of being a speaker at more than 100 events, including TEDx conferences, and he serves as a mentor and advisor for various organizations, including TUSIAD.
-",Wednesday,18:00:00,21:00:00,,,No,info@engelnest.de,,https://www.linkedin.com/events/berlincoworkingtalks-unitingide7104741533773348864/comments/,,,engelnest
-9/8/2023 13:48:50,TGZ Prignitz - Wittenberge,Good Morning Wittenberge - Coworking Breakfast,Breakfast with coworkers from the Wittenberge coworking space. Get to know our community and the space in a relaxed atmosphere. We will provide rolls and coffee... Feel free to stay for coworking afterwards.,Guten Morgen Wittenberge - Coworking Frühstück,Gemeinsames Frühstück mit Coworker*innen aus dem Wittenberger Coworking Space. Lernt  in lockerer Atmosphäre unsere Community und die Räume kennen. Für Schrippen und Kaffee sorgen wir... Bleibt anschließend gerne zum Coworking da.,Thursday,10:00:00,11:30:00,,,No,coworking@elblandwerker.de,,,,,wittenberge
-9/8/2023 14:02:16,TGZ Prignitz - Wittenberge,After Cowork Drinks ,"After a day in our coworking space, meet the elblandwerker* at Easy Friday at the Stadtsalon Safari at Bismarckplatz in downtown Wittenberge. Cool drinks are available for a donation... Please sign up with a short email to coworking@elblandwerker.de.",After Cowork Drinks,Triff nach einem Tag in unserem Coworking Space die elblandwerker* beim Easy Friday im Stadtsalon Safari am Bismarckplatz in der Innenstadt von Wittenberge. Kühle Getränke gibt es gegen Spende... Bitte melde dich mit einer kurzen E-Mail an coworking@elblandwerker.de an.,Friday,19:00:00,23:00:00,,https://elblandwerker.de/veranstaltungen/easy-friday-20/2023-09-15/,No,coworking@elblandwerker.de,,,,,wittenberge
-9/8/2023 14:21:32,TGZ Prignitz - Wittenberge,Boardgames @Stadtsalon Safari,"After a day in our coworking space, meet some elblandwerker* at the boardgame night at the Stadtsalon Safari at Bismarckplatz in downtown Wittenberge. A sociable round where we all play all kinds of games together or in several groups. In German or English, as needed. From classics like Settlers of Catan, Carcassone, etc. to new games like Palaeo, Love Letter, Coup and variations of Werewolf, it's all here. Feel free to bring your own games, the more the merrier. Please sign up with a short email to coworking@elblandwerker.de.",Spieleabend im Stadtsalon Safari,"Triff nach einem Tag in unserem Coworking Space ein paar elblandwerker* beim Spieleabend im Stadtsalon Safari am Bismarckplatz in der Innenstadt von Wittenberge. Eine gesellige Runde, in der wir alle zusammen oder in mehreren Gruppen alle möglichen Spiele spielen. Je nach Bedarf in Deutsch oder Englisch. Von Klassikern wie Siedler von Catan, Carcassone etc. zu neuen Spielen wie Palaeo, Love Letter, Coup und Variationen von Werwolf, ist alles dabei. Bringt gerne auch eure eigenen Spiele mit, je mehr desto besser.
-Bitte melde dich mit einer kurzen E-Mail an coworking@elblandwerker.de an.",Tuesday,18:30:00,22:00:00,,https://elblandwerker.de/veranstaltungen/spieleabend-im-safari-35/,No,coworking@elblandwerker.de,,,,,wittenberge
-9/11/2023 15:04:55,SimpliOffice,Daypass 4 free for SimpliOffice Potsdam,"Your free Flex Desk at SimpliOffice Potsdam at the Jungfernsee. Test and experience our space for one week free of charge with sports room, cooking robot and gaming (Mon 11.9. to Fri 15.9.23, daily 9 am - 6 pm, limited number of places). ",Kostenlose Tagestickets für SimpliOffice Potsdam,"Dein kostenloser Flex Desk im SimpliOffice Potsdam am Jungfernsee. Teste und erlebe unseren Space eine Woche lang kostenlos mit Sportraum, Kochroboter und Gaming (Mo 11.9. bis Fr. 15.9.23, begrenzte Platzzahl). ",Tuesday,09:00:00,18:00:00,,https://www.simplioffice.de/potsdam,No,hello@simplioffice.com,,https://www.eventbrite.de/e/kostenloses-tagesticket-fur-den-coworking-space-simplioffice-potsdam-tickets-717082130957?aff=oddtdtcreator,,,simplioffice
-9/11/2023 15:07:44,SimpliOffice,dayticket 4 free for SimpliOffice Potsdam,"Your free Flex Desk at SimpliOffice Potsdam at the Jungfernsee. Test and experience our space for one week free of charge with sports room, cooking robot and gaming (Mon 11.9. to Fri 15.9.23, daily 9 am - 6 pm, limited number of places).",Kostenloses Tagesticket für SimpliOffice Potsdam,"Dein kostenloser Flex Desk im SimpliOffice Potsdam am Jungfernsee. Teste und erlebe unseren Space eine Woche lang kostenlos mit Sportraum, Kochroboter und Gaming (Mo 11.9. bis Fr. 15.9.23, begrenzte Platzzahl).",Wednesday,09:00:00,18:00:00,,,No,hello@simplioffice.com,,,https://www.eventbrite.de/e/kostenloses-tagesticket-fur-den-coworking-space-simplioffice-potsdam-tickets-717082130957?aff=oddtdtcreator,,simplioffice
-9/11/2023 15:10:09,SimpliOffice,Daypass for free for SimpliOffice Potsdam,"Your free Flex Desk at SimpliOffice Potsdam at the Jungfernsee. Test and experience our space for one week free of charge with sports room, cooking robot and gaming (Mon 11.9. to Fri 15.9.23, daily 9 am - 6 pm, limited number of places).",Kostenloses Tagesticket für den Coworking Space SimpliOffice Potsdam,"Dein kostenloser Flex Desk im SimpliOffice Potsdam am Jungfernsee. Teste und erlebe unseren Space eine Woche lang kostenlos mit Sportraum, Kochroboter und Gaming (Mo 11.9. bis Fr. 15.9.23, begrenzte Platzzahl).",Thursday,09:00:00,18:00:00,,,No,hello@simplioffice.com,,,https://www.eventbrite.de/e/kostenloses-tagesticket-fur-den-coworking-space-simplioffice-potsdam-tickets-717082130957?aff=oddtdtcreator,,simplioffice
-9/11/2023 15:13:52,SimpliOffice,Daypass for free for SimpliOffice Potsdam,"Your free Flex Desk at SimpliOffice Potsdam at the Jungfernsee. Test and experience our space for one week free of charge with sports room, cooking robot and gaming (Mon 11.9. to Fri 15.9.23, daily 9 am - 6 pm, limited number of places).",Kostenloses Tagesticket für SimpliOffice Potsdam,"Dein kostenloser Flex Desk im SimpliOffice Potsdam am Jungfernsee. Teste und erlebe unseren Space eine Woche lang kostenlos mit Sportraum, Kochroboter und Gaming (Mo 11.9. bis Fr. 15.9.23, begrenzte Platzzahl).",Friday,09:00:00,18:00:00,,,No,hello@simplioffice.com,,,https://www.eventbrite.de/e/kostenloses-tagesticket-fur-den-coworking-space-simplioffice-potsdam-tickets-717082130957?aff=oddtdtcreator,,simplioffice
-9/12/2023 8:29:21,TGZ Prignitz - Wittenberge,5 Steps for your morning routine,"Impulse lecture ""5 Steps for your morning routine"": Our coworker Susan Brennicke gives you 5 impulses for a pleasant morning routine, because as Louise Hay already said: ""How you start your day, is how you live your day."" Creating your first few minutes in the morning make a difference in how you feel and what you focus on. If you'd like to learn a bit about the morning routine in advance, feel free to check out Susan's website: www.eazybreazy.de. Please register with a short email to coworking@elblandwerker.de. ",5 Steps für Deine Morgenroutine,"Impulsvortrag „5 Steps für Deine Morgenroutine“: Unsere Coworkerin Susan Brennicke gibt Dir 5 Impulse für eine angenehme Morgenroutine mit, denn wie Louise Hay schon sagte: „How you start your day, is how you live your day.“ Die Gestaltung Deiner ersten Minuten am Morgen bewirken einen Unterschied, indem wie Du Dich fühlst und worauf Du Deinen Fokus lenkst. Wenn Du vorab schon ein bisschen zum Thema Morgenroutine erfahren möchtest, schau gern auf Susans Website vorbei: www.eazybreazy.de. Melde dich bitte mit einer kurzen E-Mail an coworking@elblandwerker.de an. ",Thursday,09:30:00,10:00:00,,,No,coworking@elblandwerker.de,,,,,wittenberge
+Wenn Arbeiten und Reisen zusammentreffen: Chancen für unseren Tourismus!",Mittwoch / Wednesday,19:00:00,20:30:00,,https://www.facebook.com/events/1199398638015409,https://www.linkedin.com/events/7237407293267443713,https://www.eventbrite.de/e/lernt-unsere-coworking-community-besser-kennen-workation-coworkation-tickets-744965410597,,No,https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F633624289%2F127983638867%2F1%2Foriginal.20231102-141744?w=940&auto=format%2Ccompress&q=75&sharp=10&s=8ec0d3509cfcb3e0851a9b1f44c1ef9e,bad-tölz
+05.09.2024 12:49:16,servus@coworking-badtoelz.de,Coworking Bad Tölz,Tag der offenen Türe - Lernt unsere Community kennen,Wir öffnen unsere Türe,Freitag / Friday,10:00:00,14:00:00,,https://www.facebook.com/events/435757152826670,https://www.linkedin.com/events/7237410887102324736/,https://www.eventbrite.de/e/tag-der-offenen-ture-lernt-unsere-community-kennen-tickets-1009162872317?aff=oddtdtcreator,,No,https://media.licdn.com/dms/image/v2/D4D1EAQHRt7RTyYWtzg/event-background-image-crop_720_1280/event-background-image-crop_720_1280/0/1725533218831?e=1726138800&v=beta&t=7aqqybMh65XEa7fKYkkBJIQqq-lVSWcLt8LQ3JZ9rR8,bad-tölz

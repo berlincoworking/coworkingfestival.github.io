@@ -2,7 +2,10 @@
 layout: default-de
 title: Veranstaltungskalender
 lang: de-DE
-description: 'Quer durch Berlin & Brandenburg finden Events statt rund um Technologie, Marketing, Business, Community-Building, und vielem mehr. Ganz egal, ob du Workshops besuchen, dich mit anderen Experten in deinem Gebiet, oder einfach nur deine neuen Coworker suchst: Hier wirst du fündig. (Der Kalender ist noch im Aufbau und es kommen täglich Events hinzu.)'
+description: 'Überall in Deutschland finden Events statt rund um Technologie, Marketing, Business, Community-Building,
+und der neuen Arbeitrealität. Ganz egal, ob du Workshops besuchen, dich mit anderen Experten in deinem
+Gebiet austauschen, oder einfach nur deine
+neuen Coworker suchst: Hier wirst du fündig. (Der Kalender ist noch im Aufbau und es kommen regelmäßig Events hinzu.)'
 ---
 
 <div class="container">
@@ -11,20 +14,20 @@ description: 'Quer durch Berlin & Brandenburg finden Events statt rund um Techno
     <p class="text-huge">
       {{ page.description }}
     </p>
-    <!-- <div class="flex items-center flex-wrap justify-end">
+    <div class="flex items-center flex-wrap justify-end">
       <p class="pr4 tr">
         Fehlt dein Coworking-Space oder Event?
       </p>
       <p>
-        <a class="pr4" href="https://forms.gle/26FFoPf4aJzVFmVF8">
+        <a class="pr4" href="https://events.coworking-germany.org/cowo-fest-24/">
           👉 Melde deinen Space an
         </a>
 
-        <a class="pr4" href="https://forms.gle/nGFosnRTXrnH2Zoi6">
+        <a class="pr4" href="https://docs.google.com/forms/d/e/1FAIpQLSe-vvmeYfGaqS3UXv64TGaS4kQ0DUkrMMoN9BWwQgzwpoWBAw/viewform">
           👉 Füge dein Event hinzu
         </a>
       </p>
-    </div> -->
+    </div>
   </div>
 </div>
 
@@ -35,11 +38,11 @@ description: 'Quer durch Berlin & Brandenburg finden Events statt rund um Techno
     <div class="section section--64 mb5">
       <h2>
         <a href="#montag" id="montag">
-          Montag, 11. September
+          Montag, 23. September
         </a>
       </h2>
       {% for event in sorted %}
-      {% if event.weekday == "Monday" %}
+      {% if event.weekday == "Montag / Monday" %}
       {% include event-de.html %}
       {% endif %}
       {% endfor %}
@@ -52,11 +55,11 @@ description: 'Quer durch Berlin & Brandenburg finden Events statt rund um Techno
     <div class="section section--64 mb5">
       <h2>
         <a href="#dienstag" id="dienstag">
-          Dienstag, 12. September
+          Dienstag, 24. September
         </a>
       </h2>
       {% for event in sorted %}
-      {% if event.weekday == "Tuesday" %}
+      {% if event.weekday == "Dienstag / Tuesday" %}
       {% include event-de.html %}
       {% endif %}
       {% endfor %}
@@ -69,11 +72,11 @@ description: 'Quer durch Berlin & Brandenburg finden Events statt rund um Techno
     <div class="section section--64 mb5">
       <h2>
         <a href="#mittwoch" id="mittwoch">
-          Mittwoch, 13. September
+          Mittwoch, 25. September
         </a>
       </h2>
       {% for event in sorted %}
-      {% if event.weekday == "Wednesday" %}
+      {% if event.weekday == "Mittwoch / Wednesday" %}
       {% include event-de.html %}
       {% endif %}
       {% endfor %}
@@ -86,11 +89,11 @@ description: 'Quer durch Berlin & Brandenburg finden Events statt rund um Techno
     <div class="section section--64 mb5">
       <h2>
         <a href="#donnerstag" id="donnerstag">
-          Donnerstag, 14. September
+          Donnerstag, 26. September
         </a>
       </h2>
       {% for event in sorted %}
-      {% if event.weekday == "Thursday" %}
+      {% if event.weekday == "Donnerstag / Thursday" %}
       {% include event-de.html %}
       {% endif %}
       {% endfor %}
@@ -102,10 +105,10 @@ description: 'Quer durch Berlin & Brandenburg finden Events statt rund um Techno
   <div class="container">
     <div class="section section--64 mb5">
       <h2>
-        <a href="#freitag" id="freitag">Freitag, 15. September</a>
+        <a href="#freitag" id="freitag">Freitag, 27. September</a>
       </h2>
       {% for event in sorted %}
-      {% if event.weekday == "Friday" %}
+      {% if event.weekday == "Freitag / Friday" %}
       {% include event-de.html %}
       {% endif %}
       {% endfor %}
