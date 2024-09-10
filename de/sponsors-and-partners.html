@@ -11,7 +11,7 @@ description: 'Wir danken unseren Enablern, Sponsoren und Partnern für ihre Unte
     <h2 class="lh-title">Enabler</h2>
     {% for enabler in site.data.enablers %}
     <div class="container">
-      <a href=" {{ enabler.url }}" target="_blank">
+      <a href=" {{ enabler.url }}?utm_source=coworkingfestival&utm_medium=enablers&utm_content=logo" target="_blank">
         <img class="mw6" src="{{ site.baseurl }}/img/logos/{{ enabler.logo }}" alt="{{enabler.name}} Logo" />
       </a>
       <h3>{{ enabler.name }}</h3>
@@ -22,7 +22,7 @@ description: 'Wir danken unseren Enablern, Sponsoren und Partnern für ihre Unte
     <h2 class="lh-title">Partner</h2>
     {% for partner in site.data.partners %}
     <div class="container">
-      <a href="{{ partner.url }}" target="_blank">
+      <a href="{{ partner.url }}?utm_source=coworkingfestival&utm_medium=partners&utm_content=logo" target="_blank">
         <img class="mw6" src="{{ site.baseurl }}/img/partners/{{ partner.logo }}" alt="{{ partner.name }} Logo">
       </a>
       <h3>{{ partner.name }}</h3>
