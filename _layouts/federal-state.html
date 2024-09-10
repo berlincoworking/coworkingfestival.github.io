@@ -9,5 +9,13 @@ germanonly: true
   </div>
   {% assign federal_spaces = site.spaces | where: "space_state", page.name %}
   {% include participating-spaces.html participating_spaces = federal_spaces %}
-</div>
+  {% if page.name == "Brandenburg" %}
+  <div class="section section--64">
+    <h3> supported by</h3>
+    <a href="https://www.tourismusnetzwerk-brandenburg.de/" target="_blank" rel="noopener">
+      <img class="mw6" src="{{ site.baseurl }}/img/partners/tmb-logo.png" alt="TMB Tourismus-Marketing Brandenburg" />
+    </a>
+    <h4>TMB Tourismus-Marketing Brandenburg</h4>
+  </div>
+  {% endif %}
 </div>
