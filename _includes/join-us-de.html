@@ -1,4 +1,5 @@
-{% assign space = site.spaces | where: "image_format", truthy | sample %}
+{% assign spaces_with_photos = site.spaces | where_exp: "item", "item.image_format > ''" %}
+{% assign space = spaces_with_photos | sample %}
 <div class="container mb6">
   <div class="section section--64 media-content">
     <div class="media-content__media">
