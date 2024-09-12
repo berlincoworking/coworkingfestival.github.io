@@ -1,5 +1,5 @@
 ---
-space_id: badtoelz
+space_id: bad-toelz
 name: "Coworking Bad Tölz"
 logo_format: "png"
 image_format: "jpg"
