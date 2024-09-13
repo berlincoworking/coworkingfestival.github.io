@@ -10,4 +10,6 @@ address: |
   Gaißacher Str. 8 <br>
   83646
   Bad Tölz
+redirect_from:
+  - /de/spaces/badtoelz/
 ---
