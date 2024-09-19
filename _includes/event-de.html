@@ -1,28 +1,33 @@
 {% assign current_space_id = event.space_id %}
 
 {% for space in site.spaces %}
-  {% if space.space_id == current_space_id %}
-    {% assign current_space = space %}
-  {% endif %}
+{% if space.space_id == current_space_id %}
+{% assign current_space = space %}
+{% endif %}
 {% endfor %}
 
 <div class="event border-with-shadow pa4 pa5-l">
   <h4 class="event__details">
     <div class="event__time">
       <span class="event__weekday">
-      {% if event.weekday == "Montag / Monday" %}
+        {% if event.weekday == "Montag / Monday" %}
         Montag
-      {% elsif event.weekday == "Dienstag / Tuesday" %}
+        {% elsif event.weekday == "Dienstag / Tuesday" %}
         Dienstag
-      {% elsif event.weekday == "Mittwoch / Wednesday" %}
+        {% elsif event.weekday == "Mittwoch / Wednesday" %}
         Mittwoch
-      {% elsif event.weekday == "Donnerstag / Thursday" %}
+        {% elsif event.weekday == "Donnerstag / Thursday" %}
         Donnerstag
-      {% else %}
+        {% else %}
         Freitag
-      {% endif %},
+        {% endif %},
       </span>
       {{event.start_time | date: "%R"}}&nbsp;-&nbsp;{{event.end_time | date: "%R"}} Uhr
+      <span>
+        {% if page.url != current_space.url %}
+        @ {{ current_space.name }}
+        {% endif %}
+      </span>
     </div>
     <div class="event__location">
       <a href="{{ current_space.url }}">{{event.space}}</a>
@@ -56,25 +61,25 @@
 
       <div>
         {% if event.url or event.fb_url or event.meetup_url or event.eventbrite_url or event.linkedin_url %}
-          {% if event.url %}
-            <a href="{{ event.url }}" target="_blank" class="mr3">
+        {% if event.url %}
+        <a href="{{ event.url }}" target="_blank" class="mr3">
           {% elsif event.eventbrite_url %}
-              <a href="{{ event.eventbrite_url }}" target="_blank" class="mr3">
-          {% elsif event.meetup_url %}
-              <a href="{{ event.meetup_url }}" target="_blank" class="mr3">
-          {% elsif event.fb_url %}
-            <a href="{{ event.fb_url }}" target="_blank"  class="mr3">
-          {% elsif event.linkedin_url %}
-              <a href="{{ event.linkedin_url }}" target="_blank" class="mr3">
-          {% endif %}
-             Event-Seite
-          </a>
-        {% endif %}
-        {% if page.url != current_space.url %}
-        <a href="{{ current_space.url }}" class="">
-          Space-Profil
-        </a>
-        {% endif %}
+          <a href="{{ event.eventbrite_url }}" target="_blank" class="mr3">
+            {% elsif event.meetup_url %}
+            <a href="{{ event.meetup_url }}" target="_blank" class="mr3">
+              {% elsif event.fb_url %}
+              <a href="{{ event.fb_url }}" target="_blank" class="mr3">
+                {% elsif event.linkedin_url %}
+                <a href="{{ event.linkedin_url }}" target="_blank" class="mr3">
+                  {% endif %}
+                  Event-Seite
+                </a>
+                {% endif %}
+                {% if page.url != current_space.url %}
+                <a href="{{ current_space.url }}" class="">
+                  Space-Profil
+                </a>
+                {% endif %}
       </div>
 
     </div>

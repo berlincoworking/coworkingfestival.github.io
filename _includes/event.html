@@ -23,6 +23,11 @@
         {% endif %},
       </span>
       {{event.start_time | date: "%I:%M%P"}}&nbsp;-&nbsp;{{event.end_time | date: "%I:%M%P"}}
+      <span></span>
+      {% if page.url != current_space.url %}
+      @ {{ current_space.name }}
+      {% endif %}
+      </span>
     </div>
     <div class="event__location">
       <a href="{{ current_space.url }}">{{event.space}}</a>
