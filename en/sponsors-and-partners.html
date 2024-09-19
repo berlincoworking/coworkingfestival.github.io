@@ -7,6 +7,17 @@ description: 'We thank our enablers, sponsors and partners for their support.'
 <div class="container">
   <div class="section section--64 mb6">
     <h1 class="lh-title">{{ page.title }}</h1>
+    <h2 class="lh-title">Sponsors</h2>
+    {% for sponsor in site.data.sponsors %}
+    <div class="container">
+      <a href=" {{ sponsor.url }}?utm_source=coworkingfestival&utm_medium=website&utm_campaign=sponsor&utm_content=logo"
+        target="_blank">
+        <img class="mw6" src="{{ site.baseurl }}/img/logos/{{ sponsor.logo }}" alt="{{sponsor.name}} Logo" />
+      </a>
+      <h4>{{ sponsor.claim }}</h4>
+    </div>
+    {% endfor %}
+
     <h2 class="lh-title">Enablers</h2>
     {% for enabler in site.data.enablers %}
     <div class="container">
@@ -14,7 +25,7 @@ description: 'We thank our enablers, sponsors and partners for their support.'
       <a href="{{ enabler.url }}" target="_blank">
         <img class="mw6" src="{{ site.baseurl }}/img/logos/{{ enabler.logo }}" alt="{{enabler.name}} Logo" />
       </a>
-      <h3>{{ enabler.name }}</h3>
+      <h4>{{ enabler.claim_en | default: enabler.name }}</h4>
     </div>
     {% endfor %}
   </div>
@@ -24,7 +35,7 @@ description: 'We thank our enablers, sponsors and partners for their support.'
     <div class="container">
       <a href="{{ partner.url }}" target="_blank"><img class="mw6"
           src="{{ site.baseurl }}/img/partners/{{ partner.logo }}" alt="{{ partner.name }} Logo"></a>
-      <h3>{{ partner.name }}</h3>
+      <h4>{{ partner.name }}</h4>
     </div>
     {% endfor %}
   </div>

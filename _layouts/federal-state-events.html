@@ -1,0 +1,22 @@
+---
+layout: default-de
+germanonly: true
+---
+
+<div class="container pv6 overflow-hidden">
+  <div class="section section--64">
+    <h2>Teilnehmende Spaces in {{page.name}}</h2>
+  </div>
+  {% assign federal_spaces = site.spaces | where: "space_state", page.name %}
+  {% include participating-spaces.html participating_spaces = federal_spaces %}
+  {% if page.name == "Brandenburg" %}
+  <div class="section section--64">
+    <h3> supported by</h3>
+    <a href="https://www.tourismusnetzwerk-brandenburg.de/?utm_source=coworkingfestival&utm_medium=sponsoring&utm_content=logo"
+      target="_blank" rel="noopener">
+      <img class="mw6" src="{{ site.baseurl }}/img/partners/tmb-logo.png" alt="TMB Tourismus-Marketing Brandenburg" />
+    </a>
+    <h4>TMB Tourismus-Marketing Brandenburg</h4>
+  </div>
+  {% endif %}
+</div>
