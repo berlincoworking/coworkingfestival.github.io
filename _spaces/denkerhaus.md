@@ -1,6 +1,7 @@
 ---
 space_id: denkerhaus
 name: Ammersee Denkerhaus
+image_format: jpg
 space_state: Bayern
 link: https://www.ammersee-denkerhaus.de
 description: |
