@@ -10,6 +10,12 @@
         target="_blank">{{ enabler.name }}</a>{{enabler.claim_en}}
       <br>
       {% endfor %}
+
+      {% for sponsor in site.data.sponsors %}
+      <a href="{{ sponsor.url }}?utm_source=coworkingfestival&utm_medium=website&utm_content=sponsor-link&utm_campaign=sponsoring"
+        target="_blank">{{ sponsor.name }}</a> {{sponsor.claim}}
+      <br>
+      {% endfor %}
     </p>
   </div>
   <div class="footer__meta">
