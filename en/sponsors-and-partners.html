@@ -22,7 +22,7 @@ description: 'We thank our enablers, sponsors and partners for their support.'
     {% for enabler in site.data.enablers %}
     <div class="container">
 
-      <a href="{{ enabler.url }}" target="_blank">
+      <a href="{{ enabler.url }}?utm_source=coworkingfestival&utm_medium=enablers&utm_content=logo" target="_blank">
         <img class="mw6" src="{{ site.baseurl }}/img/logos/{{ enabler.logo }}" alt="{{enabler.name}} Logo" />
       </a>
       <h4>{{ enabler.claim_en | default: enabler.name }}</h4>
@@ -33,8 +33,8 @@ description: 'We thank our enablers, sponsors and partners for their support.'
     <h2 class="lh-title">Partners</h2>
     {% for partner in site.data.partners %}
     <div class="container">
-      <a href="{{ partner.url }}" target="_blank"><img class="mw6"
-          src="{{ site.baseurl }}/img/partners/{{ partner.logo }}" alt="{{ partner.name }} Logo"></a>
+      <a href="{{ partner.url }}?utm_source=coworkingfestival&utm_medium=partners&utm_content=logo" target="_blank"><img
+          class="mw6" src="{{ site.baseurl }}/img/partners/{{ partner.logo }}" alt="{{ partner.name }} Logo"></a>
       <h4>{{ partner.name }}</h4>
     </div>
     {% endfor %}
